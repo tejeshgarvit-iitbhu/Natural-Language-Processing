@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1157 http://www.deshbandhu.co.in/news/specialstory-up-youth-killed-by-bomb-attack-after-shooting-105352-1 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="19" TYPE_REL="EVENT_ARG"/> उप्र </PLACE-ARG> : युवक पर बम से हमले के बाद <MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> गोलीमार </MAN_MADE_EVENT> कर हत्या 
+
+ <PLACE-ARG ID="9"><LINK EVENT_ARG="0" ID="33" TYPE_REL="EVENT_ARG"/> जनपद </PLACE-ARG> के <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="34" TYPE_REL="EVENT_ARG"/> गंगाघाट कोतवाली क्षेत्र </PLACE-ARG> की <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="35" TYPE_REL="EVENT_ARG"/> मिश्रा कॉलोनी </PLACE-ARG> में <TIME-ARG ID="15"><LINK EVENT_ARG="0" ID="36" TYPE_REL="EVENT_ARG"/> सोमवार सुबह </TIME-ARG> बदमाशों ने <CASUALTIES-ARG ID="19"><LINK EVENT_ARG="0" ID="20" TYPE_REL="EVENT_ARG"/> एक युवक पर बम से हमला करने के बाद उसकी गोली मारकर हत्या कर दी </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="18" ID="24" TYPE_REL="EVENT_ARG"/> उप्र </PLACE-ARG> : युवक पर बम से हमले के बाद <MAN_MADE_EVENT ID="18" TYPE="SHOOT_OUT"> गोलीमार </MAN_MADE_EVENT> कर हत्या 
+
+ <PLACE-ARG ID="5"><LINK EVENT_ARG="18" ID="28" TYPE_REL="EVENT_ARG"/> उन्नाव। </PLACE-ARG><PLACE-ARG ID="6"><LINK EVENT_ARG="18" ID="29" TYPE_REL="EVENT_ARG"/> जनपद </PLACE-ARG> के <PLACE-ARG ID="7"><LINK EVENT_ARG="18" ID="27" TYPE_REL="EVENT_ARG"/> गंगाघाट कोतवाली क्षेत्र </PLACE-ARG> की <PLACE-ARG ID="8"><LINK EVENT_ARG="18" ID="26" TYPE_REL="EVENT_ARG"/> मिश्रा कॉलोनी </PLACE-ARG> में <TIME-ARG ID="16"><LINK EVENT_ARG="18" ID="25" TYPE_REL="EVENT_ARG"/> सोमवार सुबह </TIME-ARG> बदमाशों ने एक युवक पर बम से हमला करने के बाद उसकी गोली मारकर हत्या कर दी। घटना के बाद पुलिस प्रशासन में हड़कंप मच गया। मौके पर पहुंची पुलिस ने शव को पोस्टमार्टम के लिए भेज दिया है और जांच-पड़ताल में जुट गई है। 
+
+ पुलिस के अनुसार, <PLACE-ARG ID="10"><LINK EVENT_ARG="14" ID="30" TYPE_REL="EVENT_ARG"/> गंगाघाट कोतवाली क्षेत्र </PLACE-ARG> की <PLACE-ARG ID="11"><LINK EVENT_ARG="14" ID="31" TYPE_REL="EVENT_ARG"/> मिश्रा कॉलोनी </PLACE-ARG> निवासी विनय उर्फ बीनू पुत्र राजकिशोर पर <TIME-ARG ID="17"><LINK EVENT_ARG="14" ID="32" TYPE_REL="EVENT_ARG"/> सोमवार सुबह </TIME-ARG> घर के पास ही कुछ लोगों ने बम से हमला कर दिया। विनय के गिरते ही हमलावरों में से एक ने उसे <MAN_MADE_EVENT ID="14" TYPE="SHOOT_OUT"> गोली मार </MAN_MADE_EVENT> दी और भाग निकले। अचानक बम और गोली चलने से इलाके में भगदड़ मच गई। लोगों ने घटना की सूचना युवक के परिजनों को दी। परिजन उसे नर्सिगहोम ले गए, जहां उसकी नाजुक हालत देखकर उसे कानपुर के हैलट अस्पताल के लिए रेफर कर दिया गया। हैलेट ले जाते वक्त रास्ते में ही विनय ने दम तोड़ दिया। 
+
+ दिनदहाड़े हत्या की खबर मिलते ही पुलिस में हडकम्प मच गया। मौके पर एसपी नार्थ अनूप सिंह के साथ सीओ (सिटी) स्वतंत्र सिंह समेत तमाम अधिकारी पहुंचे और पड़ताल की। 
+
+ उधर, मृतक के बारे में बताया जा रहा है कि वह कॉलोनी में गांजा बेचता था। उसकी बहन का आरोप है कि उसकी भाभी ने ही उसके भाई पर हमला कराया है। फिलहाल पुलिस मामले की जांच में जुटी है। 
+
+</DOCUMENT>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>2660 <PLACE-ARG ID="15"><LINK EVENT_ARG="2" ID="18" TYPE_REL="EVENT_ARG"/> கவுதமாலாவில் </PLACE-ARG><NATURAL_EVENT ID="2" TYPE="LIMNIC_ERRUPTIONS"> வெடித்து சிதறிய </NATURAL_EVENT><NAME-ARG ID="14"><LINK EVENT_ARG="2" ID="19" TYPE_REL="EVENT_ARG"/> பியுகோ எரிமலை </NAME-ARG> - <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="2" ID="20" TYPE_REL="EVENT_ARG"/> 6 பேர் பலி </CASUALTIES-ARG>
+
+ கவுதமாலா தலைநகரை ஒட்டிய பகுதியில் அமைந்துள்ள <NAME-ARG ID="4"><LINK EVENT_ARG="5" ID="21" TYPE_REL="EVENT_ARG"/> பியுகோ எரிமலை </NAME-ARG><NATURAL_EVENT ID="5" TYPE="LIMNIC_ERRUPTIONS"> வெடித்து சிதறியதில் </NATURAL_EVENT><CASUALTIES-ARG ID="6"><LINK EVENT_ARG="5" ID="22" TYPE_REL="EVENT_ARG"/> ஆறு பேர் உயிரிழந்ததாக </CASUALTIES-ARG> தகவல்கள் வெளியாகியுள்ளன. 
+
+ கவுதமாலா சிட்டி: 
+
+ கவுதமாலா நாட்டின் தலைநகரனான கவுதமாலா சிட்டியில் இருந்து தென்மேற்கு பகுதியில் <NAME-ARG ID="16"><LINK EVENT_ARG="17" ID="23" TYPE_REL="EVENT_ARG"/> பியுகோ என்னும் எரிமலை </NAME-ARG> உள்ளது. இந்த எரிமலை கடந்த சில நாட்களாக <NATURAL_EVENT ID="17" TYPE="LIMNIC_ERRUPTIONS"> வெடித்து சிதறும் </NATURAL_EVENT> நிலையில் இருந்தது. இதனால் அதிலிருந்து கரும்புகை வெளியாகி வந்தன. இதையடுத்து அப்பகுதியில் இருந்தவர்களை வெளியேறுமாறு அரசு அறிவித்தது. 
+
+ இந்நிலையில், இந்த எரிமலை <TIME-ARG ID="7"><LINK EVENT_ARG="8" ID="24" TYPE_REL="EVENT_ARG"/> நேற்றிரவு </TIME-ARG><NATURAL_EVENT ID="8" TYPE="LIMNIC_ERRUPTIONS"> வெடித்து சிதறியது. </NATURAL_EVENT> அதிலிருந்து எரிமலை குழம்பு அனைத்து திசைகளிலும் வழிந்தன. இந்த எரிமலை வெடிப்பிற்கு பின்னர் இதுவரை <CASUALTIES-ARG ID="10"><LINK EVENT_ARG="8" ID="25" TYPE_REL="EVENT_ARG"/> 6 பேர் உயிரிழந்ததாக </CASUALTIES-ARG> அதிகாரிகள் தெரிவித்துள்ளனர். 
+
+ <AFTER_EFFECTS-ARG ID="11"><LINK EVENT_ARG="8" ID="26" TYPE_REL="EVENT_ARG"/> வீடடு ஒன்றில் தீப்பிடித்ததில், </AFTER_EFFECTS-ARG> ஒரே குடும்பத்தை சேர்ந்த <CASUALTIES-ARG ID="12"><LINK EVENT_ARG="8" ID="27" TYPE_REL="EVENT_ARG"/> நான்கு பேர் உயிரிழந்தனர். </CASUALTIES-ARG> மற்ற இரு சிறுவர்கள் எரிமலை வெடிப்பை பார்த்துக் கொண்டிருந்தபோது உயிரிழந்ததாக தெரிவிக்கப்பட்டுள்ளது. <CASUALTIES-ARG ID="28"><LINK EVENT_ARG="8" ID="29" TYPE_REL="EVENT_ARG"/> 20க்கும் மேற்பட்டோர் காயமடைந்ததாகவும் </CASUALTIES-ARG> அதிகாரிகள் தெரிவித்துள்ளனர். 
+
+</DOCUMENT>

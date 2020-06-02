@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1121 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="3" ID="12" TYPE_REL="EVENT_ARG"/> Three killed </CASUALTIES-ARG> in 2 separate <MAN_MADE_EVENT ID="3" TYPE="ACCIDENTS"> accidents </MAN_MADE_EVENT>
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="5" ID="13" TYPE_REL="EVENT_ARG"/> Jaipur: </PLACE-ARG><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="5" ID="14" TYPE_REL="EVENT_ARG"/> Three people including a mother and daughter were killed </CASUALTIES-ARG> in two separate road <MAN_MADE_EVENT ID="5" TYPE="ACCIDENTS"> accidents </MAN_MADE_EVENT> at Mohana and Chaksu police station areas in the city <TIME-ARG ID="4"><LINK EVENT_ARG="5" ID="15" TYPE_REL="EVENT_ARG"/> on Tuesday. </TIME-ARG>
+
+ A 20-year-old youth studying in the city was mowed down by a dumper carrying sand around Dholai area near Mohana in the city. The accident took place while the driver of the dumper was accelerating the vehicle as a team of police and RTO were chasing him. “The youth was identified as Shyam Lal alias Bablu, a native of Tonk and was staying at a rented accommodation in the city,” said a senior police officer. Police have seized the truck and have registered a case under appropriate sections of IPC. 
+
+ In another road accident <CASUALTIES-ARG ID="6"><LINK EVENT_ARG="7" ID="16" TYPE_REL="EVENT_ARG"/> a mother and a daughter were killed </CASUALTIES-ARG> and <CASUALTIES-ARG ID="11"><LINK EVENT_ARG="7" ID="17" TYPE_REL="EVENT_ARG"/> two other family members were injured </CASUALTIES-ARG> in a head-on <MAN_MADE_EVENT ID="7" TYPE="VEHICULAR_COLLISION"> collision </MAN_MADE_EVENT> between a jeep and a motorbike <PLACE-ARG ID="8"><LINK EVENT_ARG="7" ID="18" TYPE_REL="EVENT_ARG"/> near Kothun Bypass near Chaksu </PLACE-ARG> in the <TIME-ARG ID="9"><LINK EVENT_ARG="7" ID="19" TYPE_REL="EVENT_ARG"/> morning. </TIME-ARG> “Hanuman (35) was travelling on a bike along with his wife Anita (27), and two daughters Khushi (11) and Garima (10 months) when the accident took place. Anita died on the spot while the infant succumbed to injuries in the hospital,” said a senior police officer. 
+
+ Police have registered a case of causing death due to negligence against the driver of the unidentified jeep. Locals also jammed Jaipur-Tonk route for some hours. 
+
+</DOCUMENT>

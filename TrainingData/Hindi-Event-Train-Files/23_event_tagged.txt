@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>2073 https://www.jagran.com/world/middle-east-death-toll-rises-to-20-in-nangarhar-suicide-bombing-18088544.html 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> अफगानिस्तान: </PLACE-ARG> ईद के जश्न के बीच <MAN_MADE_EVENT ID="0" TYPE="NORMAL_BOMBING"> कार बम </MAN_MADE_EVENT> से हमला, <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> 26 लोगों की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> काबुल, </PLACE-ARG><PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> रायटर/एएफपी। </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> अफगानिस्तान </PLACE-ARG> में <PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> नांगरहार प्रांत </PLACE-ARG> के कस्बे में <TIME-ARG ID="7"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> शनिवार </TIME-ARG> को हुए <MAN_MADE_EVENT ID="8" TYPE="NORMAL_BOMBING"> कार बम विस्फोट </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="9"><LINK EVENT_ARG="8" ID="18" TYPE_REL="EVENT_ARG"/> 26 लोग मारे गए। </CASUALTIES-ARG> लोग ईद के मौके पर एकत्रित हुए थे, तभी यह हमला हुआ। मौके पर मौजूद लोगों में बड़ी संख्या में <PARTICIPANT-ARG ID="17"><LINK EVENT_ARG="8" ID="19" TYPE_REL="EVENT_ARG"/> तालिबान और सुरक्षा बलों के जवान </PARTICIPANT-ARG> थे। ईद के मौके पर तालिबान ने संघर्षविराम का एलान कर रखा है। हमले की जिम्मेदारी <PARTICIPANT-ARG ID="20"><LINK EVENT_ARG="8" ID="21" TYPE_REL="EVENT_ARG"/> आतंकी संगठन आइएस </PARTICIPANT-ARG> ने ली है। 
+
+ ईद के मौके पर शनिवार को बड़ी संख्या में हथियार विहीन तालिबान काबुल और अन्य शहरों में एकत्रित हुए और सुरक्षा बलों के जवानों से गले मिले, उनके साथ सेल्फी ली। झंडा लिए तालिबान की फोटो लेने के लिए सड़क पर आए आमजनों के कारण काबुल के दक्षिण और दक्षिण-पूर्वी द्वारों पर जाम की स्थिति पैदा हो गई। लेकिन कुछ प्रांतों में तालिबान और अन्य संगठनों के लड़ाके राइफल, रॉकेट लांचर, ग्रेनेड इत्यादि लेकर नमाज स्थल पर आए। नांगरहार प्रांत के गवर्नर के प्रवक्ता अताउल्ला खोगयानी के अनुसार <PLACE-ARG ID="23"><LINK EVENT_ARG="22" ID="25" TYPE_REL="EVENT_ARG"/> गाजी अमीनुल्ला खान कस्बे </PLACE-ARG> में <MAN_MADE_EVENT ID="22" TYPE="NORMAL_BOMBING"> कार बम </MAN_MADE_EVENT> हमले में <CASUALTIES-ARG ID="24"><LINK EVENT_ARG="22" ID="26" TYPE_REL="EVENT_ARG"/> 26 लोग मारे गए हैं। </CASUALTIES-ARG> यह कस्बा तोरखम-जलालाबाद रोड के किनारे स्थित है। 
+
+ सरकार ने संघर्षविराम बढ़ाया 
+
+ अफगानिस्तान के राष्ट्रपति अशरफ गनी ने तालिबान के साथ संघर्षविराम को बढ़ाने का एलान किया है, तालिबान की ओर से प्रतिक्रिया का इंतजार है। अमेरिका ने शांति प्रक्रिया का समर्थन करने की घोषणा की है। तालिबान ने फिलहाल तीन दिन के लिए संघर्षविराम की घोषणा की है। 
+
+</DOCUMENT>

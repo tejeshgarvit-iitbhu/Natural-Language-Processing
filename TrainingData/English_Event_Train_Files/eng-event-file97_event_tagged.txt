@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>123 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="3" ID="9" TYPE_REL="EVENT_ARG"/> 16 killed </CASUALTIES-ARG> in car <MAN_MADE_EVENT ID="3" TYPE="TRANSPORT_HAZARDS"> crash </MAN_MADE_EVENT><PLACE-ARG ID="1"><LINK EVENT_ARG="3" ID="10" TYPE_REL="EVENT_ARG"/> in Thailand&apos;s northeast </PLACE-ARG>
+
+ <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> At least 16 people were killed </CASUALTIES-ARG> when a pickup truck <MAN_MADE_EVENT ID="4" TYPE="TRANSPORT_HAZARDS"> crashed </MAN_MADE_EVENT> into a tree on <PLACE-ARG ID="5"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> a rural road in Thailand’s northeast, </PLACE-ARG> according to police. 
+
+ Police Col. Suthee Setthawong says the pickup truck carrying a number of construction workers slammed into a big tree next to <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="13" TYPE_REL="EVENT_ARG"/> a road in Ban Dan district in Buriram province </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> on Monday. </TIME-ARG>
+
+ Police believe the driver fell asleep while driving, he said. Police found a tablet of methamphetamine in his pocket and a bottle of alcohol next to his seat. 
+
+ <PLACE-ARG ID="8"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> Buriram is 300 kilometers northeast of Thailand’s capital Bangkok. </PLACE-ARG>
+
+</DOCUMENT>

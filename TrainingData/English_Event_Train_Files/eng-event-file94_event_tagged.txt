@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>156 Traffic <MAN_MADE_EVENT ID="7" TYPE="VEHICULAR_COLLISION"> pile-up </MAN_MADE_EVENT><CASUALTIES-ARG ID="0"><LINK EVENT_ARG="7" ID="10" TYPE_REL="EVENT_ARG"/> kills 9, injures 76 </CASUALTIES-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="7" ID="11" TYPE_REL="EVENT_ARG"/> in eastern China </PLACE-ARG>
+
+ <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="8" ID="12" TYPE_REL="EVENT_ARG"/> Nine people died and 76 others were injured </CASUALTIES-ARG> when at least 26 vehicles <MAN_MADE_EVENT ID="8" TYPE="VEHICULAR_COLLISION"> crashed </MAN_MADE_EVENT> on a foggy highway <PLACE-ARG ID="3"><LINK EVENT_ARG="8" ID="13" TYPE_REL="EVENT_ARG"/> in eastern China, </PLACE-ARG> state media reported on Saturday. 
+
+ <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="9" ID="15" TYPE_REL="EVENT_ARG"/> Five deaths </CASUALTIES-ARG> were reported after the <TIME-ARG ID="5"><LINK EVENT_ARG="9" ID="14" TYPE_REL="EVENT_ARG"/> accident on Friday morning </TIME-ARG><PLACE-ARG ID="6"><LINK EVENT_ARG="9" ID="16" TYPE_REL="EVENT_ARG"/> on a highway linking Shanghai and Shaanxi province. </PLACE-ARG> Fire engulfed 11 vehicles involved in the <MAN_MADE_EVENT ID="9" TYPE="VEHICULAR_COLLISION"> pile-up. </MAN_MADE_EVENT>
+
+ Four more people died in hospital on Saturday, the municipal government of Hefei, capital of Anhui province, told the Xinhua news agency. 
+
+</DOCUMENT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>171 <PLACE-ARG ID="1"><LINK EVENT_ARG="3" ID="9" TYPE_REL="EVENT_ARG"/> China </PLACE-ARG> schoolbus <MAN_MADE_EVENT ID="3" TYPE="VEHICULAR_COLLISION"> crash </MAN_MADE_EVENT><CASUALTIES-ARG ID="0"><LINK EVENT_ARG="3" ID="10" TYPE_REL="EVENT_ARG"/> kills 11 children </CASUALTIES-ARG>
+
+ Chinese state media said a minibus used to transport students <MAN_MADE_EVENT ID="4" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT> with a truck <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> in eastern China, </PLACE-ARG><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> killing 11 kindergarten children. </CASUALTIES-ARG>
+
+ The official Xinhua News Agency says the minibus driver was also killed in the <MAN_MADE_EVENT ID="8" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT><TIME-ARG ID="7"><LINK EVENT_ARG="8" ID="13" TYPE_REL="EVENT_ARG"/> on Wednesday </TIME-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="8" ID="14" TYPE_REL="EVENT_ARG"/> in Shandong province. </PLACE-ARG> Citing police, Xinhua said the minibus was hired by a kindergarten as a school bus and was carrying more passengers than it was supposed to. 
+
+ A series of accidents have focused public anger on school bus safety in rural areas, where there is a shortage of education funds and children are often forced to travel long distances because of school closures. 
+
+</DOCUMENT>

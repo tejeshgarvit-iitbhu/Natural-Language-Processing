@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>177 https://www.punjabkesari.in/international/news/massive-fire-in-american-forests-813674 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> अमरीका </PLACE-ARG> में भीषण <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग </MAN_MADE_EVENT> का तांडवः <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> सैंकड़ों घर जलकर खाक, हजारों लोग हुए बेघर </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="3" ID="12" TYPE_REL="EVENT_ARG"/> वॉशिंगटन: </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="3" ID="13" TYPE_REL="EVENT_ARG"/> अमरीका </PLACE-ARG> के <PLACE-ARG ID="6"><LINK EVENT_ARG="3" ID="14" TYPE_REL="EVENT_ARG"/> कैलिफोर्निया, </PLACE-ARG><PLACE-ARG ID="7"><LINK EVENT_ARG="3" ID="15" TYPE_REL="EVENT_ARG"/> कोलोराडो </PLACE-ARG> और <PLACE-ARG ID="8"><LINK EVENT_ARG="3" ID="16" TYPE_REL="EVENT_ARG"/> न्यू मेक्सिको </PLACE-ARG> के जंगलों में फैली भीषण <MAN_MADE_EVENT ID="3" TYPE="FIRE"> आग </MAN_MADE_EVENT> के तांडव कारण <CASUALTIES-ARG ID="9"><LINK EVENT_ARG="3" ID="17" TYPE_REL="EVENT_ARG"/> सैंकडों घर जलकर खाक हो गए। </CASUALTIES-ARG> ऑरेंज काउंटी दमकल प्रशासन के अनुसार, लॉस एंजेलिस के लगभग 50 मील दक्षिण में कैलिफोर्निया के लागुना बीच के इलाके की वनस्पतियों में लगी आग से लगभग 250 एकड़ जमीन बर्बाद हो गई 400 से अधिक अग्निशामक आग पर नियंत्रण बनाने की कोशिश कर रहे हैं। 
+
+ &apos;सीएनएन&apos; की रिपोर्ट के अनुसार, <TIME-ARG ID="18"><LINK EVENT_ARG="3" ID="19" TYPE_REL="EVENT_ARG"/> शनिवार रात </TIME-ARG> तक आग पर काबू नहीं पाया जा सका था।आग से अब तक किसी के हताहत होने या भवनों के नुकसान की खबर नहीं मिली है, लेकिन लगुना बीच के आसपास से निकासी प्रक्रिया जारी है। शनिवार तक लगभग 2,000 निवासियों को यहां से निकाला जा चुका है। अमरीकी वन विभाग के प्रवक्ता जिम मैकेंसन ने बताया कि कोलाराडो ला प्लाटा काउंटी में आग को 416 फायर का नाम दिया गया है। इससे अभी तक 1,100 एकड़ की जमीन जलकर खाक हो गई है।वहीं, शनिवार सुबह तक घास और लकड़ियों की वजह से आग का फैलना जारी है. 
+
+</DOCUMENT>

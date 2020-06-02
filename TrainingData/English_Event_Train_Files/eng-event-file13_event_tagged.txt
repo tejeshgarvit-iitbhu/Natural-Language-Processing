@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>183 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="2" ID="9" TYPE_REL="EVENT_ARG"/> At least 9 killed </CASUALTIES-ARG> in <PLACE-ARG ID="1"><LINK EVENT_ARG="2" ID="10" TYPE_REL="EVENT_ARG"/> Niger </PLACE-ARG><MAN_MADE_EVENT ID="2" TYPE="SUICIDE_ATTACK"> suicide attacks: </MAN_MADE_EVENT> Official 
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="11" ID="12" TYPE_REL="EVENT_ARG"/> NIAMEY: </PLACE-ARG><CASUALTIES-ARG ID="4"><LINK EVENT_ARG="11" ID="13" TYPE_REL="EVENT_ARG"/> At least nine people were killed </CASUALTIES-ARG> in three <MAN_MADE_EVENT ID="11" TYPE="SUICIDE_ATTACK"> suicide bombings </MAN_MADE_EVENT> in <PLACE-ARG ID="6"><LINK EVENT_ARG="11" ID="14" TYPE_REL="EVENT_ARG"/> southeastern Niger near the border with Nigeria, </PLACE-ARG> a local official said Tuesday. 
+
+ The <MAN_MADE_EVENT ID="7" TYPE="SUICIDE_ATTACK"> attacks </MAN_MADE_EVENT> occurred late <TIME-ARG ID="8"><LINK EVENT_ARG="7" ID="15" TYPE_REL="EVENT_ARG"/> on Monday </TIME-ARG> in the regional capital of Diffa, a frequent target of attacks by the Boko Haram jihadist group, the official, who asked not to be identified, told AFP 
+
+</DOCUMENT>

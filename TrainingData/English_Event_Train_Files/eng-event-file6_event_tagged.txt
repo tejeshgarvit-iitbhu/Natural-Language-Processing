@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>418 US citizen <MAN_MADE_EVENT ID="0" TYPE="CRIME"> killed </MAN_MADE_EVENT> in <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> Nicaragua </PLACE-ARG> amid unrest 
+
+ <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="4" ID="8" TYPE_REL="EVENT_ARG"/> More than 110 people have been killed </CASUALTIES-ARG> in <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> Nicaragua </PLACE-ARG> during <MAN_MADE_EVENT ID="4" TYPE="CRIME"> clashes </MAN_MADE_EVENT> between forces loyal to <PARTICIPANT-ARG ID="5"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> President Daniel Ortega and opposition groups. </PARTICIPANT-ARG>
+
+ Nicaraguan authorities say a US citizen has been <MAN_MADE_EVENT ID="6" TYPE="CRIME"> killed </MAN_MADE_EVENT> in the streets of Managua as violence and social unrest continue to grip the country’s capital. The Legal Medical Institute said Saturday that Sixto Henry Vera was found beside two burned out vehicles with a bullet wound to the head. 
+
+ Employees at the Managua bar that Vera owned say he left Friday evening to help a friend who was under attack. 
+
+ US ambassador to Nicaragua Laura Dogu confirmed Vera was a US citizen and condemned his death via Twitter. 
+
+ More than 110 people have been killed in Nicaragua during clashes between forces loyal to President Daniel Ortega and opposition groups. 
+
+</DOCUMENT>

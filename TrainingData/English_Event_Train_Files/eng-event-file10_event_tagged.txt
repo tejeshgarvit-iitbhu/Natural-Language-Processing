@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>792 <MAGNITUDE-ARG ID="11"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> 6.1 </MAGNITUDE-ARG><NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> jolts <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> northern India, tremors felt in Delhi-NCR </PLACE-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> NEW DELHI: </PLACE-ARG> A <MAGNITUDE-ARG ID="3"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> 6.1 magnitude </MAGNITUDE-ARG><NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> on the <PLACE-ARG ID="5"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> Afghanistan-Tajikistan border </PLACE-ARG> region <TIME-ARG ID="6"><LINK EVENT_ARG="4" ID="18" TYPE_REL="EVENT_ARG"/> on Wednesday </TIME-ARG> shook several parts of north India, including the national capital and the Kashmir Valley, the met department said. 
+
+ The <NATURAL_EVENT ID="7" TYPE="EARTHQUAKE"> quake, </NATURAL_EVENT> which was felt in the Delhi-NCR region as well as the Kashmir Valley, led to panic in some parts with people rushing outdoors for safety. 
+
+ There were no reports of any damage due to the <NATURAL_EVENT ID="12" TYPE="EARTHQUAKE"> earthquake, </NATURAL_EVENT> officials said. 
+
+ &quot;The epicentre of the <NATURAL_EVENT ID="8" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> was <PLACE-ARG ID="9"><LINK EVENT_ARG="8" ID="19" TYPE_REL="EVENT_ARG"/> near the Afghanistan- Tajikistan border </PLACE-ARG> and occurred at a <DEPTH-ARG ID="10"><LINK EVENT_ARG="8" ID="20" TYPE_REL="EVENT_ARG"/> depth of around 190 kilometres,&quot; </DEPTH-ARG> an official said in Srinagar. 
+
+ In New Delhi, Delhi Metro trains were halted briefly but services were not disrupted, said a Delhi Metro official. 
+
+ The tremors were felt strongly in the Valley, with people rushing out of buildings and vehicles. 
+
+ Officials snapped electricity supply briefly as a precautionary measure. 
+
+ For many people in Kashmir, the tremors recalled the nightmare of the October 2005 earthquake that flattened wide parts of Jammu and Kashmir on either side of the Line of Control. 
+
+</DOCUMENT>

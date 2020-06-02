@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1039 <PLACE-ARG ID="0"><LINK EVENT_ARG="2" ID="6" TYPE_REL="EVENT_ARG"/> Noida: </PLACE-ARG><MAN_MADE_EVENT ID="2" TYPE="FIRE"> Fire </MAN_MADE_EVENT> breaks out in <NAME-ARG ID="5"><LINK EVENT_ARG="2" ID="7" TYPE_REL="EVENT_ARG"/> Sector 18 commercial complex </NAME-ARG>
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="3" ID="8" TYPE_REL="EVENT_ARG"/> NOIDA: </PLACE-ARG> A <MAN_MADE_EVENT ID="3" TYPE="FIRE"> fire </MAN_MADE_EVENT> broke out in the storeroom of a commercial complex at 8th floor in Sector 18 market <TIME-ARG ID="4"><LINK EVENT_ARG="3" ID="9" TYPE_REL="EVENT_ARG"/> on Saturday evening at 6pm. </TIME-ARG> The police and firefighters reached the spot on time and controlled the flames in one hour. No one was injured. 
+
+ Kuldeep Kumar, Fire Safety Officer, Noida said that the incident took place in the storeroom of a firm named ARS Solutions Pvt Ltd in JOP Plaza in Sector 18. 
+
+ “The fire originated from a storeroom of office located in the adjacent flat. The company workers immediately evacuated the premise and alerted police. Three firefighters were rushed to the spot and they doused the fire,” he said. 
+
+ The firefighters reached the floor using stairs as the hydraulic platform could not reach the congested area. Kumar said that some disused furniture and cushion was stuffed in the storeroom. “The storeroom was locked for some months. Prima facie it seems the fire originated due to short circuit. But all the persons safely left the spot and no one was injured,” he said. 
+
+</DOCUMENT>

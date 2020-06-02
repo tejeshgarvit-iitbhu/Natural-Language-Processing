@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>159 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="4" ID="8" TYPE_REL="EVENT_ARG"/> One killed, one injured </CASUALTIES-ARG> in <MAN_MADE_EVENT ID="4" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT><PLACE-ARG ID="5"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> near Pantnagar </PLACE-ARG>
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="3" ID="10" TYPE_REL="EVENT_ARG"/> RUDRAPUR: </PLACE-ARG><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="3" ID="11" TYPE_REL="EVENT_ARG"/> A 32-year-old man was killed and another was injured </CASUALTIES-ARG> when the motorcycle they were riding was <MAN_MADE_EVENT ID="3" TYPE="VEHICULAR_COLLISION"> hit </MAN_MADE_EVENT> by an unidentified vehicle at <PLACE-ARG ID="6"><LINK EVENT_ARG="3" ID="12" TYPE_REL="EVENT_ARG"/> Nainital road near Pantnagar industrial area in Rudrapur </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="3" ID="13" TYPE_REL="EVENT_ARG"/> on Monday. </TIME-ARG>
+
+ Police said that Sunil Babbar, a resident of main market, had gone to Gularbhoj, around 25 km from the city. Sunil was with his friend, Pappu, a resident of Rampura colony. While they were heading back to Rudrapur, they met with the accident. 
+
+ Locals informed police and they were rushed to JL Nehru district hospital, where doctors declared Sunil brought dead and referred Pappu to a higher centre. 
+
+ The body of the deceased was handed over to family after autopsy. A case under has been registered against unknown people with SIDCUL police outpost and investigation is on. 
+
+</DOCUMENT>

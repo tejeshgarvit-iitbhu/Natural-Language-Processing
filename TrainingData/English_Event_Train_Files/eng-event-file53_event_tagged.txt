@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>304 <NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> Earthquake </NATURAL_EVENT> hits <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> Turkish tourist resort; </PLACE-ARG> no injuries reported 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="3" ID="14" TYPE_REL="EVENT_ARG"/> ISTANBUL: </PLACE-ARG> The US Geological Survey says an <NATURAL_EVENT ID="3" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> measuring 5.3 has struck 14 kilometers off the shore of <PLACE-ARG ID="4"><LINK EVENT_ARG="3" ID="15" TYPE_REL="EVENT_ARG"/> Bodrum, a busy tourist city on Turkey&apos;s Mediterranean coast. </PLACE-ARG> There have been no reports of any injuries. 
+
+ According to Turkey&apos;s Disaster and Emergency Management agency, the <NATURAL_EVENT ID="5" TYPE="EARTHQUAKE"> earthquake, </NATURAL_EVENT> which struck <TIME-ARG ID="7"><LINK EVENT_ARG="5" ID="16" TYPE_REL="EVENT_ARG"/> just before 11 AM today </TIME-ARG> , had a preliminary <MAGNITUDE-ARG ID="6"><LINK EVENT_ARG="5" ID="17" TYPE_REL="EVENT_ARG"/> magnitude of 4.9. </MAGNITUDE-ARG>
+
+ The quake&apos;s epicenter was southeast of Bodrum, a popular destination for domestic and international tourists. It struck at a <DEPTH-ARG ID="8"><LINK EVENT_ARG="5" ID="18" TYPE_REL="EVENT_ARG"/> depth of nine kilometers (5.59 miles), </DEPTH-ARG> according to the agency. 
+
+ Residents of Izmir, Turkey&apos;s third largest city, felt light tremors from the <NATURAL_EVENT ID="9" TYPE="EARTHQUAKE"> earthquake, </NATURAL_EVENT> which came about two weeks after a powerful <NATURAL_EVENT ID="12" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> struck the <PLACE-ARG ID="11"><LINK EVENT_ARG="12" ID="19" TYPE_REL="EVENT_ARG"/> nearby Greek island of Kos, </PLACE-ARG><CASUALTIES-ARG ID="10"><LINK EVENT_ARG="12" ID="20" TYPE_REL="EVENT_ARG"/> killing two tourists and injuring more than 500 people. </CASUALTIES-ARG>
+
+</DOCUMENT>

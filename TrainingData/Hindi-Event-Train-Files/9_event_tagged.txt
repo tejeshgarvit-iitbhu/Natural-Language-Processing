@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1023 http://hindi.webdunia.com/article/national-hindi-news/%E0%A4%AA%E0%A4%BE%E0%A4%95-%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%80%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AC%E0%A5%80%E0%A4%8F%E0%A4%B8%E0%A4%8F%E0%A4%AB-%E0%A4%9C%E0%A4%B5%E0%A4%BE%E0%A4%A8-%E0%A4%B6%E0%A4%B9%E0%A5%80%E0%A4%A6-110011100140_1.htm 
+
+ <PARTICIPANT-ARG ID="1"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> पाक </PARTICIPANT-ARG><MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> में <PARTICIPANT-ARG ID="2"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> बीएसएफ </PARTICIPANT-ARG> जवान शहीद 
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> जम्मू-कश्मीर </PLACE-ARG> के <PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> पुंछ जिले </PLACE-ARG> में नियंत्रण रेखा पर <TIME-ARG ID="6"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> सोमवार </TIME-ARG> को सीमापार से हुई गोलीबारी में <PARTICIPANT-ARG ID="10"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> सीमा सुरक्षा बल (बीएसएफ) </PARTICIPANT-ARG> का <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> एक जवान शहीद हो गया। </CASUALTIES-ARG>
+
+ सेना के एक अधिकारी ने बताया कि पुंछ जिले में <PLACE-ARG ID="9"><LINK EVENT_ARG="0" ID="18" TYPE_REL="EVENT_ARG"/> सब्जैन अग्रिम रक्षा इलाके (एफडीएल) </PLACE-ARG> में <TIME-ARG ID="8"><LINK EVENT_ARG="0" ID="19" TYPE_REL="EVENT_ARG"/> आज पूर्वाह्न लगभग साढ़े ग्यारह बजे </TIME-ARG> भारी गोलीबारी की गई। सीमापार से हुई <MAN_MADE_EVENT ID="25" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> में <PARTICIPANT-ARG ID="26"><LINK EVENT_ARG="25" ID="28" TYPE_REL="EVENT_ARG"/> बीएसएफ </PARTICIPANT-ARG> का <CASUALTIES-ARG ID="27"><LINK EVENT_ARG="25" ID="29" TYPE_REL="EVENT_ARG"/> एक जवान शूरवीरसिंह शहीद हो गया। </CASUALTIES-ARG>
+
+ उन्होंने बताया कि हमारे सैनिकों ने भी जवाबी <MAN_MADE_EVENT ID="20" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> की और इस वजह से आधे घंटे तक दोनों ओर से गोलीबारी होती रही। 
+
+ वहीं, इसी इलाके में अग्रिम चौकी पर दो रॉकेट दागे जाने की खबर है। इन्हें क्रमश: <TIME-ARG ID="21"><LINK EVENT_ARG="20" ID="23" TYPE_REL="EVENT_ARG"/> पूर्वाह्न करीब 11 बजकर 35 मिनट और 11 बजकर 45 मिनट </TIME-ARG> पर दागा गया। 
+
+ सीमापार से भारतीय सीमा के अंदर घुसपैठ के प्रयासों में बढ़ोतरी होने की खबरों के मद्देनजर सैनिकों को और अधिक अलर्ट कर दिया गया है। इस बीच, <PARTICIPANT-ARG ID="22"><LINK EVENT_ARG="20" ID="24" TYPE_REL="EVENT_ARG"/> बीएसएफ के जवानों </PARTICIPANT-ARG> ने आज सुबह अखनूर सेक्टर में अल्फा माचील सीमा चौकी पर घुसपैठ की कोशिश को नाकाम कर दिया। (भाषा) 
+
+</DOCUMENT>

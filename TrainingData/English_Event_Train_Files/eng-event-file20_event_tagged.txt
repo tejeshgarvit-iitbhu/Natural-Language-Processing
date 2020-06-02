@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>216 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="9" TYPE_REL="EVENT_ARG"/> Man charred to death </CASUALTIES-ARG> as car catches <MAN_MADE_EVENT ID="1" TYPE="FIRE"> fire </MAN_MADE_EVENT><PLACE-ARG ID="4"><LINK EVENT_ARG="1" ID="10" TYPE_REL="EVENT_ARG"/> in Chennai </PLACE-ARG>
+
+ <PLACE-ARG ID="5"><LINK EVENT_ARG="2" ID="11" TYPE_REL="EVENT_ARG"/> CHENNAI: </PLACE-ARG> A 35-year-old man was charred to death after his car caught <MAN_MADE_EVENT ID="2" TYPE="FIRE"> fire </MAN_MADE_EVENT> near Retteri here in the early hours of <TIME-ARG ID="6"><LINK EVENT_ARG="2" ID="12" TYPE_REL="EVENT_ARG"/> Sunday. </TIME-ARG> The car hit the road median and caught <MAN_MADE_EVENT ID="3" TYPE="FIRE"> fire </MAN_MADE_EVENT><TIME-ARG ID="8"><LINK EVENT_ARG="3" ID="13" TYPE_REL="EVENT_ARG"/> around 1am, </TIME-ARG> police said. 
+
+ The deceased has been identified as Dakshinamoorthy of Vadapalani. The accident happened when he was returning to Chennai after visiting Srikalahasti temple in Andhra Pradesh. 
+
+ Around 10.30pm on Saturday, Dakshinamoorthy called up his wife and told her that he had performed pujas and would reach home by 12.30am. 
+
+ Police said Dakshinamoorthy might have slept at the wheels, leading to the accident. He could not escape from the car when it caught fire. 
+
+ The body was sent to Kilpauk Medical College and Hospital for postmortem. 
+
+ The Tirumangalam traffic investigation police registered a case. 
+
+</DOCUMENT>

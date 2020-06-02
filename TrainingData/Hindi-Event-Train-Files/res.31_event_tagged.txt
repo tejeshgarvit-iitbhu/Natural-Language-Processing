@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>2978 https://www.punjabkesari.in/international/news/two-people-killed-in-south-west-germany-firing-804747 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> दक्षिण-पश्चिम जर्मनी </PLACE-ARG> में <MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> 2 लोगों की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> बर्लिन: </PLACE-ARG><PLACE-ARG ID="4"><LINK EVENT_ARG="9" ID="15" TYPE_REL="EVENT_ARG"/> दक्षिण पश्चिम शहर </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="9" ID="14" TYPE_REL="EVENT_ARG"/> सारब्रुकेन </PLACE-ARG> के नजदीक <MAN_MADE_EVENT ID="9" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="11"><LINK EVENT_ARG="9" ID="16" TYPE_REL="EVENT_ARG"/> दो लोगों के मरने की खबर है। </CASUALTIES-ARG> एक अन्य अखबार ने शनिवार को खबर दी कि पुलिस ने एक संदिग्ध को हिरासत में लिया है। 
+
+ जानकारी के मुताबिक <MAN_MADE_EVENT ID="13" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> शहर के दक्षिण पूर्व स्थित <PLACE-ARG ID="10"><LINK EVENT_ARG="13" ID="17" TYPE_REL="EVENT_ARG"/> फेचिंग इलाके </PLACE-ARG> में हुई। जिसमें <CASUALTIES-ARG ID="12"><LINK EVENT_ARG="13" ID="18" TYPE_REL="EVENT_ARG"/> कई लोग जख्मी हुए हैं </CASUALTIES-ARG> जिसे पुलिस ने घरेलू हिंसा की घटना करार दिया है। विस्तृत ब्यौरे की प्रतीक्षा है। 
+
+</DOCUMENT>

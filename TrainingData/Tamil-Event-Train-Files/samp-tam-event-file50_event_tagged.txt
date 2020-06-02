@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1181 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> பொலிவியாவில் </PLACE-ARG> சக்தி வாய்ந்த <NATURAL_EVENT ID="1" TYPE="EARTHQUAKE"> நில நடுக்கம்: </NATURAL_EVENT><MAGNITUDE-ARG ID="2"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவு 6.8 </MAGNITUDE-ARG> ஆக பதிவு 
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> தென் அமெரிக்க நாடான பொலிவியாவில் </PLACE-ARG> சக்தி வாய்ந்த <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. இந்த <NATURAL_EVENT ID="6" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT><MAGNITUDE-ARG ID="5"><LINK EVENT_ARG="6" ID="15" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவுகோலில் 6.8 </MAGNITUDE-ARG> ஆக பதிவாகியது. 
+
+ இதுகுறித்து அமெரிக்க புவியியல் ஆய்வு மையம், <PLACE-ARG ID="7"><LINK EVENT_ARG="9" ID="16" TYPE_REL="EVENT_ARG"/> &quot;தென் அமெரிக்க நாடான பொலிவியாவில் பராகுவே எல்லை ஓரத்தில் </PLACE-ARG><DEPTH-ARG ID="8"><LINK EVENT_ARG="9" ID="17" TYPE_REL="EVENT_ARG"/> 562 கிலோமீட்டர் ஆழத்திற்கு </DEPTH-ARG> சக்தி வாய்ந்த <NATURAL_EVENT ID="9" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. இந்த <NATURAL_EVENT ID="10" TYPE="EARTHQUAKE"> நில நடுக்கம் </NATURAL_EVENT><MAGNITUDE-ARG ID="11"><LINK EVENT_ARG="10" ID="18" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவுகோலில் 6.8 ஆக </MAGNITUDE-ARG> பதிவாகியது. இந்த நிலநடுக்கத்தின் அதிர்வுகள் நாட்டின் பல இடங்களில் உணரப்பட்டுள்ளது” என்று கூறியுள்ளது. 
+
+ நிலநடுக்கம் ஏற்பட்டதைத் தொடர்ந்து மக்கள் அலுவலகங்கள், வணிக வளாகங்கள், வீடுகளிலிருந்து வெளியேறி சாலைக்கு ஓடி வந்ததாகவும். பொலிவியாவில் சமீபத்தில் ஏற்பட்ட சக்தி வாய்ந்த நிலநடுக்கம் இதுதான் என்றும் அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. 
+
+ இந்த நிலநடுக்கம் குறித்து பொலிவியாவில் வசிக்கும் வழக்கறிஞர் ஒருவர் கூறும்போது, &quot;நான் லேசான நிலநடுக்க உணர்வை உணர்ந்தேன். ஜன்னலில் போடப்பட்டிருந்த திரை அதிர தொடங்கியது. உடனடியாக நானும் பிற ஊழியர்களும் அலுவலகத்திலிருந்து வெளியேறி விட்டோம்&quot; என்றார். 
+
+ இந்த நிலநடுக்கத்தினால் ஏற்பட்ட பாதிப்புகள் குறித்த தகவல் ஏதும் இதுவரை வெளி வரவில்லை. 
+
+</DOCUMENT>

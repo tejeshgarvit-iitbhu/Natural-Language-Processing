@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1624 https://punjab.punjabkesari.in/punjab/news/fire-in-cloth-factory-829878 
+
+ कपड़े की फैक्टरी में लगी <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग </MAN_MADE_EVENT>
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="3" TYPE_REL="EVENT_ARG"/> अमृतसर(रमन):अमृतसर </PLACE-ARG> में कपड़े की फैक्टरी में भयानक आग लगने की सूचना है। उक्त फैक्टरी <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="4" TYPE_REL="EVENT_ARG"/> वेरका बाईपास </PLACE-ARG> के पास स्थित हैं। 
+
+ <REASON-ARG ID="3"><LINK EVENT_ARG="0" ID="4" TYPE_REL="EVENT_ARG"/> आग लगने का कारण शार्ट सर्किट बताया जा रहा है। </REASON-ARG> इस पर काबू पाने के लिए फायर ब्रिगेड की 12 गाड़ियां मौके पर मौजूद हैं। फिलहाल आग पर काबू पाने की कोशिश की गई। 
+
+</DOCUMENT>

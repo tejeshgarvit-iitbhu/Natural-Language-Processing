@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>166 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="8" TYPE_REL="EVENT_ARG"/> தாய்லாந்து </PLACE-ARG><MAN_MADE_EVENT ID="1" TYPE="TRANSPORT_HAZARDS"> பேருந்து விபத்து: </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="9" TYPE_REL="EVENT_ARG"/> 17 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> தாய்லாந்து நாட்டில் </PLACE-ARG> நடந்த <MAN_MADE_EVENT ID="4" TYPE="TRANSPORT_HAZARDS"> பேருந்து விபத்தில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> 17 பேர் பலியாகினர். 33 பேர் காயமடைந்தனர். </CASUALTIES-ARG>
+
+ இதுகுறித்து தாய்லாந்து அதிகாரிகள் தரப்பில், <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> தாய்லாந்தில் வடகிழக்கு பகுதியிலுள்ள நக்ஹான் ராட்ச்ஹசஸ்மா மாகாணத்தில் </PLACE-ARG> இரண்டு அடுக்கு பேருந்து ஒன்று கட்டுப்பாட்டை இழந்து மரத்தின்மீது மோதியது. இதில் அப்பேருந்தில் பயணம் செய்த <CASUALTIES-ARG ID="7"><LINK EVENT_ARG="4" ID="13" TYPE_REL="EVENT_ARG"/> 17 பேர் பலியாகினர். 33 பேர் காயமடைந்தனர்” </CASUALTIES-ARG> என்றனர். 
+
+ காயமடைந்தவர்களின் 10 பேரின் நிலைமை கவலைக்கிடமாக உள்ளதால் பலி எண்ணிக்கி அதிகரிக்கும் என்று அஞ்சப்படுகிறது. விபத்துக்கான காரணம் குறித்து போலீஸார் விசாரணையில் ஈடுபட்டு வருகின்றனர். 
+
+ மியான்மரில்தான் சாலை விபத்துகள் காரணமாக அதிகம் மரணங்கள் நிகழ்கின்றன. கடந்த ஆண்டு மட்டும் சாலை விபத்து காரணமாக 24,000 பேர் பலியாகியுள்ளனர். 
+
+</DOCUMENT>

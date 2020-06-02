@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1447 https://punjab.punjabkesari.in/latest-news/news/2-died-in-accident-706330 
+
+ <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> सड़क हादसों </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> 2 की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> समाना/राजपुरा </PLACE-ARG> (शशिपाल/निर्दोष): <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> समाना-पातड़ां </PLACE-ARG> सड़क पर स्थित बुड्ढा दल पब्लिक स्कूल के नजदीक <TIME-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> सोमवार सायं </TIME-ARG> हुई ट्रक व बाइक की टक्कर में युवक की मौत हो गई। बलदेव सिंह के परिजनों ने बताया कि वह गिल पैलेस में आयोजित एक विवाह समारोह में शामिल होकर सायं बाइक पर घर वापस आ रहा था कि उक्त दुर्घटना हो गई। सिटी पुलिस ने बताया कि ट्रक व उसके चालक को पुलिस ने काबू कर मामले की जांच शुरू कर दी है। 
+
+ वहीं <PLACE-ARG ID="9"><LINK EVENT_ARG="10" ID="14" TYPE_REL="EVENT_ARG"/> राजपुरा अंबाला रोड </PLACE-ARG> पर <PLACE-ARG ID="11"><LINK EVENT_ARG="10" ID="13" TYPE_REL="EVENT_ARG"/> गांव बपरौर </PLACE-ARG> के पास कार की <MAN_MADE_EVENT ID="10" TYPE="ACCIDENTS"> टक्कर </MAN_MADE_EVENT> से <CASUALTIES-ARG ID="12"><LINK EVENT_ARG="10" ID="15" TYPE_REL="EVENT_ARG"/> एक व्यक्ति की मौत हो गई। </CASUALTIES-ARG> जानकारी के अनुसार गुरप्रीत सिंह अपने चाचा के बेटे के साथ बाइक पर सवार होकर गांव बपरौर के पास पहुंचा तो कार ने टक्कर मार दी। इस हादसे में गुरप्रीत सिंह की मौत हो गई और गुरतेज सिंह घायल हो गया। शंभू पुलिस ने कार चालक के खिलाफ केस दर्ज करने के बाद उसकी तलाश शुरू कर दी। 
+
+</DOCUMENT>

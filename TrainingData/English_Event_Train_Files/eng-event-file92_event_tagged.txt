@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>114 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="2" ID="10" TYPE_REL="EVENT_ARG"/> 11 killed </CASUALTIES-ARG><PLACE-ARG ID="1"><LINK EVENT_ARG="2" ID="11" TYPE_REL="EVENT_ARG"/> in Argentina </PLACE-ARG> truck-bus <MAN_MADE_EVENT ID="2" TYPE="VEHICULAR_COLLISION"> collision </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="3" ID="12" TYPE_REL="EVENT_ARG"/> At least 11 people were killed and 20 injured </CASUALTIES-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="3" ID="13" TYPE_REL="EVENT_ARG"/> on Friday </TIME-ARG> when a truck <MAN_MADE_EVENT ID="3" TYPE="VEHICULAR_COLLISION"> crashed </MAN_MADE_EVENT> into a minibus coming from the opposite direction <PLACE-ARG ID="6"><LINK EVENT_ARG="3" ID="14" TYPE_REL="EVENT_ARG"/> in Argentina’s Mendoza province, </PLACE-ARG> media reported. 
+
+ The truck <MAN_MADE_EVENT ID="7" TYPE="VEHICULAR_COLLISION"> rammed </MAN_MADE_EVENT> head-on into the minibus, carrying some 28 people, en route from Cordoba to Mendoza <PLACE-ARG ID="9"><LINK EVENT_ARG="7" ID="15" TYPE_REL="EVENT_ARG"/> on the national highway. </PLACE-ARG> Both vehicles caught fire immediately after the <MAN_MADE_EVENT ID="8" TYPE="VEHICULAR_COLLISION"> crash, </MAN_MADE_EVENT> Xinhua quoted local daily El Clarin as saying. 
+
+ “We are seeing burned, unrecognisable bodies,” said Gabriela Sosa, a journalist. 
+
+ Foreign tourists were among the injured, including two children, the report said, adding that the injured were taken to hospitals in Mendoza. 
+
+</DOCUMENT>

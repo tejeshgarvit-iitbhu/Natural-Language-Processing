@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>108 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="2" ID="8" TYPE_REL="EVENT_ARG"/> 10 killed </CASUALTIES-ARG><PLACE-ARG ID="1"><LINK EVENT_ARG="2" ID="9" TYPE_REL="EVENT_ARG"/> in Bangladesh </PLACE-ARG> train-bus <MAN_MADE_EVENT ID="2" TYPE="VEHICULAR_COLLISION"> collision </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="5" ID="10" TYPE_REL="EVENT_ARG"/> At least 10 people were killed and 50 injured </CASUALTIES-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="5" ID="12" TYPE_REL="EVENT_ARG"/> on Friday </TIME-ARG> when a train <MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT> with a bus at a railway crossing <PLACE-ARG ID="6"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> in Bangladesh’s Jhenaidah district. </PLACE-ARG>
+
+ A railway official said the train smashed the crowded bus, which was carrying a groom’s family and friends back from a wedding, bdnews24 reported. 
+
+ The train, Simanta Express, was going to Khulna from Syedpur and was passing the crossing <TIME-ARG ID="7"><LINK EVENT_ARG="5" ID="13" TYPE_REL="EVENT_ARG"/> around 3.45 am, </TIME-ARG> the official said. 
+
+ The bus carrying the bridal party drove on to the unmanned railway crossing without checking for a train. 
+
+ “The train ploughed through the bus and dragged it more than a kilometre along the tracks,” the official said. 
+
+ Local people, fire service and police began a rescue operation at the crash site and retrieved the bodies, including children and women. 
+
+ The injured were rushed to nearby hospitals. 
+
+</DOCUMENT>

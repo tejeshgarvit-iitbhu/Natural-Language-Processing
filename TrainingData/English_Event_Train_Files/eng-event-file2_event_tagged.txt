@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>280 A <MAN_MADE_EVENT ID="4" TYPE="SUICIDE_ATTACK"> suicide bomber </MAN_MADE_EVENT> exploded a device <PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="8" TYPE_REL="EVENT_ARG"/> near Muslim clerics </PLACE-ARG><TIME-ARG ID="1"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> on Monday. </TIME-ARG>
+
+ A <MAN_MADE_EVENT ID="3" TYPE="SUICIDE_ATTACK"> suicide bomber </MAN_MADE_EVENT><TIME-ARG ID="5"><LINK EVENT_ARG="3" ID="10" TYPE_REL="EVENT_ARG"/> on Monday </TIME-ARG><CASUALTIES-ARG ID="6"><LINK EVENT_ARG="3" ID="11" TYPE_REL="EVENT_ARG"/> killed at least eight people </CASUALTIES-ARG><PLACE-ARG ID="7"><LINK EVENT_ARG="3" ID="12" TYPE_REL="EVENT_ARG"/> near Muslim clerics leaving a giant tent in the Afghan capital of Kabul </PLACE-ARG> where they had gathered to denounce terrorism and call for peace, security officials said. No group immediately claimed responsibility for the attack, which underlines a worsening security situation ahead of parliamentary and district council elections set for October 20. 
+
+ A series of bombings in Kabul has killed dozens of people in recent months and shown no sign of easing during the Muslim holy month of Ramadan. On Wednesday, gunmen armed with assault rifles and grenade launchers stormed the heavily fortified headquarters of the interior ministry, battling security forces for more than two hours. 
+
+ In April, two explosions in Kabul killed at least 26 people, including nine journalists who had arrived to report on an initial blast and were targeted by a suicide bomber. A week earlier, 60 people were killed and more than 100 wounded when a suicide bomber blew himself up outside a voter registration centre in the city. 
+
+ Militant group Islamic State has claimed many attacks in Kabul but security officials say several are much more likely to be the work of the Haqqani network, a group affiliated with the Taliban, who are seeking to re-impose strict Islamic rule after their 2001 ouster by U.S.-backed forces. 
+
+ Provincial cities have also been hit as the Taliban, seeking to reimpose hardline Islamic rule, have stepped up fighting across the country since they announced the beginning of their annual spring offensive in April. 
+
+</DOCUMENT>

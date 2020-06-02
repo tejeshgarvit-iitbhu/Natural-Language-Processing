@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1745 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="5" ID="10" TYPE_REL="EVENT_ARG"/> 3 dead </CASUALTIES-ARG> as bus <MAN_MADE_EVENT ID="5" TYPE="TRANSPORT_HAZARDS"> plunges </MAN_MADE_EVENT> into gorge <PLACE-ARG ID="1"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> in Philippines </PLACE-ARG>
+
+ <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="6" ID="12" TYPE_REL="EVENT_ARG"/> Three people were killed and 40 injured </CASUALTIES-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> on Sunday </TIME-ARG> when a bus <MAN_MADE_EVENT ID="6" TYPE="TRANSPORT_HAZARDS"> fell </MAN_MADE_EVENT> into a <DEPTH-ARG ID="7"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> 35-metre </DEPTH-ARG> ravine <PLACE-ARG ID="2"><LINK EVENT_ARG="6" ID="15" TYPE_REL="EVENT_ARG"/> in the Philippines, </PLACE-ARG> police said. 
+
+ The accident occurred on <PLACE-ARG ID="8"><LINK EVENT_ARG="9" ID="16" TYPE_REL="EVENT_ARG"/> a winding road before dawn in Pagbilao town in Quezon province, </PLACE-ARG> 100 kilometres south of Manila, local police chief Von June Nuyda said. 
+
+ He said initial investigation showed the bus’ brakes malfunctioned before it <MAN_MADE_EVENT ID="9" TYPE="TRANSPORT_HAZARDS"> plunged </MAN_MADE_EVENT> into the gorge. 
+
+ He said two passengers were killed on the spot, while a third one died in hospital. Eight of the injured were in critical condition. 
+
+</DOCUMENT>

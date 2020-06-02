@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>186 http://www.deshbandhu.co.in/news/world-road-accident-in-tanzania_20-killed-105279-1 
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> निया </PLACE-ARG> में <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> सड़क दुर्घटना, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> 20 की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> दक्षिणी पश्चिमी तंजानिया क्षेत्र </PLACE-ARG> के <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> म्बेया </PLACE-ARG> में सड़क दुर्घटना में <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> 20 लोगों की मौत हो गई </CASUALTIES-ARG> जबकि 45 घायल हो गए अरुशा तंजानिया। <PLACE-ARG ID="12"><LINK EVENT_ARG="11" ID="14" TYPE_REL="EVENT_ARG"/> दक्षिणी पश्चिमी तंजानिया क्षेत्र </PLACE-ARG> के म्बेया में <MAN_MADE_EVENT ID="11" TYPE="ACCIDENTS"> सड़क दुर्घटना </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="13"><LINK EVENT_ARG="11" ID="15" TYPE_REL="EVENT_ARG"/> 20 लोगों की मौत हो गई </CASUALTIES-ARG> जबकि 45 घायल हो गए। 
+
+ समाचार एजेंसी सिन्हुआ के मुताबिक, म्बेया के क्षेत्रीय पुलिस आयुक्त मूसा तेबूा ने इस घटना की पुष्टि करते हुए कहा कि यह घटना <TIME-ARG ID="16"><LINK EVENT_ARG="11" ID="17" TYPE_REL="EVENT_ARG"/> रविवार दोपहर </TIME-ARG> को म्बेया शहर के बाहरी क्षेत्र में तीन बसों और एक ट्रक के बीच हुई। 
+
+ तेबू ने कहा कि एक ट्रक की यात्री मिनी बस से टक्कर हो गई, जिसमें 20 लोगों की मौत हो गई। बस को टक्कर मानरे के बाद ट्रक की दो और मिनी बसों से टक्कर हुई और इसके बाद ट्रक नदी में गिर गया। 
+
+ पुलिस के मुताबिक, यह ट्रक तंजानिया-जांबिया सीमा की ओर जा रहा था। 
+
+</DOCUMENT>

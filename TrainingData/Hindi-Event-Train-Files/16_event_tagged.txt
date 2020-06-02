@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>249 https://www.jagran.com/world/indonesia-thousands-of-tourists-stranded-as-bali-volcano-erupts-18137439.html 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> बाली </PLACE-ARG> में <NATURAL_EVENT ID="0" TYPE="VOLCANO"> ज्‍वालामुखी विस्‍फोट: </NATURAL_EVENT><AFTER_EFFECTS-ARG ID="5"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> 450 उड़ानें रद, </AFTER_EFFECTS-ARG> हजारों पर्यटक फंसे 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> जकार्ता </PLACE-ARG> (एजेंसी)। <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> इंडोनेशिया </PLACE-ARG> में <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> माउंट आगुंग </PLACE-ARG> ज्वालामुखी में विस्फोट हुआ है। इसकी वजह से निकले धुएं के कारण <PLACE-ARG ID="12"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> रिसॉर्ट द्वीप </PLACE-ARG> बाली स्थित <AFTER_EFFECTS-ARG ID="11"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> अंतरराष्ट्रीय हवाईअड्डे को बंद कर दिया गया। </AFTER_EFFECTS-ARG> यहां हजारों पर्यटक फंसे हैं। ज्‍वालामुखी फटने के कारण यहां धुएं का गुबार हजारों मीटर की ऊंचाई तक आसमान में फैला है। 
+
+ आज सुबह गुराह राय एयरपोर्ट के बंद होने के साथ ही यहां आने-जाने वाले 450 उड़ानों को रद कर दिया गया। <TIME-ARG ID="15"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> गुरुवार </TIME-ARG> शाम को माउंड आगुंग के ज्‍वालामुखी में विस्‍फोट के साथ आसमान में 2,000 मीटर तक धुआं छा गया। इससे पहले यहां हुए ज्वालामुखी विस्फोट से अतीत में धरती की जलवायु पर गंभीर असर डाला है। ज्‍वालामुखी फटने की वजह से 23,000 फीट ऊंचाई तक राख फैल गई। इन हालातों में पायलट को मुश्‍किल का सामना करना पड़ा, यह देखते हुए शुक्रवार सुबह एयरपोर्ट बंद करा दिया गया। विमानों के लिए यह राख खतरनाक हो सकती है क्‍योंकि यह इनके इंजन में प्रवेश कर सकता है। 
+
+</DOCUMENT>

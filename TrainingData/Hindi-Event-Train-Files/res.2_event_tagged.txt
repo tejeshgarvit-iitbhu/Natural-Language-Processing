@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>277 https://up.punjabkesari.in/uttar-pradesh/news/allahabad-fire-in-the-gym-burning-of-millions-of-items-829645 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> इलाहाबादः </PLACE-ARG><PLACE-ARG ID="7"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> जिम </PLACE-ARG> में लगी <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> लाखों का सामान जलकर खाक </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="12" ID="16" TYPE_REL="EVENT_ARG"/> इलाहाबादः </PLACE-ARG><PLACE-ARG ID="4"><LINK EVENT_ARG="12" ID="15" TYPE_REL="EVENT_ARG"/> उत्तर प्रदेश </PLACE-ARG> के <PLACE-ARG ID="5"><LINK EVENT_ARG="12" ID="14" TYPE_REL="EVENT_ARG"/> इलाहाबाद </PLACE-ARG> में एक <PLACE-ARG ID="6"><LINK EVENT_ARG="12" ID="13" TYPE_REL="EVENT_ARG"/> जिम </PLACE-ARG> में <MAN_MADE_EVENT ID="12" TYPE="FIRE"> आग </MAN_MADE_EVENT> लग गई। तभी लोगों ने इसकी सूचना दमकल विभाग को दी। मौके पर पहुंचे दमकल कर्मियों ने आग पर बामुश्किल काबू पाया। बताया जा रहा की आग <REASON-ARG ID="13"><LINK EVENT_ARG="12" ID="14" TYPE_REL="EVENT_ARG"/> शार्ट सर्किट की वजह से लगी है। </REASON-ARG> आग की वजह से जिम में रखा <CASUALTIES-ARG ID="8"><LINK EVENT_ARG="12" ID="17" TYPE_REL="EVENT_ARG"/> लाखों का सामान जलकर राख हो गया। </CASUALTIES-ARG>
+
+ गनीमत रही की सही वक़्त पर ऊपरी मंजिल में फंसे लोगों को बाहर निकाला गया।आग लगते ही बिल्डिंग में अफरा-तफरी का माहौल देखने को मिला। सूचना पर पहुंची दमकल की 2 गाड़ियों ने काफ़ी मशक्कत के बाद आग पर काबू पाया। 
+
+ मौके पर मौजूद लोगों के मुताबिक आग इतनी विकराल थी कि स्थानीय लोगों ने आग दमकल कर्मियों के साथ मिलकर कई घंटों की कड़ी मशक्कत के बाद आग पर काबू पाया। 
+
+</DOCUMENT>

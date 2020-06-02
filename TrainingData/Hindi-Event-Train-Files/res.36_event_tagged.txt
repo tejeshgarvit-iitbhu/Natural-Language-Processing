@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>295 https://punjab.punjabkesari.in/hoshiarpur/news/6-slaughtered-fire-801047 
+
+ <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> जली 6 झुग्गियां </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> होशियारपुर (जैन): </PLACE-ARG> तेज आंधी व तूफान के चलते आग लगने की अनेक घटनाओं का समाचार है।गांव <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> बजवाड़ा के समीप एक पैट्रोल पम्प </PLACE-ARG> के पिछवाड़े <TIME-ARG ID="3"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> सायं 6 बजे </TIME-ARG> के करीब प्रवासी श्रमिकों की झुग्गियों में अचानक आग भडक़ उठी। 
+
+ देखते ही देखते आग ने ज्वलंत रूप धारण कर लिया। सूचना पाकर मौके पर पहुंचे सब-फायर अफसर विनोद कुमार, पवन सैनी व अरुणेश सैनी ने करीब आधे घंटे की कड़ी मशक्कत के बाद आग पर काबू पाया लेकिन तब तक श्रमिकों की 6 झुग्गियां अग्निभेंट चढ़ चकी थीं। आग से श्रमिकों का तमाम घरेलू सामान जलकर राख हो गया। 
+
+ इसके अलावा <PLACE-ARG ID="11"><LINK EVENT_ARG="9" ID="17" TYPE_REL="EVENT_ARG"/> कोटफतूही, </PLACE-ARG><PLACE-ARG ID="12"><LINK EVENT_ARG="9" ID="18" TYPE_REL="EVENT_ARG"/> मन्नणहाना, </PLACE-ARG><PLACE-ARG ID="13"><LINK EVENT_ARG="9" ID="19" TYPE_REL="EVENT_ARG"/> नूरपुर, </PLACE-ARG><PLACE-ARG ID="14"><LINK EVENT_ARG="9" ID="20" TYPE_REL="EVENT_ARG"/> पंडोरी कद </PLACE-ARG> व <PLACE-ARG ID="15"><LINK EVENT_ARG="9" ID="21" TYPE_REL="EVENT_ARG"/> चब्बेवाल इलाकों </PLACE-ARG> में भी <REASON-ARG ID="10"><LINK EVENT_ARG="9" ID="22" TYPE_REL="EVENT_ARG"/> आंधी-तूफान के कारण </REASON-ARG> भडक़ी <MAN_MADE_EVENT ID="9" TYPE="FIRE"> आग </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="16"><LINK EVENT_ARG="9" ID="23" TYPE_REL="EVENT_ARG"/> खुले में पड़ी तूड़ी व अन्य साजो-सामान जलने का समाचार है। </CASUALTIES-ARG> आग लगने की इन घटनाओं में फायर ब्रिगेड का अन्य स्टाफ जिसमें राजन कुमार, योगेश कुमार, सुरिन्द्र, अरुण कुमार, गुरदित्त ङ्क्षसह व कमलजीत आदि शामिल हैं, आग बुझाने के लिए संघर्षरत रहा। 
+
+</DOCUMENT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>181 https://punjab.punjabkesari.in/punjab/news/accident-731547 
+
+ नववर्ष की सुबह <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> 3 वर्ष के बच्चे की दर्दनाक मौत, दादा की हालत गम्भीर </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> लुधियाना(तरुण): </PLACE-ARG><TIME-ARG ID="2"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> नववर्ष की सुबह </TIME-ARG><PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> ताजपुर रोड </PLACE-ARG> के निकट एक तेज रफ्तार ट्रक की <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> टक्कर </MAN_MADE_EVENT> से 3 साल के मासूम बच्चे की दर्दनाक मौत, जबकि दादा गम्भीर रूप से घायल। घटना के करीब 2 घंटे बाद एम्बुलैंस व पुलिस मौके पर पहुंची। मृतक बच्चे की पहचान भाविश अरोड़ा व घायल दादा दविन्द्र अरोड़ा वासी दरेसी किल्ला मोहल्ला के रूप में हुई है। पुलिस ने ट्रक को कब्जे में ले लिया है, जबकि ट्रक ड्राइवर मौके से फरार हो गया है। 
+
+</DOCUMENT>

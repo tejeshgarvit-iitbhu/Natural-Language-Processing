@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>514 <PARTICIPANT-ARG ID="9"><LINK EVENT_ARG="13" ID="20" TYPE_REL="EVENT_ARG"/> இஸ்ரேல் ராணுவம் </PARTICIPANT-ARG><MAN_MADE_EVENT ID="13" TYPE="SURGICAL_STRIKES"> தாக்குதல்: </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="13" ID="21" TYPE_REL="EVENT_ARG"/> 1000க்கும் மேற்பட்ட பாலஸ்தீனர்கள் காயம் </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="14" ID="22" TYPE_REL="EVENT_ARG"/> காசா எல்லையில் </PLACE-ARG><PARTICIPANT-ARG ID="10"><LINK EVENT_ARG="14" ID="23" TYPE_REL="EVENT_ARG"/> பாலஸ்தீனப் போராட்டக்காரர்கள் </PARTICIPANT-ARG> மீது <PARTICIPANT-ARG ID="8"><LINK EVENT_ARG="14" ID="24" TYPE_REL="EVENT_ARG"/> இஸ்ரேல் ராணுவம் </PARTICIPANT-ARG> நடத்திய <MAN_MADE_EVENT ID="14" TYPE="SURGICAL_STRIKES"> தாக்குதலில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="14" ID="25" TYPE_REL="EVENT_ARG"/> 1000க்கும் மேற்பட்டோர் காயமடைந்தனர். </CASUALTIES-ARG>
+
+ இதுகுறித்து பாலஸ்தீன அரசு தரப்பில், <PLACE-ARG ID="6"><LINK EVENT_ARG="7" ID="26" TYPE_REL="EVENT_ARG"/> &quot;காசா எல்லையில், </PLACE-ARG> 1000க்கும் மேற்பட்ட பாலஸ்தீன போராட்டக்காரர்கள் வெள்ளிக்கிழமை பேரணி சென்றனர். அப்போது போராட்டக்காரர்களுக்கு எதிராக <PARTICIPANT-ARG ID="11"><LINK EVENT_ARG="7" ID="27" TYPE_REL="EVENT_ARG"/> இஸ்ரேல் ராணுவம் </PARTICIPANT-ARG><MAN_MADE_EVENT ID="7" TYPE="ARMED_CONFLICTS"> தாக்குதல் </MAN_MADE_EVENT> நடத்தியது. இதில் <CASUALTIES-ARG ID="12"><LINK EVENT_ARG="7" ID="28" TYPE_REL="EVENT_ARG"/> 82 பேர் துப்பாக்கிச் சூட்டாலும், 800க்கும் மேற்பட்டோர் வாயு தாக்குததாலும் பாதிக்கப்பட்டனர்&quot; </CASUALTIES-ARG> என்று கூறியுள்ளது. 
+
+ இந்தத் தாக்குதல் குறித்து இஸ்ரேல் தரப்பில், ”போராட்டக்காரர்கள் காசாவிலிருந்து இஸ்ரேலுக்கு எரிவாயு குழாய்களை உடைத்தனர். பாலஸ்தீனர்கள் மீது குறைந்த அளவே தாக்குதல் நடத்தப்பட்டது” என்று தெரிவிக்கப்பட்டுள்ளது. 
+
+ ஜெருசலமே இஸ்ரேலின் தலைநகரமாக அமெரிக்கா அறிவித்ததைத் தொடர்ந்து பாலஸ்தீனம், இஸ்ரேல் இடையே மோதல் வலுத்து வருகிறது. 
+
+ காசா எல்லையோரத்தில் ஆயிரக்கணக்கான பாலஸ்தீனர்கள் இஸ்ரேலை எதிர்த்து கடந்த சில மாதங்களாகவே பேரணியாகச் சென்று வருகின்றனர். 
+
+ <TIME-ARG ID="15"><LINK EVENT_ARG="17" ID="30" TYPE_REL="EVENT_ARG"/> ஏப்ரல் மாத தொடக்கத்தில் </TIME-ARG><PARTICIPANT-ARG ID="16"><LINK EVENT_ARG="17" ID="29" TYPE_REL="EVENT_ARG"/> இஸ்ரேல் ராணுவம் </PARTICIPANT-ARG><MAN_MADE_EVENT ID="17" TYPE="SHOOT_OUT"> துப்பாக்கிச் சூடு </MAN_MADE_EVENT> நடத்தியதில் பாலஸ்தீனர்களின் பேரணி வன்முறையாக மாறியது. இதில் <CASUALTIES-ARG ID="18"><LINK EVENT_ARG="17" ID="31" TYPE_REL="EVENT_ARG"/> 30க்கும் மேற்பட்ட பாலஸ்தீனர்கள் பலியாகினர். </CASUALTIES-ARG><CASUALTIES-ARG ID="19"><LINK EVENT_ARG="17" ID="32" TYPE_REL="EVENT_ARG"/> நூற்றுக்கும் மேற்பட்டோர் காயமடைந்தனர். </CASUALTIES-ARG>
+
+ இந்தத் தாக்குதல் தொடர்பாக ஐ.நா. சபையின் விசாரணையை இஸ்ரேல் நிராகரித்தது. இந்த நிலையில் மீண்டும் பாலஸ்தீனர்கள் மீது இஸ்ரேல் தாக்குதல் நடத்தியுள்ளது. 
+
+</DOCUMENT>

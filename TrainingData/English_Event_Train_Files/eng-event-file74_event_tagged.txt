@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>282 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> 16 people killed </CASUALTIES-ARG> in a road <MAN_MADE_EVENT ID="4" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT><TIME-ARG ID="2"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> in Egypt </TIME-ARG>
+
+ <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="5" ID="16" TYPE_REL="EVENT_ARG"/> At least 16 people, including three children, were killed and seven others injured </CASUALTIES-ARG> when three vehicles <MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT><TIME-ARG ID="3"><LINK EVENT_ARG="5" ID="17" TYPE_REL="EVENT_ARG"/> in Egypt’s southern Sohag province. </TIME-ARG>
+
+ The <MAN_MADE_EVENT ID="6" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT> took place when two trucks and a microbus <MAN_MADE_EVENT ID="7" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT><PLACE-ARG ID="8"><LINK EVENT_ARG="6" ID="18" TYPE_REL="EVENT_ARG"/> at a road between Sohag and the Red Sea governorate late </PLACE-ARG><TIME-ARG ID="9"><LINK EVENT_ARG="6" ID="19" TYPE_REL="EVENT_ARG"/> on Sunday. </TIME-ARG>
+
+ The injured were referred to five different hospitals, The Cairo Post reported. 
+
+ An investigation into the crash has been opened and three drivers have been questioned so far, it said. 
+
+ Road accidents, which official statistics say claim 18 lives a day, are common in Egypt due to ill-maintained roads as well as disregard for traffic laws. 
+
+ <CASUALTIES-ARG ID="11"><LINK EVENT_ARG="10" ID="21" TYPE_REL="EVENT_ARG"/> About 21,000 people are killed and 150,000 injured </CASUALTIES-ARG> annually <PLACE-ARG ID="12"><LINK EVENT_ARG="10" ID="20" TYPE_REL="EVENT_ARG"/> in Egypt </PLACE-ARG> in road <MAN_MADE_EVENT ID="10" TYPE="VEHICULAR_COLLISION"> accidents, </MAN_MADE_EVENT> Egyptian Minister of Health Adel al-Adawy had said last month. 
+
+ The WHO ranks Egypt as the world’s tenth worst country in road accidents. 
+
+</DOCUMENT>

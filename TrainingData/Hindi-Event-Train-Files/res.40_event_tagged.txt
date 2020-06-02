@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>221 https://haryana.punjabkesari.in/haryana/news/fire-in-dhaba-820581 
+
+ ढाबे में लगी भीषण <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> लाखों का सामान जलकर राख </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> फतेहाबाद </PLACE-ARG> (रमेश भट्ट): <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> रतिया </PLACE-ARG> के <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> सहनाल रोड </PLACE-ARG> पर <PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> हैफड के गोदाम के पास बने ढाबे </PLACE-ARG> में <TIME-ARG ID="7"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> देर रात </TIME-ARG> अचानक आग लग गई। जिससे ढाबे में रखा सारा सामान जलकर राख हो गया। गनीमत रही की आग से किसी प्रकार का जानी नुकसान नहीं हुआ है। 
+
+ ढाबा संचालक करण सिंह ने बताया कि <MAN_MADE_EVENT ID="14" TYPE="FIRE"> आग </MAN_MADE_EVENT> से उसका <CASUALTIES-ARG ID="15"><LINK EVENT_ARG="14" ID="18" TYPE_REL="EVENT_ARG"/> करीब ढाई लाख रुपए तक का नुकसान हुआ है। </CASUALTIES-ARG> करण सिंह ने बताया कि वह रात को 11ः00 बजे ढाबा बंद करके अपने घर गए थे। <TIME-ARG ID="17"><LINK EVENT_ARG="14" ID="19" TYPE_REL="EVENT_ARG"/> रात को करीब 2ः00 बजे </TIME-ARG> उनके ढाबे में आग लग गई। जिसके बाद पड़ोसियों ने उन्हें जानकारी दी और फायर ब्रिगेड को मामले की सूचना दी। 
+
+ हालांकि फायर ब्रिगेड ने आग पर काबू पा लिया। लेकिन जब तक फायर ब्रिगेड पहुंची तब तक उनका ढाका जलकर राख हो चुका था। आग लगने के कारणों का अभी पता नहीं लगा पाया है इसकी जांच की जा रही है। 
+
+</DOCUMENT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>71 https://punjab.punjabkesari.in/punjab/news/child-dead-in-road-accident-799798 
+
+ <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> सड़क दुर्घटना </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="4" TYPE_REL="EVENT_ARG"/> 6 वर्षीय बच्चे की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> अमृतसर (संजीव): </PLACE-ARG><PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> थाना जंडियाला </PLACE-ARG> की पुलिस को पवन कुमार निवासी खिलचियां ने दी शिकायत में बताया कि उसकी बहू हरजीत कौर उसके 6 वर्षीय पोते हार्दिक शर्मा को स्कूटरी पर बिठाकर खिलचियां से जंडियाला की ओर आ रही थी। रास्ते में जालंधर की ओर से आ रही कार के चालक ने उनमें टक्कर मार दी। 
+
+ जिस दौरान दोनों सड़क पर गिर गए और कार चालक मौके से फरार हो गया। गंभीर रुप से घायल हुआ उसका पोत्रा हाॢदक शर्मा घटना स्थल पर ही दम तोड़ गया जबकि उसकी बहू को काफी चोटे लगी। पुलिस ने मामले की जांच शुरू कर दी है। 
+
+</DOCUMENT>

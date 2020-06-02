@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>300 <MAGNITUDE-ARG ID="8"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> 4.5-magnitude </MAGNITUDE-ARG><NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> rattles <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> Southern California </PLACE-ARG>
+
+ <PLACE-ARG ID="16"><LINK EVENT_ARG="1" ID="17" TYPE_REL="EVENT_ARG"/> LOS ANGELES: </PLACE-ARG> A small <NATURAL_EVENT ID="1" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> rattled a large swath of <PLACE-ARG ID="4"><LINK EVENT_ARG="1" ID="18" TYPE_REL="EVENT_ARG"/> Southern California. </PLACE-ARG>
+
+ The quake measured with a preliminary <MAGNITUDE-ARG ID="9"><LINK EVENT_ARG="1" ID="19" TYPE_REL="EVENT_ARG"/> magnitude of 4.5 </MAGNITUDE-ARG> struck just <TIME-ARG ID="10"><LINK EVENT_ARG="1" ID="20" TYPE_REL="EVENT_ARG"/> before 5 am Tuesday </TIME-ARG> near the rural <PLACE-ARG ID="5"><LINK EVENT_ARG="1" ID="21" TYPE_REL="EVENT_ARG"/> area of Cabazon, </PLACE-ARG><DEPTH-ARG ID="11"><LINK EVENT_ARG="1" ID="22" TYPE_REL="EVENT_ARG"/> about 100 miles (160 kilometers) </DEPTH-ARG><PLACE-ARG ID="6"><LINK EVENT_ARG="1" ID="23" TYPE_REL="EVENT_ARG"/> east of Los Angeles. </PLACE-ARG>
+
+ <NATURAL_EVENT ID="2" TYPE="EARTHQUAKE"> Quakes </NATURAL_EVENT> of that size generally don&apos;t cause any serious damage and there were no immediate reports of any problems related to it. 
+
+ People from the desert to the Pacific coast in <PLACE-ARG ID="7"><LINK EVENT_ARG="2" ID="24" TYPE_REL="EVENT_ARG"/> Southern California </PLACE-ARG> reported feeling it. 
+
+</DOCUMENT>

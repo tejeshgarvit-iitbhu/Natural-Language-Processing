@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>543 https://punjab.punjabkesari.in/hoshiarpur/news/5-injure-in-fire-805586 
+
+ <PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> चक्करोता-सदरपुर जंगल </PLACE-ARG> में भीषण <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> 5 घायल </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> गढ़शंकर </PLACE-ARG><PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> (शोरी): </PLACE-ARG> गांव सदरपुर-चक्करोता के बीच पड़ते जंगलात व प्राइवेट जमीन में रहस्यमयी स्थिति में भीषण आग लग गई जिससे <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> वन सम्पत्ति (पौधों व वृक्षों) का नुक्सान हो गया। </CASUALTIES-ARG>
+
+ सड़क किनारे लगी इस आग के धूएं से 2 मोटरसाइकिलों में टक्कर हो गई जिनको बचाता हुआ एक युवक आग की चपेट में आ गया व बुरी तरह झुलस गया। आग को फैलने से रोकने के लिए सदरपुर के कुछ लोगों ने ट्रैक्टर से आग पर काबू पाने की कोशिश की तो वे लोग भी आग की चपेट में आ गए। दमकल की 2 गाडियां आग को काबू करने में लग गई थी। इस आग के कारण गांव चक्करोता का युवक कुलविंद्र सिंह सड़क हादसे में घायल सर्वजीत व अमृतपाल को बचाते-बचाते स्वयं बुरी तरह घायल हो गया। वहीं आग को काबू करते हुए ट्रैक्टर चालक लवप्रीत गांव सदरपुर व एक राहगीर महिला चरणो गांव अमरगढ़ (नवांशहर) भी आग की चपेट में आ गई। 
+
+</DOCUMENT>

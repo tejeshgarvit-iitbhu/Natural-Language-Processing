@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>266 https://punjab.punjabkesari.in/faridkot/news/faridkot-news-806091 
+
+ छप्पड़ में खड़े सरकं डों को लगी <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग </MAN_MADE_EVENT>
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> कोटकपूरा </PLACE-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> (नरिन्द्र): </PLACE-ARG> शहर के <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> मोहल्ला जीवन नगर </PLACE-ARG> में बड़े छप्पड़ में खड़े सरकंडों को अचानक आग लग गई। आग देखते-ही-देखते सभी तरफ फैल गई। सरकंडों को लगी आग से पैदा हुआ धुआं साथ लगती सड़क और घनी आबादी में इतनी भारी मात्रा में फैल गया कि इस <AFTER_EFFECTS-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> सड़क से गुजरना मुश्किल हो गया व लोगों को सांस लेने में भी दिक्कत आ रही थी। </AFTER_EFFECTS-ARG>
+
+ आग लगने के कुछ समय बाद जब यह आग छप्पड़ के साथ लगती आबादी वाली तरफ फैली तो एक बार तो सभी को चिंता में डाल दिया परंतु उसी समय यह आग दूसरी तरफ बढ़ गई। सूचना मिलने पर पहुंचे फायर ब्रिगेड के कर्मचारियों ने भारी जद्दोजहद के बाद आग पर काबू पाया। छप्पड़ में लगी इस आग के कारण का कोई पता नहीं लग सका। 
+
+</DOCUMENT>

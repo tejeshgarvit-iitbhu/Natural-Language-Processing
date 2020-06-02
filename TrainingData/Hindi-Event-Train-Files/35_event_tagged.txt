@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>65 https://navbharattimes.indiatimes.com/metro/mumbai/other-news/youth-murder-in-bykkhla/articleshow/64818617.cms 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="4" TYPE_REL="EVENT_ARG"/> भायखला </PLACE-ARG> में युवक की <MAN_MADE_EVENT ID="0" TYPE="CRIME"> हत्या </MAN_MADE_EVENT>
+
+ भायखला पुलिस के अंतर्गत एक व्यक्ति की हत्या कर दिए जाने का सनसनीखेज मामला सामने आया है। मृतक का नाम भावेश कोली बताया जा रहा है। घटना भायखला स्थित <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> राणीबाग </PLACE-ARG> के पास <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> बीएमसी स्कूल के बगल </PLACE-ARG> में घटी है। भायखला पुलिस मामले की जांच में जुटी है। 
+
+</DOCUMENT>

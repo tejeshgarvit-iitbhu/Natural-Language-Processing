@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>301 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="11" TYPE_REL="EVENT_ARG"/> Jawan killed, officer injured </CASUALTIES-ARG> as <NATURAL_EVENT ID="1" TYPE="LAND_SLIDE"> landslide </NATURAL_EVENT> hits Army patrol team in <PLACE-ARG ID="2"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> Jammu and Kashmir </PLACE-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="10" ID="14" TYPE_REL="EVENT_ARG"/> SRINAGAR: </PLACE-ARG><CASUALTIES-ARG ID="8"><LINK EVENT_ARG="10" ID="13" TYPE_REL="EVENT_ARG"/> An Army jawan was killed and an officer injured </CASUALTIES-ARG><TIME-ARG ID="9"><LINK EVENT_ARG="10" ID="15" TYPE_REL="EVENT_ARG"/> on Friday </TIME-ARG> when a patrol party was hit by a <NATURAL_EVENT ID="10" TYPE="LAND_SLIDE"> landslide </NATURAL_EVENT> near the Line of Control in <PLACE-ARG ID="4"><LINK EVENT_ARG="10" ID="16" TYPE_REL="EVENT_ARG"/> Jammu and Kashmir&apos;s Uri sector, </PLACE-ARG> an official said. 
+
+ A patrol party of the Army was hit by a <NATURAL_EVENT ID="5" TYPE="LAND_SLIDE"> landslide </NATURAL_EVENT> in Uri Sector this afternoon, resulting in some personnel getting trapped, the Army official said. 
+
+ He said while <CASUALTIES-ARG ID="6"><LINK EVENT_ARG="5" ID="17" TYPE_REL="EVENT_ARG"/> one jawan died </CASUALTIES-ARG> in the incident, <CASUALTIES-ARG ID="7"><LINK EVENT_ARG="5" ID="18" TYPE_REL="EVENT_ARG"/> a Major-rank officer was injured. </CASUALTIES-ARG>
+
+ The injured officer was evacuated to 92 Base Hospital of the Army here, the officer said. 
+
+</DOCUMENT>

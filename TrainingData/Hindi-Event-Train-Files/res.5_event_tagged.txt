@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>276 http://www.deshbandhu.co.in/states/haryana-bike-and-truck-collide-with-one-face-in-haryana_-two-die-105131-1 
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> हरियाणा </PLACE-ARG> में बाइक और ट्रक की आमने-सामने <MAN_MADE_EVENT ID="0" TYPE="VEHICULAR_COLLISION"> टक्कर, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> दो की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="5"><LINK EVENT_ARG="11" ID="17" TYPE_REL="EVENT_ARG"/> हरियाणा </PLACE-ARG> के <PLACE-ARG ID="6"><LINK EVENT_ARG="11" ID="18" TYPE_REL="EVENT_ARG"/> जींद जिले </PLACE-ARG> में <PLACE-ARG ID="7"><LINK EVENT_ARG="11" ID="19" TYPE_REL="EVENT_ARG"/> बेलरखा गांव </PLACE-ARG> के समीप <TIME-ARG ID="13"><LINK EVENT_ARG="11" ID="20" TYPE_REL="EVENT_ARG"/> आज सुबह </TIME-ARG> राष्ट्रीय राजमार्ग पर बाइक और ट्रक की आमने-सामने <MAN_MADE_EVENT ID="11" TYPE="VEHICULAR_COLLISION"> टक्कर </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="11" ID="21" TYPE_REL="EVENT_ARG"/> दो व्यक्तियों की मौत हो गई </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="8"><LINK EVENT_ARG="12" ID="22" TYPE_REL="EVENT_ARG"/> हरियाणा </PLACE-ARG> के <PLACE-ARG ID="9"><LINK EVENT_ARG="12" ID="23" TYPE_REL="EVENT_ARG"/> जींद जिले </PLACE-ARG> में <PLACE-ARG ID="10"><LINK EVENT_ARG="12" ID="24" TYPE_REL="EVENT_ARG"/> बेलरखा गांव </PLACE-ARG> के समीप <TIME-ARG ID="14"><LINK EVENT_ARG="12" ID="25" TYPE_REL="EVENT_ARG"/> आज सुबह </TIME-ARG> राष्ट्रीय राजमार्ग पर बाइक और ट्रक की आमने-सामने <MAN_MADE_EVENT ID="12" TYPE="VEHICULAR_COLLISION"> टक्कर </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="12" ID="26" TYPE_REL="EVENT_ARG"/> दो व्यक्तियों की मौत हो गई। </CASUALTIES-ARG>
+
+ मृतक रिश्ते में मामा-भांजा थे। हादसे के बाद चालक ट्रक मौके पर छोड़कर फरार हो गया। पुलिस से मिली जानकारी के अनुसार मृतकों की पहचान कृष्ण (50) तथा दिनेश (18) के रूप में हुई है ।बाइक से जाते समय अचानक सामने से तेज गति से आ रहे ट्रक से उनकी सीधी <MAN_MADE_EVENT ID="28" TYPE="VEHICULAR_COLLISION"> टक्कर </MAN_MADE_EVENT> हो गई जिसमें <CASUALTIES-ARG ID="27"><LINK EVENT_ARG="28" ID="29" TYPE_REL="EVENT_ARG"/> दोनों की मौत हो गई। </CASUALTIES-ARG>
+
+ जांच अधिकारी सत्यवान ने कहा कि कृष्ण की मौके पर मौत हो गई और दिनेश ने नरवाना के सामान्य अस्पताल में दम तोड़ दिया । पुलिस ने मामला दर्ज कर जांच शुरू कर दी है। शवों का पोस्टमार्टम करा परिजनों को सौंप दिए। 
+
+</DOCUMENT>

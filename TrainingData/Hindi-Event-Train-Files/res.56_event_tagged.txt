@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>72 https://punjab.punjabkesari.in/punjab/news/four-killed-three-injured-in-two-cars-collision-825097 
+
+ दो कारों की <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> टक्कर </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="4" TYPE_REL="EVENT_ARG"/> चार की मौत, तीन घायल </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> राजपुरा(निर्दोष) </PLACE-ARG> : <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> शंभू तेपला रोड </PLACE-ARG> पर दो कारों की भीषण टक्कर से एक परिवार के तीन लोगों सहित चार लोगों की मौत हो गई, जबकि तीन घायल हो गए जिनको इलाज के लिए सरकारी अस्पताल में दाखिल करवाया गया है। हादसे की जानकारी मिलने पर शंभू पुलिस ने मौके पर पहुंच कर जांच शुरू कर दी। 
+
+</DOCUMENT>

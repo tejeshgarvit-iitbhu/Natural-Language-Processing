@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>470 Bus <MAN_MADE_EVENT ID="5" TYPE="TRANSPORT_HAZARDS"> crash </MAN_MADE_EVENT><PLACE-ARG ID="3"><LINK EVENT_ARG="5" ID="8" TYPE_REL="EVENT_ARG"/> in Spain </PLACE-ARG><CASUALTIES-ARG ID="0"><LINK EVENT_ARG="5" ID="9" TYPE_REL="EVENT_ARG"/> kills 14, injures 38 </CASUALTIES-ARG>
+
+ Authorities said a bus carrying a group on a religious excursion has <MAN_MADE_EVENT ID="6" TYPE="TRANSPORT_HAZARDS"> crashed </MAN_MADE_EVENT><PLACE-ARG ID="2"><LINK EVENT_ARG="6" ID="10" TYPE_REL="EVENT_ARG"/> in southern Spain, </PLACE-ARG><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="6" ID="11" TYPE_REL="EVENT_ARG"/> killing 14 people and injuring another 38. </CASUALTIES-ARG>
+
+ A regional church authority in Murcia said one of two buses bringing back 55 members of a religious group from a day trip in Madrid to the town of Bullas ran off the road late <TIME-ARG ID="4"><LINK EVENT_ARG="6" ID="12" TYPE_REL="EVENT_ARG"/> on Saturday </TIME-ARG> and tumbled down a 15-metre dirt embankment. The crash occurred <PLACE-ARG ID="7"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> near the town of Cieza. </PLACE-ARG>
+
+ The regional government says 23 passengers are still hospitalised on Sunday and that police are investigating in causes of the crash. 
+
+ Spanish Prime Minister Mariano Rajoy expressed his condolences through Twitter, writing “I am deeply affected by the accident in Cieza.” The victims include the local priest, 36-year-old Miguel Conesa Andugar. 
+
+</DOCUMENT>

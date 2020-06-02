@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>240 <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> கலிபோர்னியாவில் </PLACE-ARG><MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> துப்பாக்கிச் சூடு: </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> ஒருவர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> கலிபோர்னியாவில் </PLACE-ARG> முதியவர் ஒருவர் நடத்திய <MAN_MADE_EVENT ID="4" TYPE="SHOOT_OUT"> துப்பாக்கிச் சூட்டில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> பெண் ஒருவர் பலியானார். </CASUALTIES-ARG> மற்றொருவர் காயமடைந்து மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார். 
+
+ <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="18" TYPE_REL="EVENT_ARG"/> வடக்கு கலிபோர்னியாவில் </PLACE-ARG> அடுக்குமாடி குடியிருப்பில் 80 வயது மதிக்கத்தக்க முதியவர் ஒருவர், <TIME-ARG ID="7"><LINK EVENT_ARG="4" ID="19" TYPE_REL="EVENT_ARG"/> வியாழக்கிழமை மதியம் 3.30 மணியளவில் </TIME-ARG> துப்பாக்கியால் சரமாரியாக சுட்டார். இதில் <CASUALTIES-ARG ID="8"><LINK EVENT_ARG="4" ID="20" TYPE_REL="EVENT_ARG"/> பெண் ஒருவர் பலியானார். </CASUALTIES-ARG>
+
+ மற்றொருவர் பலத்த காயமடைந்து மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார். <MAN_MADE_EVENT ID="9" TYPE="SHOOT_OUT"> துப்பாக்கிச் சூட்டில் </MAN_MADE_EVENT> ஈடுபட்ட நபரும் தன்னைத் தானே சுட்டுக் கொண்டு இறந்துவிட்டார். 
+
+ துப்பாக்கிச் சூடு நடத்தப்பட்டதற்கான காரணம் இதுவரை வெளியாகவில்லை. இதுகுறித்து போலீஸார் தொடர்ந்து விசாரணையில் ஈடுபட்டு வருகின்றனர். 
+
+ முன்னதாக <PLACE-ARG ID="10"><LINK EVENT_ARG="12" ID="21" TYPE_REL="EVENT_ARG"/> புளோரிடா மாகாணத்தில் உள்ள ஸ்டோன்மேன் டக்ளஸ் பள்ளியில் </PLACE-ARG><TIME-ARG ID="11"><LINK EVENT_ARG="12" ID="23" TYPE_REL="EVENT_ARG"/> கடந்த பிப்ரவரி மாதம் </TIME-ARG> முன்னாள் மாணவன் <MAN_MADE_EVENT ID="12" TYPE="SHOOT_OUT"> துப்பாக்கிச் சூடு </MAN_MADE_EVENT> நடத்தியதில் <CASUALTIES-ARG ID="13"><LINK EVENT_ARG="12" ID="22" TYPE_REL="EVENT_ARG"/> 17 பேர் உயிரிழந்தனர். </CASUALTIES-ARG>
+
+ இதனையடுத்து அமெரிக்காவில் துப்பாக்கி விற்பனைக்கு கட்டுப்பாடுகள் விதிக்கக் கூறி மாணவர்கள் பல இடங்களில் போராட்டம் நடத்தினர். 
+
+ ஆனால் அமெரிக்க அதிபர் ட்ரம்ப், இப்பிரச்சினையில் தலையிட்டு உரிய நடவடிக்கை எடுக்காமல் இருந்து வருகிறார். 
+
+</DOCUMENT>

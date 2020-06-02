@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>163 Minor <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> hits <PLACE-ARG ID="1"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> Uttarakhand, </PLACE-ARG> no damage 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="3" ID="13" TYPE_REL="EVENT_ARG"/> DEHRADUN: </PLACE-ARG> A mild <NATURAL_EVENT ID="3" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> hit <PLACE-ARG ID="5"><LINK EVENT_ARG="3" ID="14" TYPE_REL="EVENT_ARG"/> Bagheshwar district and nearby areas in Uttarakhand </PLACE-ARG> around <TIME-ARG ID="6"><LINK EVENT_ARG="3" ID="15" TYPE_REL="EVENT_ARG"/> noon on Monday, </TIME-ARG> officials said. 
+
+ The intensity of the <NATURAL_EVENT ID="7" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> was recorded at <MAGNITUDE-ARG ID="8"><LINK EVENT_ARG="7" ID="16" TYPE_REL="EVENT_ARG"/> 2.8 on the Richter scale. </MAGNITUDE-ARG> No damage to property or loss of life has been reported, an official said. 
+
+ The epicentre of the temblor was <DEPTH-ARG ID="9"><LINK EVENT_ARG="7" ID="17" TYPE_REL="EVENT_ARG"/> 10 km below the surface </DEPTH-ARG> in <PLACE-ARG ID="10"><LINK EVENT_ARG="7" ID="18" TYPE_REL="EVENT_ARG"/> Kapkot, </PLACE-ARG> the official said. 
+
+ The area comes under Zone V, which makes it very vulnerable to <NATURAL_EVENT ID="11" TYPE="EARTHQUAKE"> quakes, </NATURAL_EVENT> said the official. 
+
+</DOCUMENT>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>182 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> மியான்மரில் </PLACE-ARG><NATURAL_EVENT ID="1" TYPE="LAND_SLIDE"> நிலச்சரிவு: </NATURAL_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> 20 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> மியான்மரில் </PLACE-ARG> கடும் மழையினால் ஏற்பட்ட <NATURAL_EVENT ID="4" TYPE="LAND_SLIDE"> நிலச்சரிவில் </NATURAL_EVENT> சிக்கி <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> 20 பேர் பலியாகினர். </CASUALTIES-ARG>
+
+ இதுகுறித்து மியான்மர் ஊடகங்கள் தரப்பில், <PLACE-ARG ID="7"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> &quot;மியான்மரில் </PLACE-ARG><TIME-ARG ID="6"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> கடந்த மே 4 ஆம் தேதி </TIME-ARG> முதல் கடுமையான மழை பெய்து வருகிறது. 
+
+ இதில் <PLACE-ARG ID="8"><LINK EVENT_ARG="9" ID="18" TYPE_REL="EVENT_ARG"/> ஹபாகாண்ட் டவுனில் </PLACE-ARG> ஏற்பட்ட <PLACE-ARG ID="9"> நிலச்சரிவில் </PLACE-ARG> சிக்கி <CASUALTIES-ARG ID="10"><LINK EVENT_ARG="9" ID="19" TYPE_REL="EVENT_ARG"/> 20 பேர் பலியாகினர். </CASUALTIES-ARG> பலர் காயமடைந்து மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர். இன்னும் பலர் <NATURAL_EVENT ID="11" TYPE="LAND_SLIDE"> நிலச்சரிவில் </NATURAL_EVENT> சிக்கி உள்ளதால் அவர்களை மீட்க மீட்புப்பணிகள் நடந்து வருகின்றன&quot; என்று செய்தி வெளியிட்டுள்ளன. 
+
+ மியான்மர் மீட்புப் பணி அதிகாரி ஒருவர் கூறும்போது, ”நிலச்சரிவு ஏற்பட்ட பகுதிகளில் மீண்டும் நிலச்சரிவு ஏற்படும் அபாயம் உள்ளதால் மீட்புப் பணிகள் தற்காலிகமாக நிறுத்தி வைக்கப்பட்டுள்ளது&quot; என்று தெரிவித்துள்ளனர். 
+
+ பாதுகாப்புப் பணிகள் தயாராக உள்ளதால் மக்கள் யாரும் அச்சம் கொள்ளத் தேவையில்லை என்று மியான்மர் அரசு சார்பில் கேட்டுக்கொண்டது. 
+
+</DOCUMENT>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>6052 https://www.punjabkesari.in/national/news/revealed--surgical-strike-was-in-2002--which-was-not-news-to-anyone-571221 
+
+ खुलासा : <TIME-ARG ID="2"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> 2002 </TIME-ARG> में भी हुई थी <MAN_MADE_EVENT ID="0" TYPE="SURGICAL_STRIKES"> सर्जिकल स्ट्राइक, </MAN_MADE_EVENT> जिसकी नहीं थी किसी को खबर 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> नई दिल्ली </PLACE-ARG> : संसद हमले के बाद चारों ओर निराशा थी। आतंकियों को जवाब देने की आवाज हर ओर उठ रही थी तब तत्कालीन प्रधानमंत्री अटल बिहारी वाजपेई ने <PARTICIPANT-ARG ID="3"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> पाकिस्तान </PARTICIPANT-ARG> पर सर्जिकल स्ट्राइक करवाया था। इस बात की जानकारी किसी को नहीं पर एक वेबसाइट ने अपनी एक्सक्लूसिव खबर में इस बात का खुलासा किया। वेबसाइट के मुताबिक <TIME-ARG ID="4"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> 31 जुलाई, 2002 </TIME-ARG> को <TIME-ARG ID="5"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> 2 बजे सुबह </TIME-ARG> फाइटर पायलट फ्लाइट लेफ्टिनेंट राजीव मिश्रा को फौरन लेजर डेस्टिनेशन यंत्रों के साथ श्रीनगर रवाना होने के ऑर्डर मिले। 
+
+ वायुसेना को इजराइल से मिला था लेजर गाइडेंस सिस्टम 
+
+ मिश्रा एयरफोर्स के जगुआर फाइटर जेट विमान को उड़ाया करते थे लेकिन उस रात उन्हें वो उड़ाने के लिए नहीं जगाया गया था। उस दौरान वायुसेना को इजराइल से लिया गया लेजर गाइडेंस सिस्टम मिला था। इससे पायलट किसी खास निशाने को लेजर तकनीक से नष्ट कर सकता था। मिश्रा वो पहले थे जिन्हें इस तकनीक का इस्तेमाल करने का मौका मिल रहा था। उडऩे से पहले मिश्रा और उनके 2 साथियों को एयरफोर्स स्ट्राइक सेल द्वारा ये बताया गया था कि उन्हें पाकिस्तान में घुसकर एलओसी के पास इस तकनीक का इस्तेमाल करना है। इससे पहले एयरफोर्स ने कभी इस तरह का अभियान नहीं किया था। 
+
+ <TIME-ARG ID="14"><LINK EVENT_ARG="11" ID="18" TYPE_REL="EVENT_ARG"/> 2001 </TIME-ARG> में <PARTICIPANT-ARG ID="12"><LINK EVENT_ARG="11" ID="17" TYPE_REL="EVENT_ARG"/> आतंकियों </PARTICIPANT-ARG> ने <PLACE-ARG ID="13"><LINK EVENT_ARG="11" ID="16" TYPE_REL="EVENT_ARG"/> भारतीय संसद </PLACE-ARG> पर किया था <MAN_MADE_EVENT ID="11" TYPE="TERRORIST_ATTACK"> हमला </MAN_MADE_EVENT>
+
+ ये वो मौका था जब <TIME-ARG ID="15"><LINK EVENT_ARG="19" ID="25" TYPE_REL="EVENT_ARG"/> दिसंबर 2001 </TIME-ARG> में <PARTICIPANT-ARG ID="21"><LINK EVENT_ARG="19" ID="26" TYPE_REL="EVENT_ARG"/> आतंकियों </PARTICIPANT-ARG> ने <PLACE-ARG ID="22"><LINK EVENT_ARG="19" ID="27" TYPE_REL="EVENT_ARG"/> भारतीय संसद </PLACE-ARG> पर <TIME-ARG ID="20"><LINK EVENT_ARG="19" ID="28" TYPE_REL="EVENT_ARG"/> 7 महीने </TIME-ARG> पहले ही <MAN_MADE_EVENT ID="19" TYPE="TERRORIST_ATTACK"> हमला </MAN_MADE_EVENT> किया था। <PARTICIPANT-ARG ID="23"><LINK EVENT_ARG="19" ID="29" TYPE_REL="EVENT_ARG"/> भारत </PARTICIPANT-ARG> और <PARTICIPANT-ARG ID="24"><LINK EVENT_ARG="19" ID="30" TYPE_REL="EVENT_ARG"/> पाकिस्तान </PARTICIPANT-ARG> के बीच तनाव का माहौल था। उस दौरान सीमा के दोनों ओर से लगातार हमले हो रहे थे। भारत ने इसे ऑपरेशन पराक्रम का नाम दिया था। उस दौरान अटल बिहार वाजपेई प्रधानमंत्री थे और जॉर्ज फर्नांडीज रक्षा मंत्री थे। 
+
+</DOCUMENT>

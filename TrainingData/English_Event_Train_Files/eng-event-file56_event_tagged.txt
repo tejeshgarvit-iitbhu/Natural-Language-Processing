@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>2089 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="7" TYPE_REL="EVENT_ARG"/> Three killed, 20 injured </CASUALTIES-ARG> as truck <MAN_MADE_EVENT ID="1" TYPE="VEHICULAR_COLLISION"> hits </MAN_MADE_EVENT> mini-bus <PLACE-ARG ID="2"><LINK EVENT_ARG="1" ID="8" TYPE_REL="EVENT_ARG"/> in Gujarat </PLACE-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="9" ID="10" TYPE_REL="EVENT_ARG"/> RAJKOT: </PLACE-ARG><CASUALTIES-ARG ID="4"><LINK EVENT_ARG="9" ID="11" TYPE_REL="EVENT_ARG"/> At least three persons, including a woman, were killed and 20 others injured </CASUALTIES-ARG> as the mini-bus in which they were travelling was <MAN_MADE_EVENT ID="9" TYPE="VEHICULAR_COLLISION"> hit </MAN_MADE_EVENT> by a truck at <PLACE-ARG ID="5"><LINK EVENT_ARG="9" ID="12" TYPE_REL="EVENT_ARG"/> Vadal Chowk near Junagadh </PLACE-ARG><TIME-ARG ID="6"><LINK EVENT_ARG="9" ID="13" TYPE_REL="EVENT_ARG"/> today, </TIME-ARG> police said. 
+
+ The bus was returning from Una Gupta Prayag, a religious place in Gir Somnath district, and was on its way to Rajkot when the accident occurred, a Junagadh taluka police station official said. 
+
+ &quot;Three persons in the mini-bus died on the spot, while 20 others sustained injuries in the incident. The driver of the truck fled from the scene after the accident,&quot; he said. 
+
+ The deceased were identified as Geetaben Chandreshbhai Lathigra (48), Sandipbhai Nagrecha (36) and Divyesh Rajpura (39), he said. 
+
+ The injured were shifted to different hospitals in Junagadh, police said. 
+
+</DOCUMENT>

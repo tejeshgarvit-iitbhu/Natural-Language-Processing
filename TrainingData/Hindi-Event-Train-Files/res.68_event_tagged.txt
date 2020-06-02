@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>2554 https://punjab.punjabkesari.in/latest-news/news/woman-died-in-accident-716275 
+
+ <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> सड़क हादसे </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> महिला की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> दसूह </PLACE-ARG><PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> (झावर): </PLACE-ARG><PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> अस्पताल रोड दसूहा </PLACE-ARG> में <TIME-ARG ID="5"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> 17 नवम्बर </TIME-ARG> को एक महिला जसविन्द्र कौर को एक तेज रफ्तार मोटरसाइकिल ने टक्कर मार दी थी जिस कारण वह गंभीर जख्मी हो गई। उसे तुरंत सिविल अस्पताल दसूहा में दाखिल करवाया गया और बाद में उसको जालंधर के एक प्राइवेट अस्पताल में रैफर कर दिया गया, जहां उसकी मृत्यु हो गई। 
+
+ ए.एस.आई. रछपाल सिंह ने बताया कि मृतक के लड़के भुल्ला राम पुत्र मोहन सिंह निवासी वार्ड नं. 7 दसूहा के बयान पर अज्ञात मोटरसाइकिल सवारों के विरुद्ध केस दर्ज कर लिया गया है। उन्होंने बताया कि मोटरसाइकिल (नं. पीबी 07 बीसी 6743) संबंधी भी पता लगाया जा रहा है। 
+
+</DOCUMENT>

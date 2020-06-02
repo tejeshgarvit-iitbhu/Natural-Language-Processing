@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>4349 <MAGNITUDE-ARG ID="10"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> Magnitude-5.2 </MAGNITUDE-ARG><NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> jolts <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> Assam </PLACE-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="13" TYPE_REL="EVENT_ARG"/> KOKRAJHAR: </PLACE-ARG> An <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> of <MAGNITUDE-ARG ID="6"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> magnitude 5.2 </MAGNITUDE-ARG> on the Richter scale struck <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> Assam&apos;s Kokrajhar district </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> on Saturday morning. </TIME-ARG>
+
+ According to the Indian Meteorological Department, the <NATURAL_EVENT ID="5" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> occurred at <TIME-ARG ID="8"><LINK EVENT_ARG="5" ID="17" TYPE_REL="EVENT_ARG"/> 06.44am </TIME-ARG> at a <DEPTH-ARG ID="9"><LINK EVENT_ARG="5" ID="18" TYPE_REL="EVENT_ARG"/> depth of 52km. </DEPTH-ARG>
+
+ No damage or casualty has been reported so far. 
+
+</DOCUMENT>

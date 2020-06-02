@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>229 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> ஆப்கானிஸ்தானில் </PLACE-ARG><PARTICIPANT-ARG ID="3"><LINK EVENT_ARG="1" ID="14" TYPE_REL="EVENT_ARG"/> தலிபான்கள் </PARTICIPANT-ARG><MAN_MADE_EVENT ID="1" TYPE="TERRORIST_ATTACK"> தாக்குதல்: </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="15" TYPE_REL="EVENT_ARG"/> 14 போலீஸார் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="17"><LINK EVENT_ARG="18" ID="19" TYPE_REL="EVENT_ARG"/> ஆப்கானிஸ்தானில் </PLACE-ARG><PARTICIPANT-ARG ID="5"><LINK EVENT_ARG="18" ID="20" TYPE_REL="EVENT_ARG"/> தலிபான் தீவிரவாதிகள் </PARTICIPANT-ARG> நடத்திய <MAN_MADE_EVENT ID="18" TYPE="TERRORIST_ATTACK"> தாக்கிதலில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="6"><LINK EVENT_ARG="18" ID="21" TYPE_REL="EVENT_ARG"/> 14 போலீஸார் பலியாகினர். </CASUALTIES-ARG>
+
+ இதுகுறித்து ஆப்கான் போலீஸார் தரப்பில், <PLACE-ARG ID="7"><LINK EVENT_ARG="9" ID="22" TYPE_REL="EVENT_ARG"/> &apos;&apos;ஆப்கானிஸ்தான் காஸினி மாகாணத்தில் </PLACE-ARG><TIME-ARG ID="8"><LINK EVENT_ARG="9" ID="23" TYPE_REL="EVENT_ARG"/> இன்று (செவ்வாய்க்கிழமை) </TIME-ARG> பல்வேறு இடங்களில் தீவிரவாதிகள் <MAN_MADE_EVENT ID="9" TYPE="TERRORIST_ATTACK"> தாக்குதல் </MAN_MADE_EVENT> நடத்தினர். இதில் திக் யாக் மாவட்டத்தில் 7 பேரும், ஜகாட்டு மாவட்டத்தில் 7 பேரும் பலியாகினர். இதில் பலியானவர்கள் அனைவரும் பாதுகாப்பு படையினர்&apos;&apos; என்று தெரிவிக்கப்பட்டது. 
+
+ இந்தத் தாக்குதலுக்கு <PARTICIPANT-ARG ID="10"><LINK EVENT_ARG="9" ID="24" TYPE_REL="EVENT_ARG"/> தலிபான்கள் </PARTICIPANT-ARG> பொறுப்பேற்றுக் கொண்டனர். 
+
+ ஆப்கானிஸ்தானைத் தலிபான் தீவிரவாதிகள் பிடித்து வைத்துக்கொண்டு பயங்கர கட்டுப்பாடுகள் விதித்தனர். அமெரிக்க தலைமையிலான நேட்டோ படைகளின் அதிரடி நடவடிக்கைகளால் கடந்த 2001-ம் ஆண்டு தலிபான்கள் பிடியில் இருந்து ஆப்கன் விடுவிக்கப்பட்டது. 
+
+ எனினும், ஆப்கானிஸ்தானில் அண்மைக்காலமாக ராணுவத்தினர், போலீஸாரை குறிவைத்து <PARTICIPANT-ARG ID="12"><LINK EVENT_ARG="11" ID="25" TYPE_REL="EVENT_ARG"/> தலிபான் தீவிரவாதிகள் </PARTICIPANT-ARG><MAN_MADE_EVENT ID="11" TYPE="TERRORIST_ATTACK"> தாக்குதல் </MAN_MADE_EVENT> நடத்தி வருவது குறிப்பிடத்தக்கது. 
+
+</DOCUMENT>

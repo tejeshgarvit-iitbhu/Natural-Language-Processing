@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>583 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="14" TYPE_REL="EVENT_ARG"/> நைஜீரியா தேவாலயத்தில் </PLACE-ARG><MAN_MADE_EVENT ID="1" TYPE="SHOOT_OUT"> துப்பாக்கிச் சூடு: </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="15" TYPE_REL="EVENT_ARG"/> 19 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> ஆப்பிரிக்க நாடான நைஜீரியாவில் தேவாலயம் </PLACE-ARG> ஒன்றில் நடத்தப்பட்ட <MAN_MADE_EVENT ID="4" TYPE="SHOOT_OUT"> துப்பாக்கிச் சூட்டில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> 19 பேர் பலியாகினர். </CASUALTIES-ARG>
+
+ இதுகுறித்து ஏஎஃப்பி செய்தி நிறுவனமானது, <PLACE-ARG ID="7"><LINK EVENT_ARG="9" ID="18" TYPE_REL="EVENT_ARG"/> &quot;நைஜீரியாவில் பெனு மாகாணத்திலுள்ள கிராமம் ஒன்றில் தேவாலயத்தில் </PLACE-ARG><TIME-ARG ID="8"><LINK EVENT_ARG="9" ID="19" TYPE_REL="EVENT_ARG"/> செவ்வாய்க்கிழமை அதிகாலை </TIME-ARG> துப்பாக்கி ஏந்திய நபர்கள் <MAN_MADE_EVENT ID="9" TYPE="SHOOT_OUT"> தாக்குதல் </MAN_MADE_EVENT> நடத்தியதில் <CASUALTIES-ARG ID="10"><LINK EVENT_ARG="9" ID="20" TYPE_REL="EVENT_ARG"/> 2 பாதிரியார்கள் உட்பட 19 பேர் கொல்லப்பட்டனர். </CASUALTIES-ARG> துப்பாக்கிச் சூடு நடத்தியவர்கள் கால்நடை மேய்க்கும் முஸ்லிம் சமூகத்தினர் என்று போலீஸார் சந்தேகம் தெரிவித்துள்ளனர்” என்று செய்தி வெளியிட்டுள்ளது. 
+
+ இந்தத் தாக்குதலுக்கு முன்னதாகவே அப்பகுதியில் உள்ள 10 வீடுகளுக்கு தீ வைத்து அங்குருக்கும் கும்பல் வன்முறையில் ஈடுபட்டதாக நைஜீரிய ஊடகங்கள் செய்தி வெலியிட்டுள்ளன. 
+
+ <PLACE-ARG ID="13"><LINK EVENT_ARG="9" ID="21" TYPE_REL="EVENT_ARG"/> நைஜீரியாவின் தென் மத்திய பகுதியில் </PLACE-ARG> கிறிஸ்தவர்கள் வேளாண் தொழிலும், இஸ்லாமியர்கள் கால்நடை வளர்ப்பு தொழிலும் செய்து வருகின்றனர். இவர்களுக்கு இடையே கடந்த சில வருடங்களாக மோதல் நிலவி வருகிறது. 
+
+ <TIME-ARG ID="11"><LINK EVENT_ARG="9" ID="23" TYPE_REL="EVENT_ARG"/> கடந்த ஜனவரி மாதத்தில் </TIME-ARG> ஏற்பட்ட மோதலில் <CASUALTIES-ARG ID="12"><LINK EVENT_ARG="9" ID="22" TYPE_REL="EVENT_ARG"/> 70 பேர் பலியாகினர் </CASUALTIES-ARG> என்பது குறிப்பிடத்தக்கது. 
+
+</DOCUMENT>

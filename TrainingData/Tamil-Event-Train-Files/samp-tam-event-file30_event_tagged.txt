@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>287 <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> ஆப்கனில் </PLACE-ARG> கார் <MAN_MADE_EVENT ID="0" TYPE="NORMAL_BOMBING"> குண்டுவெடிப்பு: </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> 12 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="5"><LINK EVENT_ARG="3" ID="14" TYPE_REL="EVENT_ARG"/> ஆப்கானிஸ்தானில் </PLACE-ARG> தீவிரவாதிகள் நடத்திய <MAN_MADE_EVENT ID="3" TYPE="NORMAL_BOMBING"> கார் குண்டுவெடிப்பில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="4"><LINK EVENT_ARG="3" ID="15" TYPE_REL="EVENT_ARG"/> 12 பேர் பலியாகினர். 4 பேர் காயமடைந்தனர். </CASUALTIES-ARG>
+
+ இதுகுறித்து ஆப்கன் அதிகாரிகள் தரப்பில், <PLACE-ARG ID="6"><LINK EVENT_ARG="8" ID="16" TYPE_REL="EVENT_ARG"/> ஆப்கானிஸ்தானின் கிழக்கு மாகாணத்திலுள்ள ஜாலாலாபாத் நகரில் </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="8" ID="17" TYPE_REL="EVENT_ARG"/> ஞாயிற்றுக்கிழமை </TIME-ARG> தீவிரவாதிகள் நடத்திய <MAN_MADE_EVENT ID="8" TYPE="NORMAL_BOMBING"> கார் குண்டுவெடிப்பில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="9"><LINK EVENT_ARG="8" ID="18" TYPE_REL="EVENT_ARG"/> 12 பேர் பலியாகினர். </CASUALTIES-ARG> இதனைத் தொடர்ந்து அங்கு பாதுகாப்புப் படையினருக்கும் தீவிரவாதிகளுக்கும் இடையே பலத்த <MAN_MADE_EVENT ID="10" TYPE="SHOOT_OUT"> துப்பாக்கிச் சூடு </MAN_MADE_EVENT> நடத்தப்பட்டது. இதில் குண்டுவெடிப்பை நடத்திய <CASUALTIES-ARG ID="11"><LINK EVENT_ARG="10" ID="19" TYPE_REL="EVENT_ARG"/> நான்கு தீவிரவாதிகள் கொல்லப்பட்டனர். </CASUALTIES-ARG> இந்தக் குண்டுவெடிப்பில் காயமடைந்த 4 நபர்கள் மருந்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்” என்று தெரிவிக்கப்பட்டுள்ளது. 
+
+ இந்தத் தாக்குதலுக்கு <PARTICIPANT-ARG ID="20"><LINK EVENT_ARG="21" ID="25" TYPE_REL="EVENT_ARG"/> ஐஎஸ் தீவிரவாத அமைப்பு </PARTICIPANT-ARG> பொறுப்பேற்றுக் கொண்டுள்ளது. 
+
+ <TIME-ARG ID="23"><LINK EVENT_ARG="21" ID="28" TYPE_REL="EVENT_ARG"/> மே 9 ஆம் தேதி </TIME-ARG><PLACE-ARG ID="24"><LINK EVENT_ARG="21" ID="27" TYPE_REL="EVENT_ARG"/> ஆப்கன் தலைநகர் காபூலில் </PLACE-ARG> தீவிரவாதிகள் நடத்திய <MAN_MADE_EVENT ID="21" TYPE="SUICIDE_ATTACK"> தற்கொலைப்படைத் தாக்குதலில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="22"><LINK EVENT_ARG="21" ID="26" TYPE_REL="EVENT_ARG"/> 16 பேர் கொல்லப்பட்டனர். </CASUALTIES-ARG> இந்தத் தாக்குதலுக்கு தலிபான்கள் பொறுப்பேற்றனர். 
+
+ ஆப்கன் உள் நாட்டுப் போர் 
+
+ ஆப்கானிஸ்தானில் அரசுப் படைகளுக்கும் தலிபான்கள் மற்றும் ஐஎஸ் தீவிரவாதிகள் இடையே உள்நாட்டுப் போர் நடைபெற்று வருகிறது. அரசுப் படைகளுக்கு ஆதரவாக அமெரிக்க கூட்டுப் படையும் அங்கு முகாமிட்டுள்ளது. 
+
+ சில மாதங்களுக்கு முன்பு தலிபான் அமைப்பைப் சேர்ந்த தற்கொலைப்படைத் தீவிரவாதி தலைநகர் காபூலில் வெடிகுண்டுகள் நிரப்பிய ஆம்புலன்ஸை வெடிக்கச் செய்ததில் 100-க்கும் மேற்பட்டோர் உயிரிழந்தனர். 
+
+ அண்மைக்காலமாக தலிபான்கள், ஐஎஸ் தீவிரவாதிகள் தாக்குதல்கள் அதிகரித்து வருவது குறிப்பிடத்தக்கது. 
+
+</DOCUMENT>

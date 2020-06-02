@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>106 https://punjab.punjabkesari.in/punjab/news/accident-752387 
+
+ मोटरसाइकिल सवार दम्पति को तेज रफ्तार ट्रक ने मारी टक्कर,बच्ची की मौत 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="4" TYPE_REL="EVENT_ARG"/> फिरोजपुर(कुमार): </PLACE-ARG> शहर के <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> जीरा गेट </PLACE-ARG> के नजदीक पैट्रोल पम्प के पास मोटरसाइकिल पर सवार दो छोटे बच्चों सहित दम्पति को तेज रफ्तार ट्रक ने <MAN_MADE_EVENT ID="0" TYPE="VEHICULAR_COLLISION"> टक्कर मार </MAN_MADE_EVENT> दी। इस हादसे में <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> पांच वर्षीय बच्ची की मौत हो गई। </CASUALTIES-ARG> मां की हालत गम्भीर बताई जा रही है। इस हादसे में मोटरसाइकिल सवार पिता ओर छोटा बेटा बाल-बाल बच गए। ट्रक चालक को पुलिस ने गिरफ्तार कर मामला दर्ज कर लिया है। 
+
+</DOCUMENT>

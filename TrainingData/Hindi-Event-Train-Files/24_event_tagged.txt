@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>630 https://www.jagran.com/world/middle-east-gaza-clashes-three-more-palestinians-succumb-to-injuries-now-death-toll-at65-17977240.html 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> गाजा </PLACE-ARG><MAN_MADE_EVENT ID="0" TYPE="RIOTS"> संघर्षः </MAN_MADE_EVENT> इलाज के दौरान तीन और फिलिस्तीनियों ने तोड़ा दम, <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> 65 हुई मरने वालों की संख्या </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> अंकारा (एएनआइ)। </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> गाजा </PLACE-ARG> में <PARTICIPANT-ARG ID="2"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> इजराइली सेना </PARTICIPANT-ARG> की गोली का शिकार होने वाले फिलिस्तीनियों की संख्या अब 65 पहुंच गई है। <TIME-ARG ID="15"><LINK EVENT_ARG="11" ID="18" TYPE_REL="EVENT_ARG"/> पिछले हफ्ते </TIME-ARG><PLACE-ARG ID="12"><LINK EVENT_ARG="11" ID="17" TYPE_REL="EVENT_ARG"/> इजरायल </PLACE-ARG> के 70वें स्थापना दिवस पर <PLACE-ARG ID="13"><LINK EVENT_ARG="11" ID="19" TYPE_REL="EVENT_ARG"/> गाजा </PLACE-ARG> में सीमा पर बड़ी संख्या में लोगों ने प्रदर्शन किया था, जिसके बाद सुरक्षाबलों की ओर से <MAN_MADE_EVENT ID="11" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> की गई। तब सूचना आई थी सेना की गोली से <CASUALTIES-ARG ID="14"><LINK EVENT_ARG="11" ID="20" TYPE_REL="EVENT_ARG"/> 60 से ज्यादा लोग मारे गए। </CASUALTIES-ARG>
+
+ ताजा जानकारी के मुताबिक उस गोलीबारी में गंभीर रूप से घायल तीन और फिलिस्तीनियों ने इलाज के दौरान दम तोड़ दिया है। इस तरह मरने वालों की संख्या का आकड़ा अब 65 तक पहुंच गया है। फिलिस्तीन के स्वास्थ्य मंत्रालय ने भी तीन लोगों की मौत की पुष्टि की है। 
+
+ ये हुआ था गाजा में 
+
+ गौरतलब है कि गत <TIME-ARG ID="24"><LINK EVENT_ARG="21" ID="31" TYPE_REL="EVENT_ARG"/> सोमवार </TIME-ARG> को <PLACE-ARG ID="22"><LINK EVENT_ARG="21" ID="30" TYPE_REL="EVENT_ARG"/> इजरायल </PLACE-ARG> का 70वां स्थापना दिवस था। उसी दिन अमेरिका ने अपना दूतावास भी तेल अवीव से यरूशलम में औपचारिक रूप से ट्रांसफर किया। जिसके बाद <PLACE-ARG ID="23"><LINK EVENT_ARG="21" ID="29" TYPE_REL="EVENT_ARG"/> गाजा </PLACE-ARG> सीमा पर बड़े पैमाने पर एक विरोध प्रदर्शन हुए। विरोध प्रदर्शन के दौरान गाजा सीमा पर <PARTICIPANT-ARG ID="25"><LINK EVENT_ARG="21" ID="28" TYPE_REL="EVENT_ARG"/> इजरायली सेना </PARTICIPANT-ARG> और प्रदर्शनकारियों के बीच <MAN_MADE_EVENT ID="21" TYPE="RIOTS"> संघर्ष </MAN_MADE_EVENT> हो गया। इस संघर्ष में <PARTICIPANT-ARG ID="26"><LINK EVENT_ARG="21" ID="27" TYPE_REL="EVENT_ARG"/> इजरायली सुरक्षाबलों </PARTICIPANT-ARG> ने करीब <CASUALTIES-ARG ID="32"><LINK EVENT_ARG="21" ID="33" TYPE_REL="EVENT_ARG"/> 60 फिलिस्तीनी मार गिराए थे। </CASUALTIES-ARG> वहीं, गाजा में इज़राइल और आतंकवादियों के बीच 2008 से तीन युद्ध हो चुके हैं। 
+
+</DOCUMENT>

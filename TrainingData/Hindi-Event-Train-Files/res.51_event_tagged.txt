@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>191 https://www.punjabkesari.in/national/news/earthquake-539620 
+
+ <NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> भकूंप </NATURAL_EVENT> के तेज झटकाें से हिला पंजाब 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> जालंधरः </PLACE-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> पंजाब </PLACE-ARG> समेत देश के कई हिस्सों में <TIME-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> बुधवार </TIME-ARG> को भूकंप के तेज झटके महसूस किए गए। <MAGNITUDE-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> भूकंप के झटके करीब 10 बजकर 40 मिनट पर महसूस किए गए, </MAGNITUDE-ARG> जिसके बाद लाेग अपने घराें, दफतराें से बाहर निकल अाएं। 
+
+</DOCUMENT>

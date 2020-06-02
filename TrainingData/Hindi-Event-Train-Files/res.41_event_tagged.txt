@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>205 https://www.punjabkesari.in/chandigarh/news/fire-820437 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> बुटीक की दुकान </PLACE-ARG> में लगी भीषण <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग, </MAN_MADE_EVENT> लाखों का नुकसान 
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> नयागांव(मुनीष) </PLACE-ARG> : <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> आदर्श नगर </PLACE-ARG> में एक दुकान में आग लगने से <CASUALTIES-ARG ID="6"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> लाखों का सामान जलकर राख हो गया। </CASUALTIES-ARG> दुकान के मालिक राजिंदर कुमार ने बताया कि वह आदर्श नगर में साई पीजी के पास कई वर्ष से बुटीक और कपड़े की दुकान करते हैं। 
+
+ <TIME-ARG ID="5"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> शनिवार तड़के 3:30 बजे </TIME-ARG> दुकान के पास वाले लोगों ने उन्हें सूचना दी कि दुकान में आग लग गई है। मौके पर जाकर देखा तो दुकान में आग ज्यादा फैल गई थी। मौके पर फायर ब्रिगेड़ को भी बुलाया गया, लेकिन दुकान का सारा सामान जल गया। 
+
+ राजिंदर ने बताया कि 10 मशीनें और सभी कपड़े राख हो गए हैं। उन्होंने दावा किया कि 10 लाख का नुकसान हो गया है। दुकान में दोनों ओर दरवाजे हैं। आग पिछले दरवाजे की ओर से लगी है। उन्होंने बताया कि <REASON-ARG ID="7"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> बिजली मीटर भी इसी ओर लगा हुआ है। </REASON-ARG> आग का कारण शॉट सर्किट ही माना जा रहा है। वहीं इस संबंध में पुलिस को सूचित कर दिया गया है। 
+
+</DOCUMENT>

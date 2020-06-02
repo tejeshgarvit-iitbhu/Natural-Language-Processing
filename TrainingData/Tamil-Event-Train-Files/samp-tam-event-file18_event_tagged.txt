@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>247 <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> சவுதி ராணுவ தளத்தில் </PLACE-ARG><MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> துப்பாக்கிச் சூடு: </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> போலீஸ் அதிகாரி பலி; பலர் காயம் </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> சவுதியில் ராணுவ தளத்தில் </PLACE-ARG> துப்பாக்கி ஏந்திய நபர்கள் நடத்திய <MAN_MADE_EVENT ID="6" TYPE="SHOOT_OUT"> தாக்குதலில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="4"><LINK EVENT_ARG="6" ID="15" TYPE_REL="EVENT_ARG"/> ஒரு போலீஸ் அதிகாரி கொல்லப்பட்டுள்ளார். பலர் காயமடைந்தனர். </CASUALTIES-ARG>
+
+ இதுகுறித்து சவுதி ஊடகங்கள், ‘சவுதியில் மெக்காவிலிருந்து 70 கிலோமீட்ட்ர தொலைவில் அமைந்துள்ள <PLACE-ARG ID="9"><LINK EVENT_ARG="8" ID="16" TYPE_REL="EVENT_ARG"/> தைஃபிலுள்ள ராணுவ தளத்தில் </PLACE-ARG> துப்பாக்கி ஏந்திய நபர்கள் <TIME-ARG ID="7"><LINK EVENT_ARG="8" ID="17" TYPE_REL="EVENT_ARG"/> இன்று (புதன்கிழமை) </TIME-ARG><MAN_MADE_EVENT ID="8" TYPE="SHOOT_OUT"> தாக்குதல் </MAN_MADE_EVENT> நடத்தினர். இதில் <CASUALTIES-ARG ID="10"><LINK EVENT_ARG="8" ID="18" TYPE_REL="EVENT_ARG"/> ஒரு போலீஸ் அதிகாரி பலியானார். பலர் காயமடைந்தனர் </CASUALTIES-ARG> என்று செய்தி வெளியிட்டுள்ளது. மேலும் தாக்குதல் நடத்திய நபர்களில் ஒருவர் கைது செய்யப்பட்டார். மற்றொருவர் தப்பி சென்று விட்டார்&quot; என்று செய்தி வெளியிட்டுள்ளது. 
+
+ இந்த துப்பாக்கிச் சூட்டுக்கு இதுவரை எந்த அமைப்பும் பொறுப்பேற்கவில்லை எனினும் இந்தத் தாக்குதலில் <NAME-ARG ID="11"><LINK EVENT_ARG="8" ID="19" TYPE_REL="EVENT_ARG"/> ஐஎஸ் தீவிரவாதிகள் </NAME-ARG> ஈடுபட்டிருக்கலாம் என்ற சவுதி ராணுவ அதிகாரிகள் சந்தேகம் தெரிவித்துள்ளனர். 
+
+ இந்தத் தாக்குதல் தொடர்பான காட்சிகள் சமூக வலைதளங்களில் வெளியாகியுள்ளது. 
+
+</DOCUMENT>

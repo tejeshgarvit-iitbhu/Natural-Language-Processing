@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>368 Gunman <MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> shoots </MAN_MADE_EVENT> police in <PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> Liege, </PLACE-ARG><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> four dead: </CASUALTIES-ARG> Belgian media 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> BRUSSELS: </PLACE-ARG> A gunman <CASUALTIES-ARG ID="7"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> killed two police officers </CASUALTIES-ARG> and a passer-by <TIME-ARG ID="3"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> on Tuesday </TIME-ARG> before being <MAN_MADE_EVENT ID="4" TYPE="SHOOT_OUT"> shot </MAN_MADE_EVENT> dead in the <PLACE-ARG ID="5"><LINK EVENT_ARG="4" ID="13" TYPE_REL="EVENT_ARG"/> centre of the Belgian city of Liege, </PLACE-ARG> public broadcaster RTBF said on its website and authorities said terrorism could not be ruled out as a motive. 
+
+ La Libre Belgique newspaper quoted a police source as saying the gunman shouted Allahu Akbar -- God is greatest in Arabic -- and RTBF said investigators believed the attacker may well have had a terrorist motive. 
+
+</DOCUMENT>

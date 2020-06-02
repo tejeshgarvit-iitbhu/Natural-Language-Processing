@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>992 <MAN_MADE_EVENT ID="0" TYPE="TERRORIST_ATTACK"> Terrorists attack </MAN_MADE_EVENT> police post in <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> Jammu and Kashmir&apos;s Pulwama district </PLACE-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="5" ID="8" TYPE_REL="EVENT_ARG"/> SRINAGAR: </PLACE-ARG> Terrorists <TIME-ARG ID="4"><LINK EVENT_ARG="5" ID="9" TYPE_REL="EVENT_ARG"/> on Monday </TIME-ARG><MAN_MADE_EVENT ID="5" TYPE="TERRORIST_ATTACK"> attacked </MAN_MADE_EVENT> a police post guarding the minority community in <PLACE-ARG ID="3"><LINK EVENT_ARG="5" ID="10" TYPE_REL="EVENT_ARG"/> Pulwama district of Jammu and Kashmir </PLACE-ARG> by opening fire, a police official said. 
+
+ No loss of life or damage was reported in the incident, he said. 
+
+ The ultras opened fire on a minority guard post at <PLACE-ARG ID="6"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> Saidpora in Tahab area of Pulwama district </PLACE-ARG> this afternoon. The police personnel retaliated, forcing terrorists to escape from the spot. 
+
+ The official said terrorists might have carried out the attack with an aim of snatching weapons from cops. 
+
+</DOCUMENT>

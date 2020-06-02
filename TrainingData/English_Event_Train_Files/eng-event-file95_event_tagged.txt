@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>180 Bus <MAN_MADE_EVENT ID="5" TYPE="TRANSPORT_HAZARDS"> crash </MAN_MADE_EVENT><CASUALTIES-ARG ID="0"><LINK EVENT_ARG="5" ID="12" TYPE_REL="EVENT_ARG"/> kills 22 </CASUALTIES-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="5" ID="13" TYPE_REL="EVENT_ARG"/> in Thailand </PLACE-ARG>
+
+ A bus carrying worshippers home from a temple at the end of Buddhist Lent <MAN_MADE_EVENT ID="15" TYPE="TRANSPORT_HAZARDS"> plunged </MAN_MADE_EVENT> into a ravine <PLACE-ARG ID="3"><LINK EVENT_ARG="15" ID="22" TYPE_REL="EVENT_ARG"/> in northern Thailand, </PLACE-ARG><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="15" ID="17" TYPE_REL="EVENT_ARG"/> killing 22 passengers, </CASUALTIES-ARG> police said <TIME-ARG ID="4"><LINK EVENT_ARG="15" ID="16" TYPE_REL="EVENT_ARG"/> on Thursday. </TIME-ARG>
+
+ The bus driver lost control of the vehicle before it <MAN_MADE_EVENT ID="7" TYPE="TRANSPORT_HAZARDS"> fell </MAN_MADE_EVENT> about <DEPTH-ARG ID="8"><LINK EVENT_ARG="7" ID="18" TYPE_REL="EVENT_ARG"/> 30 metres </DEPTH-ARG> into the ravine on <PLACE-ARG ID="9"><LINK EVENT_ARG="7" ID="20" TYPE_REL="EVENT_ARG"/> a curvy rural road in Wang Nuea district in Lampang province </PLACE-ARG><TIME-ARG ID="10"><LINK EVENT_ARG="7" ID="19" TYPE_REL="EVENT_ARG"/> on Wednesday, </TIME-ARG> police Col. Somdet Tossaporn said. <CASUALTIES-ARG ID="11"><LINK EVENT_ARG="7" ID="21" TYPE_REL="EVENT_ARG"/> The driver was among 16 people injured. </CASUALTIES-ARG>
+
+ Most of those killed were women. 
+
+ Mr. Somdet said the driver is facing charges of causing deaths by reckless driving, which carry a maximum jail term of 10 years. 
+
+</DOCUMENT>

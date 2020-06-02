@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>167 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="2" ID="13" TYPE_REL="EVENT_ARG"/> 35 killed </CASUALTIES-ARG> as <MAN_MADE_EVENT ID="2" TYPE="TRANSPORT_HAZARDS"> bus falls </MAN_MADE_EVENT> off cliff <PLACE-ARG ID="1"><LINK EVENT_ARG="2" ID="14" TYPE_REL="EVENT_ARG"/> in China </PLACE-ARG>
+
+ A <MAN_MADE_EVENT ID="3" TYPE="TRANSPORT_HAZARDS"> bus fell </MAN_MADE_EVENT> from a cliff <PLACE-ARG ID="4"><LINK EVENT_ARG="3" ID="15" TYPE_REL="EVENT_ARG"/> in north-central China </PLACE-ARG><TIME-ARG ID="5"><LINK EVENT_ARG="3" ID="22" TYPE_REL="EVENT_ARG"/> on Friday, </TIME-ARG><CASUALTIES-ARG ID="6"><LINK EVENT_ARG="3" ID="16" TYPE_REL="EVENT_ARG"/> killing 35 people on board, </CASUALTIES-ARG> authorities said. 
+
+ <CASUALTIES-ARG ID="7"><LINK EVENT_ARG="3" ID="17" TYPE_REL="EVENT_ARG"/> Twenty-five people were killed </CASUALTIES-ARG> on the spot <PLACE-ARG ID="8"><LINK EVENT_ARG="3" ID="19" TYPE_REL="EVENT_ARG"/> in Shaanxi province </PLACE-ARG> and <CASUALTIES-ARG ID="9"><LINK EVENT_ARG="3" ID="18" TYPE_REL="EVENT_ARG"/> 10 died </CASUALTIES-ARG> in a hospital, the propaganda office of Chunhua county said in a statement. There was no word on the cause of the accident, and authorities said they were investigating. 
+
+ The bus was carrying 46 passengers and that it <MAN_MADE_EVENT ID="10" TYPE="TRANSPORT_HAZARDS"> fell </MAN_MADE_EVENT> into a ravine <DEPTH-ARG ID="12"><LINK EVENT_ARG="10" ID="20" TYPE_REL="EVENT_ARG"/> more than 30 metres </DEPTH-ARG> deep near a forest park <TIME-ARG ID="11"><LINK EVENT_ARG="10" ID="21" TYPE_REL="EVENT_ARG"/> on Friday afternoon, </TIME-ARG> Xinhua reported. 
+
+ Another 11 passengers were being treated, with five in critical condition. 
+
+</DOCUMENT>

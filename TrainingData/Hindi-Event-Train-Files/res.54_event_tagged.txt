@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>2446 https://punjab.punjabkesari.in/punjab/news/car-collision-with-dividers-death-of-mother-and-son-829169 
+
+ आंख लगने पर कार डिवाइडर पार कर दूसरी से <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> टकराई, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> मां-बेटे की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> फिल्लौर </PLACE-ARG><PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> (भाखड़ी): </PLACE-ARG> आज <TIME-ARG ID="4"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> शाम सवा 5 बजे </TIME-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> गांव खैहरा </PLACE-ARG> के नजदीक एक कार चालक की आंख लगने से उसकी कार डिवाइडर पार कर पलटती हुई एक अन्य कार से जा टकराई। दोनों की टक्कर से धमाका इतना जबरदस्त हुआ कि दोनों कारें पलटियां खाती हुई काफी दूर तक गई। इस हादसे में मां-बेटे की मौत हो गई जबकि एक अन्य गंभीर रूप से घायल है। 
+
+ जानकारी के अनुसार वरिंदर बजाज वासी नोएडा अपनी पत्नी पंचम बजाज व माता चंद्रकांता बजाज के साथ अपनी स्विफ्ट डिजायर कार यू.पी.16-बी.जे-1494 में लुधियाना की तरफ जा रहा था। गांव खैहरा के नजदीक दूसरी तरफ से आ रही तेज रफ्तार वरना कार पी.बी.-36-एच.1053 जिसे रमन कुमार चला रहा था, की आंख लग गई और उसकी कार डिवाइडर पार कर पलटी खाती हुई सड़क के बीच आ गई। इस दौरान लुधियाना की तरफ जा रहे वरिंदर की कार उससे टकराकर बुरी तरह से दुर्घटनाग्रस्त हो गई। 
+
+</DOCUMENT>

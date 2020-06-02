@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>209 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="9" TYPE_REL="EVENT_ARG"/> 24-year-old killed, </CASUALTIES-ARG> another injured in <NATURAL_EVENT ID="1" TYPE="FOREST_FIRE"> forest fire </NATURAL_EVENT> in <PLACE-ARG ID="2"><LINK EVENT_ARG="1" ID="10" TYPE_REL="EVENT_ARG"/> Kangra </PLACE-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="6" ID="11" TYPE_REL="EVENT_ARG"/> DHARAMSHALA: </PLACE-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="6" ID="12" TYPE_REL="EVENT_ARG"/> On Tuesday, </TIME-ARG> a 24-year-old man was burnt alive while helping forest department personnel douse a massive <NATURAL_EVENT ID="6" TYPE="FOREST_FIRE"> forest fire </NATURAL_EVENT> in <PLACE-ARG ID="5"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> Kangra. </PLACE-ARG> This was the second such death in the area in this season. 
+
+ Forest fires have become a major problem this summer in the area as these were destroying forest wealth, killing animals and damaging private properties adjacent to it. 
+
+ The man who died on Tuesday has been identified as Sativinder Singh. He belonged to Goraldhar village of Sansarpur Terris area in Dehra sub-division of Kangra district. Deputy superitendent of police Lalman Sharma told that a <NATURAL_EVENT ID="7" TYPE="FOREST_FIRE"> forest fire </NATURAL_EVENT> raged <PLACE-ARG ID="8"><LINK EVENT_ARG="7" ID="14" TYPE_REL="EVENT_ARG"/> near Goraldhar village. </PLACE-ARG> A few local youths also went to help the forest department personnel to douse the flames. 
+
+ “Sativinder was caught in the flames and was charred to death,” he told. Another youth identified as Surinder Kumar (35) has sustained 50% burn injuries. 
+
+ He was rushed to Chintpurni hospital. Given his critical condition, he has been referred to Dr Rajendera Prasad Government Medical College (RPGMC), Tanda. 
+
+</DOCUMENT>

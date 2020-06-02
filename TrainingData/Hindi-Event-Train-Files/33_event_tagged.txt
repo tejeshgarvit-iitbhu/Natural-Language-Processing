@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>130 https://navbharattimes.indiatimes.com/state/other-states/bangalore/chennai/tamil-nadu-beaten-two-laborers-in-bihar-in-the-name-of-the-child-theft/articleshow/64823075.cms 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> तमिलनाडु: </PLACE-ARG><MAN_MADE_EVENT ID="0" TYPE="CRIME"> बच्‍चा चोरी </MAN_MADE_EVENT> के शक में बिहार के दो मजदूरों को पीटा 
+
+ देशभर में मॉब लिंचिंग की घटनाएं रुकने का नाम नहीं ले रही हैं। <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> तमिलनाडु </PLACE-ARG> की राजधानी <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> चैन्‍नै </PLACE-ARG> से भी ऐसी एक घटना सामने आई है। शहर के <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> तेयनामपेट इलाके </PLACE-ARG> में एक उन्‍मादी भीड़ ने बच्‍चा चोरी करने के संदेह में बिहार के दो मजदूरों को बुरी तरह से पीट दिया। <TIME-ARG ID="5"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> शनिवार शाम </TIME-ARG> को हुई इस घटना में दोनों मजदूर गंभीर रूप से घायल हो गए हैं और उनका इलाज चल रहा है। 
+
+ पुलिस ने दोनों मजदूरों बी गोपाल साहू और के विनोद बिहारी को स्‍टैनली मेडिकल कॉलेज में भर्ती कराया है। डॉक्‍टरों का कहना है कि दोनों की हालत गंभीर बनी हुई है। जांच अधिकारी ने कहा, &apos;गोपाल और विनोद अपने साथी कामगारों हरि कृष्‍ण भोरा और सत्‍यनारायण सेठी और सिबिन साहू के साथ मेट्रो साइट से लौट रहे थे। उसी समय भीड़ ने उन्‍हें पीट दिया।&apos; 
+
+</DOCUMENT>

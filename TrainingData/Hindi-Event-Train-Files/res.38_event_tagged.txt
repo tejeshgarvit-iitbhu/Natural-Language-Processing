@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1429 https://up.punjabkesari.in/jharkhand/news/naxals-give-10-vehicles-to-fire-799080 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> झारखंडः </PLACE-ARG><REASON-ARG ID="3"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> लेवी की मांग पूरी ना होने पर </REASON-ARG><PARTICIPANT-ARG ID="4"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> नक्सलियों </PARTICIPANT-ARG> ने 10 वाहनों को किया गया <MAN_MADE_EVENT ID="0" TYPE="TERRORIST_ATTACK"> आग के हवाले </MAN_MADE_EVENT>
+
+ गिरिडीहः <PLACE-ARG ID="6"><LINK EVENT_ARG="8" ID="13" TYPE_REL="EVENT_ARG"/> झारखंड </PLACE-ARG> के <PLACE-ARG ID="2"><LINK EVENT_ARG="8" ID="14" TYPE_REL="EVENT_ARG"/> गिरिडीह </PLACE-ARG> में <TIME-ARG ID="5"><LINK EVENT_ARG="8" ID="11" TYPE_REL="EVENT_ARG"/> मंगलवार की देर रात </TIME-ARG><PARTICIPANT-ARG ID="7"><LINK EVENT_ARG="8" ID="12" TYPE_REL="EVENT_ARG"/> नक्सलियों </PARTICIPANT-ARG> ने जमकर उत्पात मचाया। नक्सलियों ने <REASON-ARG ID="9"><LINK EVENT_ARG="8" ID="10" TYPE_REL="EVENT_ARG"/> लेवी की मांग पूरी ना होने पर </REASON-ARG> सड़क निर्माण के कार्य में लगे दस वाहनों को <MAN_MADE_EVENT ID="8" TYPE="TERRORIST_ATTACK"> आग के हवाले </MAN_MADE_EVENT> कर दिया। सड़क निर्माण का कार्य धनबाद की एक कंपनी कर रही है। 
+
+ जानकारी के अनुसार, मंगलवार की देर रात नक्सलियों ने पीरटांड़ प्रखंड में बांध के नजदीक सड़क निर्माण कार्य को बाधित करने के लिए आगजनी की। नक्सलियों द्वारा निरंतर लेवी की मांग की जा रही थी जिसको लेकर उन्होंने निर्माण कंपनी को धमकी भी दी थी। 
+
+ स्थानीय लोगों का कहना है कि पीरटांड़ प्रखंड के चिरकी हारलाडीह में सड़क का निर्माण कार्य बीते एक वर्ष से चल रहा है। घटना की सूचना मिलने के बाद एसपी सुरेंद्र कमार झा ने घटनास्थल पर पहुंचकर जांच शुरु की। 
+
+</DOCUMENT>

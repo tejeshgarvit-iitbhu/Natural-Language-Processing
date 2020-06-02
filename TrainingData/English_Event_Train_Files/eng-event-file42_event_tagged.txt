@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>209 Elderly couple <MAN_MADE_EVENT ID="6" TYPE="ACCIDENTS"> hit </MAN_MADE_EVENT> by car <PLACE-ARG ID="1"><LINK EVENT_ARG="6" ID="8" TYPE_REL="EVENT_ARG"/> in Barwani, </PLACE-ARG> die 
+
+ <PLACE-ARG ID="0"><LINK EVENT_ARG="7" ID="9" TYPE_REL="EVENT_ARG"/> BARWANI: </PLACE-ARG><CASUALTIES-ARG ID="3"><LINK EVENT_ARG="7" ID="10" TYPE_REL="EVENT_ARG"/> An elderly couple was killed </CASUALTIES-ARG> when they were <MAN_MADE_EVENT ID="7" TYPE="ACCIDENTS"> hit </MAN_MADE_EVENT> by a car on <PLACE-ARG ID="2"><LINK EVENT_ARG="7" ID="11" TYPE_REL="EVENT_ARG"/> Agra–Mumbai national highway in Barwani district </PLACE-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="7" ID="12" TYPE_REL="EVENT_ARG"/> on Wednesday. </TIME-ARG>
+
+ The couple had started for &apos;Narmada Darshan&apos; and was crossing the road at Than Fata, some10 km from Julwaniya, when the accident took place. People travelling in the car were on their way to Indore from Pune to attend funeral of Bhaiyyu Maharaj, Julwaniya police station in charge Santosh Sisodia told TOI. 
+
+ Passing motorists were on the scene immediately. Police, too, arrived. But, <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="7" ID="13" TYPE_REL="EVENT_ARG"/> 65-year-old Mal Singh and his 60-year-old wife Haru Bai died </CASUALTIES-ARG> on the spot. They were residents of Kataliya Khedi under Oon police station limits of Khargone district. Police have seized the car. 
+
+</DOCUMENT>

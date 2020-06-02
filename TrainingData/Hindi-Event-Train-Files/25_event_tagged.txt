@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1313 https://www.bhaskar.com/maharashtra/pune/news/mumbai-railway-bridge-collaps-at-andheri-5908311.html?ref=ht 
+
+ <PLACE-ARG ID="5"><LINK EVENT_ARG="3" ID="15" TYPE_REL="EVENT_ARG"/> मुंबई </PLACE-ARG> के <PLACE-ARG ID="7"><LINK EVENT_ARG="3" ID="16" TYPE_REL="EVENT_ARG"/> अंधेरी </PLACE-ARG> में <REASON-ARG ID="4"><LINK EVENT_ARG="3" ID="17" TYPE_REL="EVENT_ARG"/> तेज बारिश </REASON-ARG> से रोड <NATURAL_EVENT ID="3" TYPE="CYCLONE"> ओवरब्रिज का हिस्सा गिरा, </NATURAL_EVENT> 5 जख्मी; <AFTER_EFFECTS-ARG ID="12"><LINK EVENT_ARG="3" ID="18" TYPE_REL="EVENT_ARG"/> लोकल ट्रेन सेवा प्रभावित </AFTER_EFFECTS-ARG>
+
+ ब्रिज गिरने की वजह से विरार जाने वाली सभी ट्रेनों को रोक दिया गया है। 
+
+ <PLACE-ARG ID="6"><LINK EVENT_ARG="3" ID="22" TYPE_REL="EVENT_ARG"/> मुंबई. </PLACE-ARG> मुंबई के <PLACE-ARG ID="8"><LINK EVENT_ARG="3" ID="21" TYPE_REL="EVENT_ARG"/> अंधेरी </PLACE-ARG> स्टेशन पर <TIME-ARG ID="9"><LINK EVENT_ARG="3" ID="19" TYPE_REL="EVENT_ARG"/> मंगलवार सुबह 7:30 बजे </TIME-ARG><PLACE-ARG ID="10"><LINK EVENT_ARG="3" ID="20" TYPE_REL="EVENT_ARG"/> गोखले रोड </PLACE-ARG> ओवरब्रिज का स्लैब गिर गया। इसमें पांच लोगों के जख्मी होने की खबर है। रेलवे प्रोटेक्शन फोर्स के अफसर आर कुदवालकर ने इसकी पुष्टि की है। हादसे की वजह से <AFTER_EFFECTS-ARG ID="11"><LINK EVENT_ARG="3" ID="23" TYPE_REL="EVENT_ARG"/> वेस्टर्न लाइन पर लोकल ट्रेनों की आवाजाही ठप हो गई। </AFTER_EFFECTS-ARG> ये ओवरब्रिज अंधेरी ईस्ट को अंधेरी वेस्ट से जोड़ता है। ट्रैफिक पुलिस ने ईस्ट से वेस्ट की ओर जाने वाले यात्रियों को सलाह दी है कि वे बिसलेरी जंक्शन, तेली गली, सुर्वे चौक, अंधेरी सब-वे और एसवी रोड से आवाजाही कर सकते हैं। ब्रिज गिरने की वजह से इस पर बिछे वायर टूट गए। ऐसा कहा जा रहा है कि अगले 4-5 घंटे तक अंधेरी से चर्चगेट की ओर लोकल सेवाओं का ऑपरेशन बंद रहेगा। बांद्रा, दादर और मुंबई सेंट्रल से निकलने वाली लंबी दूरी की पैसेंजर्स ट्रेनों का वक्त बदला जा सकता है। ये देरी से चल सकती हैं। 
+
+</DOCUMENT>

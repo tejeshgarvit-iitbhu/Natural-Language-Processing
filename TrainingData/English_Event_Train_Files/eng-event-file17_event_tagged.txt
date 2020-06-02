@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>729 <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> 27 charred to death </CASUALTIES-ARG> as bus catches <MAN_MADE_EVENT ID="0" TYPE="FIRE"> fire </MAN_MADE_EVENT> after accident in <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> Bihar&apos;s Motihari </PLACE-ARG>
+
+ <PLACE-ARG ID="5"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> PATNA: </PLACE-ARG><CASUALTIES-ARG ID="11"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> At least 27 passengers are feared dead </CASUALTIES-ARG> after a bus travelling from Muzaffarpur to New Delhi turned turtle and caught <MAN_MADE_EVENT ID="1" TYPE="FIRE"> fire </MAN_MADE_EVENT><PLACE-ARG ID="6"><LINK EVENT_ARG="1" ID="14" TYPE_REL="EVENT_ARG"/> on NH-28 near Belwa village in Bihar&apos;s Motihari </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="1" ID="15" TYPE_REL="EVENT_ARG"/> on Thursday. </TIME-ARG>
+
+ State disaster management minister Dinesh Chandra Yadav said that East Champaran DM has confirmed the deaths of 27 people. 
+
+ Kotwa police station SHO Vijay Sinha told TOI that only four people could be rescued from the ill-fated bus. 
+
+ “The injured have been rushed to the local hospital for treatment. They have suffered burn injuries,” the SHO said. 
+
+ The SHO, quoting villagers and some eye witnesses, said that the accident took place when the driver attempted to save a two-wheeler. The bus belonged to a private operator, he said. 
+
+ “The bus went off the road and turned turtle. Before people could rush to rescue the trapped passengers, the vehicle burst into flames ,” the SHO said. 
+
+ The bus was carrying 32 passengers, mostly from Muzaffarpur. 
+
+ Muzaffarpur zonal IG Sunil Kumar said the bus was inspected after being pulled out but no human remains were founds inside it. Ashes, recovered from the spot, would be sent for forensic examination to ascertain if those are human ashes. A team of forensic experts have been called at the spot for the purpose. 
+
+ Officials said no remains of human body were found inside the bus. The vehicle has been pulled out of the roadside ditch. 
+
+</DOCUMENT>

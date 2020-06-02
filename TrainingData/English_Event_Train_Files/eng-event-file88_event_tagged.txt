@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>174 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="7" ID="11" TYPE_REL="EVENT_ARG"/> At least 32 children die </CASUALTIES-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="7" ID="12" TYPE_REL="EVENT_ARG"/> in Colombia </PLACE-ARG> bus <MAN_MADE_EVENT ID="7" TYPE="FIRE"> fire </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="8" ID="13" TYPE_REL="EVENT_ARG"/> At least 32 children perished </CASUALTIES-ARG> when a bus caught <MAN_MADE_EVENT ID="8" TYPE="FIRE"> fire </MAN_MADE_EVENT><PLACE-ARG ID="3"><LINK EVENT_ARG="8" ID="14" TYPE_REL="EVENT_ARG"/> in northern Colombia, </PLACE-ARG> officials said <TIME-ARG ID="4"><LINK EVENT_ARG="8" ID="15" TYPE_REL="EVENT_ARG"/> on Sunday. </TIME-ARG>
+
+ Police said the cause of the accident was not yet known, but occurred as the victims were returning from an evangelical Christian event. 
+
+ “We are still investigating what happened, but preliminary information is that <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="8" ID="16" TYPE_REL="EVENT_ARG"/> 32 children died </CASUALTIES-ARG> when the bus caught <MAN_MADE_EVENT ID="9" TYPE="FIRE"> fire </MAN_MADE_EVENT><PLACE-ARG ID="6"><LINK EVENT_ARG="8" ID="17" TYPE_REL="EVENT_ARG"/> near the city of Fundacion,” 850 kilometres north of Bogota, </PLACE-ARG> regional police commander General Rodrigo Gonzalez said. 
+
+ El Tiempo newspaper said a suspected cause of the <MAN_MADE_EVENT ID="10" TYPE="FIRE"> fire </MAN_MADE_EVENT> was <REASON-ARG ID="18"><LINK EVENT_ARG="10" ID="19" TYPE_REL="EVENT_ARG"/> a shipment of contraband fuel loaded onto the bus. </REASON-ARG>
+
+ Gonzalez said several of the victims died on the scene and others succumbed to injuries in hospital. 
+
+</DOCUMENT>

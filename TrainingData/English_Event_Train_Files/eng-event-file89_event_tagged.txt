@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>172 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="5" ID="12" TYPE_REL="EVENT_ARG"/> Nine Indians among 15 killed </CASUALTIES-ARG><PLACE-ARG ID="1"><LINK EVENT_ARG="5" ID="13" TYPE_REL="EVENT_ARG"/> in Dubai </PLACE-ARG> bus <MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> crash </MAN_MADE_EVENT>
+
+ State media in the United Arab Emirates say <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> 15 Asian migrant workers have been killed </CASUALTIES-ARG> in a bus <MAN_MADE_EVENT ID="6" TYPE="VEHICULAR_COLLISION"> crash </MAN_MADE_EVENT><PLACE-ARG ID="2"><LINK EVENT_ARG="3" ID="15" TYPE_REL="EVENT_ARG"/> in Dubai. </PLACE-ARG>
+
+ The WAM news agency said the labourers were killed <TIME-ARG ID="4"><LINK EVENT_ARG="7" ID="16" TYPE_REL="EVENT_ARG"/> on Saturday </TIME-ARG> when their bus <MAN_MADE_EVENT ID="7" TYPE="VEHICULAR_COLLISION"> rammed </MAN_MADE_EVENT> into a truck parked on the shoulder of a major highway that passes along the outskirts of the Mideast commercial hub. <CASUALTIES-ARG ID="8"><LINK EVENT_ARG="7" ID="17" TYPE_REL="EVENT_ARG"/> Thirteen others were reported injured. </CASUALTIES-ARG>
+
+ The government-owned National newspaper reported on Sunday that at least nine of the dead were from India and four were Bangladeshi. 
+
+ <TIME-ARG ID="9"><LINK EVENT_ARG="11" ID="19" TYPE_REL="EVENT_ARG"/> In February 2013, </TIME-ARG><CASUALTIES-ARG ID="10"><LINK EVENT_ARG="11" ID="18" TYPE_REL="EVENT_ARG"/> at least 22 migrant workers died </CASUALTIES-ARG> when a gravel-filled truck with faulty brakes <MAN_MADE_EVENT ID="11" TYPE="VEHICULAR_COLLISION"> rammed </MAN_MADE_EVENT> their bus. 
+
+</DOCUMENT>

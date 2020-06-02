@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1479 <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> ஆப்கனில் </PLACE-ARG><MAN_MADE_EVENT ID="0" TYPE="SURGICAL_STRIKES"> வான்வழித் தாக்குதல்: </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> தலிபான் தலைவர்கள் 50 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="14" ID="15" TYPE_REL="EVENT_ARG"/> ஆப்கானிஸ்தானில் </PLACE-ARG> நடத்தப்பட்ட <MAN_MADE_EVENT ID="14" TYPE="SURGICAL_STRIKES"> வான்வழித் தாக்குதலில் </MAN_MADE_EVENT> தலிபான் தலைவர்கள் <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="14" ID="16" TYPE_REL="EVENT_ARG"/> 50 பேர் கொல்லப்பட்டதாக </CASUALTIES-ARG> அமெரிக்கா தெரிவித்துள்ளது. 
+
+ இதுகுறித்து ஆப்கானிஸ்தானிலுள்ள அமெரிக்கப் படை செய்தித் தொடர்பாளர் கூறும்போது, &apos;&apos;ஆப்கானிஸ்தானிலுள்ள ஹெல்மண்ட் மாகாணத்திலுள்ள முசா குலா மாவட்டத்தில் தலிபான்களின் ஆக்கிரமிப்புப் பகுதியில் நடத்தப்பட்ட வான்வழித் தாக்குதலில் தலிபான் தலைவர்கள் 50 பேர் கொல்லப்பட்டனர். தொடர்ந்து ஆப்கானிஸ்தான் முழுவதும் தலிபான்களுக்கு எதிராக சண்டை நடந்து வருகிறது&apos;&apos; என்றார். 
+
+ இந்த நிலையில் <PARTICIPANT-ARG ID="6"><LINK EVENT_ARG="8" ID="17" TYPE_REL="EVENT_ARG"/> தலிபான்கள் </PARTICIPANT-ARG> இதனை மறுத்துள்ளனர். 
+
+ மேலும் <PARTICIPANT-ARG ID="7"><LINK EVENT_ARG="8" ID="18" TYPE_REL="EVENT_ARG"/> அமெரிக்கப் படைகள் </PARTICIPANT-ARG> நடத்திய <MAN_MADE_EVENT ID="8" TYPE="SURGICAL_STRIKES"> வான்வழித் தாக்குதலில் </MAN_MADE_EVENT> குடிமக்கள் பகுதிகள்தான் பாதிக்கப்பட்டுள்ளதாகவும், இதில் <CASUALTIES-ARG ID="9"><LINK EVENT_ARG="8" ID="19" TYPE_REL="EVENT_ARG"/> 5 பேர் பலியானதாவும் </CASUALTIES-ARG> தெரிவித்துள்ளனர். 
+
+ அமெரிக்கா தலைமையிலான நேட்டோ படைகளின் அதிரடி நடவடிக்கைகளால் கடந்த 2001-ம் ஆண்டு தலிபான்கள் பிடியில் இருந்து ஆப்கன் விடுவிக்கப்பட்டது. 
+
+ எனினும், ஆப்கானிஸ்தானில் அண்மைக்காலமாக ராணுவத்தினர், போலீஸாரை குறிவைத்து தலிபான்கள், ஐஎஸ் தீவிரவாதிகள் தாக்குதல் நடத்தி வருகின்றனர். இதற்கு பதிலடி அளிக்கும் வகையில் இந்த வான்வழித் தாக்குதலை அமெரிக்கப் படைகள் நடத்தியுள்ளன. 
+
+</DOCUMENT>

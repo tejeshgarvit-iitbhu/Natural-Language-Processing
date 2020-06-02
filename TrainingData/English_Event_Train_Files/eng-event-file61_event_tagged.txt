@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>916 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="8" TYPE_REL="EVENT_ARG"/> Two dead </CASUALTIES-ARG> in quarrying <MAN_MADE_EVENT ID="1" TYPE="ACCIDENTS"> accident </MAN_MADE_EVENT>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> THIRUVANANTHAPURAM: </PLACE-ARG><CASUALTIES-ARG ID="3"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> Two persons were killed </CASUALTIES-ARG> after a <NATURAL_EVENT ID="4" TYPE="ROCK_FALL"> rock fell </NATURAL_EVENT> on them during quarrying work at <PLACE-ARG ID="5"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> Marayamuttam </PLACE-ARG><TIME-ARG ID="6"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> on Friday morning. </TIME-ARG>
+
+ Salem native Sathish and Malakulangara native Binil Kumar are the deceased. 
+
+ Seven persons, two of them seriously, got injured in the incident. 
+
+ All the victims were working at the quarry at the time of the incident. All the injured were shifted to Taluk hospital, Neyyatinkara and Medical college hospital. 
+
+ Sources said that the rock pieces fell from a height of 75 feet. Sathish was the driver of a procliner, which was totally damaged when a large <NATURAL_EVENT ID="7" TYPE="ROCK_FALL"> rock fell </NATURAL_EVENT> over it. Sathish died on the spot. 
+
+ Meanwhile, a controversy has erupted after panchayat claimed that the quarry was functioning without any license. 
+
+</DOCUMENT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>499 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="19" TYPE_REL="EVENT_ARG"/> பாகிஸ்தானில் </PLACE-ARG> லேசான <NATURAL_EVENT ID="1" TYPE="EARTHQUAKE"> நிலநடுக்கம்: </NATURAL_EVENT> கட்டடங்கள் குலுங்கியதால் மக்கள் பீதி 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="21" TYPE_REL="EVENT_ARG"/> இஸ்லாமாபாத்: பாகிஸ்தானில் </PLACE-ARG><TIME-ARG ID="3"><LINK EVENT_ARG="4" ID="20" TYPE_REL="EVENT_ARG"/> இன்று காலை </TIME-ARG> ஏற்பட்ட லேசான <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> நிலநடுக்கத்தால் </NATURAL_EVENT> மக்கள் பீதியடைந்தனர். 
+
+ <PLACE-ARG ID="5"><LINK EVENT_ARG="6" ID="22" TYPE_REL="EVENT_ARG"/> பாகிஸ்தான் மற்றும் ஆப்கானிஸ்தானில் </PLACE-ARG> லேசான <NATURAL_EVENT ID="6" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டுள்ளது. <PLACE-ARG ID="8"><LINK EVENT_ARG="7" ID="23" TYPE_REL="EVENT_ARG"/> பன்னு நகருக்கு </PLACE-ARG> 29 கிமீ தொலைவில் <NATURAL_EVENT ID="7" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. 
+
+ <MAGNITUDE-ARG ID="9"><LINK EVENT_ARG="24" ID="25" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவில் 5.1ஆக </MAGNITUDE-ARG> இந்த <NATURAL_EVENT ID="24" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> பதிவாகியுள்ளது. <TIME-ARG ID="11"><LINK EVENT_ARG="24" ID="26" TYPE_REL="EVENT_ARG"/> காலை 8.53 மணிக்கு </TIME-ARG> ஏற்பட்ட இந்த <NATURAL_EVENT ID="31" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> காரணமாக கட்டடங்கள் குலுங்கியதால் மக்கள் பீதியடைந்தனர். <PLACE-ARG ID="13"><LINK EVENT_ARG="15" ID="28" TYPE_REL="EVENT_ARG"/> பெஷாவர், கைபர் ஏஜென்சி </PLACE-ARG> உள்ளிட்ட பல பகுதிகளில் <NATURAL_EVENT ID="14" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> உணரப்பட்டது. <PLACE-ARG ID="15"><LINK EVENT_ARG="15" ID="33" TYPE_REL="EVENT_ARG"/> பாகிஸ்தான் எல்லையில் </PLACE-ARG> இந்த <NATURAL_EVENT ID="34" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டதால் <PLACE-ARG ID="17"><LINK EVENT_ARG="18" ID="32" TYPE_REL="EVENT_ARG"/> ஆப்கானிஸ்தானின் </PLACE-ARG> பல பகுதிகளிலும் <NATURAL_EVENT ID="18" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> உணரப்பட்டது. இருப்பினும் இந்த நிலநடுக்கத்தால் ஏற்பட்ட சேத விவரங்கள் உடனடியாக வெளியாகவில்லை. 
+
+</DOCUMENT>

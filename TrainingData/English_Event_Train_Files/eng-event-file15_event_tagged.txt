@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1029 Moderate intensity <NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> hits <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> northwest Pakistan </PLACE-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="3" ID="18" TYPE_REL="EVENT_ARG"/> PESHAWAR: </PLACE-ARG> A moderate intensity <NATURAL_EVENT ID="3" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> measuring 5.3 on the Richter scale today jolted parts of <PLACE-ARG ID="9"><LINK EVENT_ARG="3" ID="19" TYPE_REL="EVENT_ARG"/> northwest Pakistan&apos;s Khyber-Pakhtunkhwa province, </PLACE-ARG> but there were no reports of any casualty or damage to properties, an official said. 
+
+ The <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> quake, </NATURAL_EVENT> which shook parts of <PLACE-ARG ID="10"><LINK EVENT_ARG="4" ID="20" TYPE_REL="EVENT_ARG"/> Khyber Pakhtunkhwa, the Federally Administered Tribal Areas </PLACE-ARG> (FATA), <PLACE-ARG ID="11"><LINK EVENT_ARG="4" ID="28" TYPE_REL="EVENT_ARG"/> Punjab and Islamabad, </PLACE-ARG><TIME-ARG ID="21"><LINK EVENT_ARG="4" ID="29" TYPE_REL="EVENT_ARG"/> today evening 19:09 hours </TIME-ARG> (local time), a Pakistan Metrological Department (PMD) official said. 
+
+ This is the third <NATURAL_EVENT ID="5" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> that shook the <PLACE-ARG ID="12"><LINK EVENT_ARG="5" ID="30" TYPE_REL="EVENT_ARG"/> northwest Pakistani cities </PLACE-ARG> since yesterday. 
+
+ Two strong <NATURAL_EVENT ID="6" TYPE="EARTHQUAKE"> earthquakes </NATURAL_EVENT> with one measuring <MAGNITUDE-ARG ID="22"><LINK EVENT_ARG="6" ID="31" TYPE_REL="EVENT_ARG"/> 6.4 on the Richter scale </MAGNITUDE-ARG><TIME-ARG ID="23"><LINK EVENT_ARG="6" ID="32" TYPE_REL="EVENT_ARG"/> yesterday </TIME-ARG> had jolted parts of <PLACE-ARG ID="13"><LINK EVENT_ARG="6" ID="33" TYPE_REL="EVENT_ARG"/> northwest Pakistan&apos;s Khyber-Pakhtunkhwa province, </PLACE-ARG><CASUALTIES-ARG ID="24"><LINK EVENT_ARG="6" ID="34" TYPE_REL="EVENT_ARG"/> injuring at least nine children </CASUALTIES-ARG> and causing panic among the residents. 
+
+ The epicentre of the <NATURAL_EVENT ID="7" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> was on <PLACE-ARG ID="14"><LINK EVENT_ARG="7" ID="35" TYPE_REL="EVENT_ARG"/> Afghanistan-Tajikistan border region, </PLACE-ARG> at the <DEPTH-ARG ID="25"><LINK EVENT_ARG="7" ID="36" TYPE_REL="EVENT_ARG"/> depth of 187 km. </DEPTH-ARG>
+
+ The tremors were also felt <PLACE-ARG ID="15"><LINK EVENT_ARG="7" ID="37" TYPE_REL="EVENT_ARG"/> in Islamabad, Malakand, Chitral, Peshawra, Swabi, Malakand, Kohat, Mardan and other parts of Khyber Pakhtunkhwa. </PLACE-ARG>
+
+ <TIME-ARG ID="27"><LINK EVENT_ARG="8" ID="38" TYPE_REL="EVENT_ARG"/> Last month, </TIME-ARG> a <MAGNITUDE-ARG ID="26"><LINK EVENT_ARG="8" ID="39" TYPE_REL="EVENT_ARG"/> 5.6-magnitude </MAGNITUDE-ARG><NATURAL_EVENT ID="8" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> jolted many <PLACE-ARG ID="16"><LINK EVENT_ARG="8" ID="40" TYPE_REL="EVENT_ARG"/> towns of Khyber-Pakhtunkhwa province. </PLACE-ARG>
+
+</DOCUMENT>

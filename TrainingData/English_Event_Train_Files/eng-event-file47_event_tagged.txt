@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>354 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> Six killed, four injured </CASUALTIES-ARG> in road <MAN_MADE_EVENT ID="4" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT> in <PLACE-ARG ID="1"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> Uttar Pradesh </PLACE-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> RAE BARELI: </PLACE-ARG><CASUALTIES-ARG ID="3"><LINK EVENT_ARG="5" ID="12" TYPE_REL="EVENT_ARG"/> At least six people were killed and four others injured </CASUALTIES-ARG> when a truck <MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT> with a four-wheeler here this afternoon, police said. 
+
+ The <MAN_MADE_EVENT ID="6" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT> took place in <PLACE-ARG ID="7"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> Arkha gram sabha area </PLACE-ARG> under the Unchchar police station, they added. 
+
+ &quot;A truck moving on the Unchahar-Allahabad road <MAN_MADE_EVENT ID="8" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT> with an SUV coming from Mangarh (in Pratapgargh district),&quot; Superintendent of Police Sujata Singh said. 
+
+ Keshkali (55), Anoopa Devi (40), Pari (2), Aradhya (18 months) and Prince (12) died on the spot, she said. 
+
+ &quot;Ankush Maurya (24) succumbed to injuries at the district hospital,&quot; Singh added. 
+
+ Four people sustained severe injuries and were undergoing treatment, while another person was administered first aid as he had received only minor wounds. 
+
+ The bodies of the deceased were sent for postmortem, police added. 
+
+</DOCUMENT>

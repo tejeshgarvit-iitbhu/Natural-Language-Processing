@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>285 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="8" ID="12" TYPE_REL="EVENT_ARG"/> One killed, about a dozen injured </CASUALTIES-ARG> in a <MAN_MADE_EVENT ID="8" TYPE="TRANSPORT_HAZARDS"> mishap </MAN_MADE_EVENT> on <PLACE-ARG ID="1"><LINK EVENT_ARG="8" ID="13" TYPE_REL="EVENT_ARG"/> Agra-Lucknow Expressway </PLACE-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="11" ID="14" TYPE_REL="EVENT_ARG"/> KANPUR:In </PLACE-ARG> an <MAN_MADE_EVENT ID="11" TYPE="TRANSPORT_HAZARDS"> accident </MAN_MADE_EVENT><PLACE-ARG ID="3"><LINK EVENT_ARG="11" ID="15" TYPE_REL="EVENT_ARG"/> on Agra-Lucknow Expressway, </PLACE-ARG><CASUALTIES-ARG ID="4"><LINK EVENT_ARG="11" ID="16" TYPE_REL="EVENT_ARG"/> one person was killed and about a dozen were injured </CASUALTIES-ARG> after a Swift Dzire car lost control and rammed into <PLACE-ARG ID="9"><LINK EVENT_ARG="11" ID="17" TYPE_REL="EVENT_ARG"/> a stationary SUV </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="11" ID="19" TYPE_REL="EVENT_ARG"/> near Todar village in Etawah </PLACE-ARG><TIME-ARG ID="6"><LINK EVENT_ARG="11" ID="18" TYPE_REL="EVENT_ARG"/> on Sunday. </TIME-ARG>
+
+ According to police, the body of the deceased was sent to mortuary for postmortem examination while the injured have been admitted to Saifai Medical University. 
+
+ Police further said, one Soni of Ramesh nagar Delhi and his family members made a brief stopover <PLACE-ARG ID="10"><LINK EVENT_ARG="11" ID="20" TYPE_REL="EVENT_ARG"/> at Agra -Lucknow Expressway near Todarpur village in Etawah </PLACE-ARG> and were going towards Gopalpur Bihar when the Swift Dzire vehicles coming from behind crashed into it. 
+
+ &quot;Soni had stopped his vehicle on the Agra -Lucknow E-way near Todarpur village under the limits of Chaubiya police station of Etawah for some kind of refreshment, when a Swift Dzire car coming from behind rammed into his SUV. Shahid, the driver of the Swift DZire was killed while nearly a dozen occupants of both the vehicles suffered critical injuries,&quot; said incharge Chaubiya police station. 
+
+ He further said that the body of the deceased Soni was sent to mortuary for postmortem examination while Police have rushed about a dozen injured to the Saifai Medical university. &quot;Condition of nearly eight injured was stated to be critical,” he added. 
+
+</DOCUMENT>

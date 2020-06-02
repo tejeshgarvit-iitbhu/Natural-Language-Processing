@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>349 http://hindi.webdunia.com/national-hindi-news/%E0%A4%87%E0%A4%9F%E0%A4%B2%E0%A5%80-%E0%A4%95%E0%A5%87-%E0%A4%9C%E0%A4%B9%E0%A4%BE%E0%A4%9C-%E0%A4%B8%E0%A5%87-%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%80%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%A6%E0%A5%8B-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%AE%E0%A4%B0%E0%A5%87-112021600193_1.htm 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> इटली </PLACE-ARG> के जहाज से <MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> दो भारतीय मरे </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="2" ID="11" TYPE_REL="EVENT_ARG"/> इटली </PLACE-ARG> के जहाज के <PARTICIPANT-ARG ID="7"><LINK EVENT_ARG="2" ID="10" TYPE_REL="EVENT_ARG"/> सुरक्षा गार्ड </PARTICIPANT-ARG> द्वारा की गई <MAN_MADE_EVENT ID="2" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="2" ID="12" TYPE_REL="EVENT_ARG"/> दो मछुआरों की मृत्यु </CASUALTIES-ARG> से चिंतित सरकार ने <TIME-ARG ID="6"><LINK EVENT_ARG="2" ID="13" TYPE_REL="EVENT_ARG"/> गुरुवार </TIME-ARG> को कहा कि गोलीबारी के लिए जिम्मेदार लोगों के खिलाफ मामला दर्ज किया जाएगा और उन्हें भारतीय कानून का सामना करना पड़ेगा। 
+
+ केंद्रीय गृह सचिव आरके सिंह ने कहा कि <MAN_MADE_EVENT ID="14" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> के लिए जिम्मेदार लोगों के खिलाफ मामला दर्ज किया जाएगा और कानून अपना काम करेगा। वह उन सवालों का जवाब दे रहे थे जिसमें पूछा गया था कि <PLACE-ARG ID="15"><LINK EVENT_ARG="14" ID="19" TYPE_REL="EVENT_ARG"/> केरल </PLACE-ARG> तट पर <PLACE-ARG ID="17"><LINK EVENT_ARG="14" ID="20" TYPE_REL="EVENT_ARG"/> इतालवी </PLACE-ARG> जहाज के सुरक्षा गार्ड द्वारा की गई गोलीबारी में <CASUALTIES-ARG ID="18"><LINK EVENT_ARG="14" ID="21" TYPE_REL="EVENT_ARG"/> दो मछुआरों की मृत्यु </CASUALTIES-ARG> के मामले में क्या कार्रवाई की जाएगी। ऐसा संदेह है कि गोलीबारी करने वाले जलदस्यु थे। 
+
+ आधिकारिक सूत्रों ने बताया कि केरल सरकार के साथ-साथ भारतीय तटरक्षक बल ने गृह मंत्रालय को सूचित किया है कि जब यह घटना हुई उस वक्त व्यापारिक जहाज ‘एनरिका लेक्सी’ भारतीय जल क्षेत्र में था। जहाज के सुरक्षा गार्ड के पास हथियार रखने या उसका इस्तेमाल करने का कोई अधिकार नहीं था। 
+
+ केंद्र ने इस मुद्दे को बेहद गंभीरता से लिया है और केरल सरकार के नियमित संपर्क में है। उन्होंने कहा कि राज्य सरकार ने केंद्र को बताया है कि मामला दर्ज होने के बाद गोलीबारी के लिए जिम्मेदार लोगों को गिरफ्तार किया जाएगा। 
+
+ एक सूत्र ने बताया कि उन्हें भारतीय कानून का सामना करना होगा। व्यापारिक जहाज के संबंध में स्थानीय अधिकारी प्रासंगिक कानून देखेंगे और उसके अनुसार कार्रवाई की जाएगी। (भाषा) 
+
+</DOCUMENT>

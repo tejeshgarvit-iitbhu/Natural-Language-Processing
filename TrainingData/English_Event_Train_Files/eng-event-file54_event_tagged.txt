@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>124 <MAGNITUDE-ARG ID="0"><LINK EVENT_ARG="1" ID="11" TYPE_REL="EVENT_ARG"/> 5.2 magnitude </MAGNITUDE-ARG><NATURAL_EVENT ID="1" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> jolts <PLACE-ARG ID="2"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> India-Pakistan border region in Jammu and Kashmir </PLACE-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> NEW DELHI: </PLACE-ARG> A medium intensity <NATURAL_EVENT ID="6" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> measuring <MAGNITUDE-ARG ID="4"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> 5.2 on the Richter scale </MAGNITUDE-ARG> jolted the <PLACE-ARG ID="5"><LINK EVENT_ARG="6" ID="15" TYPE_REL="EVENT_ARG"/> India-Pakistan border region in Jammu and Kashmir </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="6" ID="16" TYPE_REL="EVENT_ARG"/> on Saturday. </TIME-ARG>
+
+ The <NATURAL_EVENT ID="8" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> occurred <TIME-ARG ID="9"><LINK EVENT_ARG="8" ID="17" TYPE_REL="EVENT_ARG"/> at 3:42 pm </TIME-ARG> at a <DEPTH-ARG ID="10"><LINK EVENT_ARG="8" ID="18" TYPE_REL="EVENT_ARG"/> depth of 10 km, </DEPTH-ARG> the National Centre for Seismology of the India Meteorological Department said. 
+
+ There were no immediate reports of loss of life or property. 
+
+ Jammu and Kashmir is one of the regions that witness high seismological activities. 
+
+</DOCUMENT>

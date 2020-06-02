@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>299 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> 11 die </CASUALTIES-ARG> in <MAN_MADE_EVENT ID="4" TYPE="ACCIDENTS"> collision </MAN_MADE_EVENT><PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> on Russia&apos;s Volga river </PLACE-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="6" ID="11" TYPE_REL="EVENT_ARG"/> MOSCOW: </PLACE-ARG><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="6" ID="12" TYPE_REL="EVENT_ARG"/> Eleven people were killed </CASUALTIES-ARG> in an <MAN_MADE_EVENT ID="6" TYPE="ACCIDENTS"> accident </MAN_MADE_EVENT><PLACE-ARG ID="7"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> on Russia&apos;s mighty Volga river </PLACE-ARG> when a catamaran collided with a barge, emergency services said <TIME-ARG ID="8"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> on Tuesday. </TIME-ARG>
+
+ Rescue efforts ran through the night after the accident late Monday near Volgograd in southwest Russia - one of the cities hosting the World Cup football tournament opening this week. 
+
+ &quot;The rescue operations have just finished. The last body has been recovered and the number of dead is 11,&quot; the local emergencies ministry said in a statement quoted by the Ria Novosti news agency. 
+
+ At least 16 people were on the catarmaran, according to a statement from the Investigative Committee which has opened an investigation into possible breaches of safety regulations. 
+
+ According to an unnamed source quoted by the TASS news agency, the catarmaran was built to take 12 people and was unlicensed. 
+
+ Local media reported that the vessel was being driven by a former municipal official in Volgograd, who has been convicted in the past for various misdemeanours including hooliganism. 
+
+</DOCUMENT>

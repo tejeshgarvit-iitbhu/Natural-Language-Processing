@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>119 Truck <MAN_MADE_EVENT ID="4" TYPE="TRANSPORT_HAZARDS"> flips </MAN_MADE_EVENT> on road <PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> in eastern China, </PLACE-ARG><CASUALTIES-ARG ID="0"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> killing 16 </CASUALTIES-ARG>
+
+ Local authorities said <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> 16 people were killed </CASUALTIES-ARG> when a truck <MAN_MADE_EVENT ID="5" TYPE="TRANSPORT_HAZARDS"> flipped </MAN_MADE_EVENT> over while making a turn <PLACE-ARG ID="3"><LINK EVENT_ARG="5" ID="12" TYPE_REL="EVENT_ARG"/> in a mountainous area of eastern China. </PLACE-ARG>
+
+ The <MAN_MADE_EVENT ID="6" TYPE="TRANSPORT_HAZARDS"> accident </MAN_MADE_EVENT><TIME-ARG ID="7"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> on Tuesday night </TIME-ARG> happened as a group of agricultural workers were headed back to their homes in Jiangxi province after picking pears <PLACE-ARG ID="8"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> in neighbouring Fujian province. </PLACE-ARG>
+
+ The Jiangxi provincial government said that 24 of the 28 on board the truck were women. Ten survivors were hospitalised with injuries. 
+
+</DOCUMENT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>3300 https://www.punjabkesari.in/madhya-pradesh/news/fire-at-home-in-ujjain-815981 
+
+ अचानक धू-धू कर जल उठा घर, जिंदा जली युवती 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> उज्जैन </PLACE-ARG> : <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> देवास गेट थाना क्षेत्र </PLACE-ARG> के <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> मायापूरी </PLACE-ARG> में एक घर में अज्ञात कारणों के चलते <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग </MAN_MADE_EVENT> लग गई। इस हादसे में <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> 16 वर्षीय युवती की जिंदा जलने से मौत हो गई। </CASUALTIES-ARG> आग लगने की सूचना मिलते ही पुलिस और फायर ब्रिगेड की टीम मौके पर पहुंची जिसके बाद आग पर काबू पाया। 
+
+ जानकारी के अनुसार <TIME-ARG ID="5"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> शुक्रवार दोपहर </TIME-ARG> मदन के घर में आग लग गई। घटना के वक्त मदन की बेटी घर पर अकेली थी। आग इतनी भंयकर थी कि युवती घर से बाहर निकलने में असमर्थ रही। आसपास के लोगों ने जब उसकी चीखें सुनी तो इसकी सूचना दमकल विभाग को दी। जब तक विभाग की गाड़ियां मौके पर पहुंची तब तक युवती जिंदा जल चुकी थी। देवासगेट थाना प्रभारी शिव निनामा ने बताया आग किन कारणों से लगी है फिलहाल इसका पता नहीं लगा है। लेकिन, पुलिस ने मामला दर्ज कर जांच शुरू कर दी है। 
+
+</DOCUMENT>

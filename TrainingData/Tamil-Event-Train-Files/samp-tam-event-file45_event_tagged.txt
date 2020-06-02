@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>797 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> ஜப்பானில் </PLACE-ARG><NATURAL_EVENT ID="1" TYPE="LIMNIC_ERRUPTIONS"> வெடித்து சிதறிய எரிமலை </NATURAL_EVENT>
+
+ ஜப்பானில் 250 ஆண்டுகளுக்கு பின்னர் <NAME-ARG ID="2"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> மவுண்ட் லோ எரிமலை </NAME-ARG> வெடிக்க தொடங்கியுள்ளதாக அங்கிருந்து வரும் செய்திகள் தெரிவிக்கின்றன. 
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="1" ID="14" TYPE_REL="EVENT_ARG"/> ஜப்பானின் க்யூஷு தீவுப் பகுதியில், </PLACE-ARG><NAME-ARG ID="4"><LINK EVENT_ARG="1" ID="15" TYPE_REL="EVENT_ARG"/> மவுண்ட் கிரிஷ்மா </NAME-ARG> உள்ளது. இதன் ஒரு பகுதியான <NAME-ARG ID="5"><LINK EVENT_ARG="1" ID="16" TYPE_REL="EVENT_ARG"/> மவுண்ட் லோவில் </NAME-ARG> தான் இந்த வெடிப்பு ஏற்பட்டுள்ளது. 
+
+ <TIME-ARG ID="6"><LINK EVENT_ARG="1" ID="17" TYPE_REL="EVENT_ARG"/> வியாழக்கிழமைமுதல் </TIME-ARG> எரிமலையிலிருந்து சாம்பல் நிற புகைகள் வெளிவர துவங்கியுள்ளதாகவும் இதனால் அப்பகுதி பாதுகாப்பு வளையத்தின் கீழ் வந்துள்ளதாகவும் ஜப்பான் ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. 
+
+ <NAME-ARG ID="7"><LINK EVENT_ARG="1" ID="18" TYPE_REL="EVENT_ARG"/> மவுண்ட் லோ </NAME-ARG> இதற்கு முன்னர் 1768 ஆம் ஆண்டு வெடித்துள்ளது. இதனைத் தொடர்ந்து 250 வருடங்களுக்கு பிறகு மீண்டும் வெடிக்க துவங்கியுள்ளது. 
+
+ ஜப்பானில் செயல்படும் நிலையில் மொத்தம் 103 எரிமலைகள் உள்ளன. <TIME-ARG ID="9"><LINK EVENT_ARG="19" ID="20" TYPE_REL="EVENT_ARG"/> கடந்த சில வருடங்களுக்கு முன்னர் </TIME-ARG><PLACE-ARG ID="10"><LINK EVENT_ARG="19" ID="22" TYPE_REL="EVENT_ARG"/> ஜப்பானில் உள்ள மவுண்ட் ஆன் டேக் </PLACE-ARG> முன்னெச்சரிக்கை அறிகுறிகள் வெடித்தது. இதில் <CASUALTIES-ARG ID="8"><LINK EVENT_ARG="19" ID="21" TYPE_REL="EVENT_ARG"/> 57 பேர் பலியாகினர். </CASUALTIES-ARG> கடந்த 90 ஆண்டுகளில் ஜப்பானில் ஏற்பட்ட மிகப்பெரிய எரிமலைச் சீற்றம் இந்த <NATURAL_EVENT ID="19" TYPE="LIMNIC_ERRUPTIONS"> எரிமலை வெடிப்பு </NATURAL_EVENT> கருதப்பட்டது. 
+
+</DOCUMENT>

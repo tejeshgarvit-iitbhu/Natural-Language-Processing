@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>166 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="3" ID="7" TYPE_REL="EVENT_ARG"/> Fourteen dead </CASUALTIES-ARG> as Spanish bus carrying students <MAN_MADE_EVENT ID="3" TYPE="TRANSPORT_HAZARDS"> crashes </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="4" ID="8" TYPE_REL="EVENT_ARG"/> At least 14 people died </CASUALTIES-ARG> after a bus travelling between the Spanish cities of Valencia and Barcelona <MAN_MADE_EVENT ID="4" TYPE="TRANSPORT_HAZARDS"> crashed </MAN_MADE_EVENT><TIME-ARG ID="2"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> early on Sunday, </TIME-ARG> a local government official said, adding it had been carrying a group of university students, many of them foreign. 
+
+ The bus was carrying 56 passengers, according to officials in the northeastern region of Catalonia. Many of the students on board were participating in the Erasmus exchange programme between European universities. 
+
+ The bus <MAN_MADE_EVENT ID="5" TYPE="TRANSPORT_HAZARDS"> crashed </MAN_MADE_EVENT> and overturned at around 0600 CET (0500 <PLACE-ARG ID="6"><LINK EVENT_ARG="5" ID="10" TYPE_REL="EVENT_ARG"/> GMT)on a highway than runs along Spain&apos;s eastern coast. </PLACE-ARG>
+
+ It had been travelling from Valencia, on the last weekend of the Fallas festival, known for its big firework displays. 
+
+ “There were students on board, many of them foreign students studying in Catalonia and in Barcelona who had travelled to Valencia for the Fallas and were returning,” Jordi Jane, Catalonia&apos;s regional interior minister said at a televised news conference. 
+
+ Mr. Jane could not confirm the nationalities of the deceased. The driver survived the collision and had been taken to a local police station, Mr. Jane said, adding the cause of the accident was not immediately clear. Most of the remaining passengers had not sustained life-threatening in injuries, he said. 
+
+</DOCUMENT>

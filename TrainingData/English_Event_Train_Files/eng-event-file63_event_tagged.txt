@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>160 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="5" ID="7" TYPE_REL="EVENT_ARG"/> Driver dies </CASUALTIES-ARG> after lorries <MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> collide </MAN_MADE_EVENT><PLACE-ARG ID="2"><LINK EVENT_ARG="5" ID="8" TYPE_REL="EVENT_ARG"/> on Chennai-Bengaluru Highway </PLACE-ARG>
+
+ A container <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="6" ID="9" TYPE_REL="EVENT_ARG"/> lorry driver died </CASUALTIES-ARG> after he drove his vehicle over the median <PLACE-ARG ID="3"><LINK EVENT_ARG="6" ID="10" TYPE_REL="EVENT_ARG"/> on the Chennai-Bengaluru Highway, near Vellore, </PLACE-ARG> and <MAN_MADE_EVENT ID="6" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT> with a lorry coming in the opposite direction <TIME-ARG ID="4"><LINK EVENT_ARG="6" ID="11" TYPE_REL="EVENT_ARG"/> on Wednesday morning. </TIME-ARG>
+
+ Traffic was affected on the highway and in Vellore due to the accident. 
+
+ According to the police, the container lorry was heading towards Chennai when the driver reportedly lost control of the vehicle and drove it over the median. It collided with a coal-laden lorry heading towards Bengaluru. 
+
+ The container lorry driver died on the spot. The injured driver was sent to a nearby hospital. Passerby informed the police and they rushed to the spot. 
+
+ A case has been registered and investigation is on. Efforts are on to remove the damaged vehicles from the highway. 
+
+</DOCUMENT>

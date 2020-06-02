@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>195 <NATURAL_EVENT ID="0" TYPE="VOLCANO"> எரிமலை சீற்றம்; </NATURAL_EVENT><NATURAL_EVENT ID="1" TYPE="EARTHQUAKE"> நிலநடுக்கம்: </NATURAL_EVENT> ஹவாய் தீவிலிருந்து வெளியேறும் மக்கள் 
+
+ <PLACE-ARG ID="6"><LINK EVENT_ARG="2" ID="13" TYPE_REL="EVENT_ARG"/> அமெரிக்காவின் ஹவாய் தீவுகளில் </PLACE-ARG> சக்தி வாய்ந்த <NATURAL_EVENT ID="2" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. இந்த <NATURAL_EVENT ID="3" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT><MAGNITUDE-ARG ID="4"><LINK EVENT_ARG="3" ID="14" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவுகோலில் 6.9 </MAGNITUDE-ARG> ஆக பதிவாகியது. 
+
+ இதுகுறித்து அமெரிக்க புவியியல் ஆய்வு மையம் தரப்பில், <PLACE-ARG ID="5"><LINK EVENT_ARG="8" ID="15" TYPE_REL="EVENT_ARG"/> &quot;ஹவாய் தீவுகளில் </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="8" ID="16" TYPE_REL="EVENT_ARG"/> வெள்ளிக்கிழமை </TIME-ARG> சக்திவாய்ந்த <NATURAL_EVENT ID="8" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. இந்த <NATURAL_EVENT ID="9" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT><MAGNITUDE-ARG ID="10"><LINK EVENT_ARG="9" ID="17" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவுகோலில் 6.9 </MAGNITUDE-ARG> ஆக பதிவாகியது” என்று தெரிவிக்கப்பட்டுள்ளது. 
+
+ சமீப நாட்களாக ஹவாய் தீவுகளில் தொடர்ந்து ஏற்பட்ட நிலநடுக்கத்தையடுத்து எரிமலை சீற்றமும் ஏற்பட்டுள்ளது. 
+
+ <PLACE-ARG ID="12"><LINK EVENT_ARG="0" ID="18" TYPE_REL="EVENT_ARG"/> ஹவாய் தீவிலுள்ள </PLACE-ARG><NAME-ARG ID="11"><LINK EVENT_ARG="0" ID="19" TYPE_REL="EVENT_ARG"/> கீலவேயா எரிமலை </NAME-ARG> வெடிக்க தொடங்கியுள்ளதால், எரிமலையிலிருந்து லாவா குழம்ப்புகள் வெளிவருவதால் 1,000 க்கும் மேற்பட்ட மக்கள் ஹவாய் தீவுகளிலிருந்து வெளியேற்றப்பட்டுள்ளனர். 
+
+ இதுகுறித்து ஹவாய் தீவில் வசிக்கும் மர்சா கூறும்போது, &quot;எரிமலை தொடர்ந்து வெடித்துக் கொண்டிருக்கிறது. ஆங்காங்கே விரிசல் ஏற்பட்டுள்ளது” என்றார். 
+
+ தொடர்ந்து அப்பகுதிகளில் மீட்புப் பணிகள் விரைந்து நடைபெற்று வருவதாக அதிகாரிகள் தரப்பில் தெரிவிக்கப்பட்டுள்ளது. 
+
+</DOCUMENT>

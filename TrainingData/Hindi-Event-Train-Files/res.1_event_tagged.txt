@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1125 http://www.deshbandhu.co.in/news/world-pakistan-condemns-suicide-attack-in-afghanistan-105344-1 
+
+ <PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="19" TYPE_REL="EVENT_ARG"/> पाकिस्तान </PLACE-ARG> ने <PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="18" TYPE_REL="EVENT_ARG"/> अफगानिस्तान </PLACE-ARG> के <PLACE-ARG ID="7"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> जलालाबाद </PLACE-ARG> में हुए <MAN_MADE_EVENT ID="0" TYPE="TERRORIST_ATTACK"> आतंकवादी हमले </MAN_MADE_EVENT> की <TIME-ARG ID="1"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> सोमवार </TIME-ARG> को निंदा की। इस हमले में <PARTICIPANT-ARG ID="3"><LINK EVENT_ARG="0" ID="20" TYPE_REL="EVENT_ARG"/> सिखों </PARTICIPANT-ARG> और <PARTICIPANT-ARG ID="4"><LINK EVENT_ARG="0" ID="21" TYPE_REL="EVENT_ARG"/> हिंदुओं </PARTICIPANT-ARG> समेत <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="0" ID="22" TYPE_REL="EVENT_ARG"/> 19 लोग मारे गए थे </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="8"><LINK EVENT_ARG="15" ID="26" TYPE_REL="EVENT_ARG"/> इस्लामाबाद। </PLACE-ARG><PLACE-ARG ID="9"><LINK EVENT_ARG="15" ID="25" TYPE_REL="EVENT_ARG"/> पाकिस्तान </PLACE-ARG> ने <PLACE-ARG ID="10"><LINK EVENT_ARG="15" ID="24" TYPE_REL="EVENT_ARG"/> अफगानिस्तान </PLACE-ARG> के जलालाबाद में हुए <MAN_MADE_EVENT ID="15" TYPE="TERRORIST_ATTACK"> आतंकवादी हमले </MAN_MADE_EVENT> की <TIME-ARG ID="11"><LINK EVENT_ARG="15" ID="23" TYPE_REL="EVENT_ARG"/> सोमवार </TIME-ARG> को निंदा की। इस हमले में <PARTICIPANT-ARG ID="13"><LINK EVENT_ARG="15" ID="27" TYPE_REL="EVENT_ARG"/> सिखों </PARTICIPANT-ARG> और <PARTICIPANT-ARG ID="14"><LINK EVENT_ARG="15" ID="28" TYPE_REL="EVENT_ARG"/> हिंदुओं </PARTICIPANT-ARG> समेत <CASUALTIES-ARG ID="12"><LINK EVENT_ARG="15" ID="29" TYPE_REL="EVENT_ARG"/> 19 लोग मारे गए थे। </CASUALTIES-ARG> अफगान सार्वजनिक स्वास्थ्य अधिकारियों ने कहा कि विस्फोट में 20 लोग घायल हुए हैं। विस्फोट उस परिसर के बाहर हुआ, जहां राष्ट्रपति अशरफ गनी रविवार को एक बैठक की अध्यक्षता कर रहे थे। वह सुरक्षित हैं। 
+
+ सिख समुदाय के लोग गनी से मुलाकात करने वाले थे। 
+
+ पाकिस्तान के विदेश मंत्रालय ने कहा, &quot;हम बहुमूल्य मानव जीवन के क्षति से दुखी हैं। जिन्होंने अपनी जिंदगियां खोई हैं, हम उनके परिजनों और दोस्तों के साथ गहरी सहानुभूति और हार्दिक संवेदना व्यक्त करते हैं। हम इसके साथ ही घायलों के जल्द स्वस्थ्य होने की कामना करते हैं।&quot; 
+
+</DOCUMENT>

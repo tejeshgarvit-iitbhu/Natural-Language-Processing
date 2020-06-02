@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>233 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> Indonesia&apos;s </PLACE-ARG> most volatile <NATURAL_EVENT ID="1" TYPE="VOLCANO"> volcano </NATURAL_EVENT> erupts again 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="3" ID="13" TYPE_REL="EVENT_ARG"/> YOGYAKARTA: Indonesia&apos;s </PLACE-ARG> most volatile <NATURAL_EVENT ID="3" TYPE="VOLCANO"> volcano </NATURAL_EVENT> has spewed smoke and ash in the latest of several eruptions in less than two weeks. 
+
+ Disaster mitigation agency spokesman Sutopo Purwo Nugroho said <NAME-ARG ID="5"><LINK EVENT_ARG="3" ID="15" TYPE_REL="EVENT_ARG"/> Mount Merapi </NAME-ARG> on the main island of Java erupted twice <TIME-ARG ID="4"><LINK EVENT_ARG="3" ID="14" TYPE_REL="EVENT_ARG"/> early Monday. </TIME-ARG> A column of volcanic material rose up to 1,200 meters into the air and ash fell in several villages. 
+
+ The alert level of the <NATURAL_EVENT ID="6" TYPE="VOLCANO"> volcano </NATURAL_EVENT> was not raised. 
+
+ An eruption of <NAME-ARG ID="7"><LINK EVENT_ARG="6" ID="16" TYPE_REL="EVENT_ARG"/> Merapi </NAME-ARG><TIME-ARG ID="8"><LINK EVENT_ARG="6" ID="17" TYPE_REL="EVENT_ARG"/> on May 11 </TIME-ARG> sent nearby residents fleeing to safer areas. 
+
+ The 2,968-meter mountain is the most active of 500 Indonesian volcanoes. Its last major <NATURAL_EVENT ID="11" TYPE="VOLCANO"> eruption </NATURAL_EVENT><TIME-ARG ID="10"><LINK EVENT_ARG="11" ID="18" TYPE_REL="EVENT_ARG"/> in 2010 </TIME-ARG><CASUALTIES-ARG ID="9"><LINK EVENT_ARG="11" ID="19" TYPE_REL="EVENT_ARG"/> killed 347 people. </CASUALTIES-ARG>
+
+</DOCUMENT>

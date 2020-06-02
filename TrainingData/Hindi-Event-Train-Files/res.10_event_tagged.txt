@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>275 https://www.punjabkesari.in/national/news/areial-firing-by-militants-in-shopian-825507 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> शोपियां </PLACE-ARG> में <PARTICIPANT-ARG ID="6"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> आतंकियों </PARTICIPANT-ARG> ने की हवाई <MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> फायरिंग </MAN_MADE_EVENT>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> श्रीनगर </PLACE-ARG> : <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> दक्षिण कश्मीर </PLACE-ARG> में <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> शोपियां जिला </PLACE-ARG> के <PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> गोलचकरी इलाके </PLACE-ARG> में <TIME-ARG ID="8"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> सोमवार </TIME-ARG> को अज्ञात आतंकियों ने हवा में कुछ गोलियां चलाई जिसके चलते इलाके में तनाव फैल गया। बता दें कि आज अलगाववादियों ने कश्मीर बंद का आह्वान किया है। वहीं, हड़ताल को लागू करने के मकसद से मोचरसाइकल पर सवार दो आतंकियों ने हवा में गोलियां चलाई। हालांकि, घटना में किसी भी तरह के हताहत की जानकारी नहीं है। 
+
+ उधर, सूत्रों के अनुसार जिला में उपायुक्त के निवास पर भी कुछ लोगों ने पत्थराव किया। घटना के तुरन्त बाद सुरक्षाबलों ने पूरे इलाके को घेर लिया और आतंकियों की तलाश शुरु कर दी। 
+
+</DOCUMENT>

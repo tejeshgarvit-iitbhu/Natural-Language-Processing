@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>60136 http://hindi.webdunia.com/article/national-hindi-news/%E0%A4%8F%E0%A4%B2%E0%A4%93%E0%A4%B8%E0%A5%80-%E0%A4%AA%E0%A4%B0-%E0%A4%AA%E0%A4%BE%E0%A4%95-%E0%A4%95%E0%A5%80-%E0%A4%9C%E0%A4%AC%E0%A4%B0%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4-%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%80%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%80-114042800073_1.htm 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> एलओसी </PLACE-ARG> पर <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> पाक </PLACE-ARG> की जबरदस्त <MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT>
+
+ <PARTICIPANT-ARG ID="10"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> पाकिस्तानी सैन्यबलों </PARTICIPANT-ARG> ने <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> जम्मू-कश्मीर </PLACE-ARG> के <PLACE-ARG ID="8"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> राजौरी जिले </PLACE-ARG> में एलओसी के पास <PARTICIPANT-ARG ID="14"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> भारतीय चौकियों </PARTICIPANT-ARG> पर छोटे हथियारों एवं स्वचालित हथियारों से आज <MAN_MADE_EVENT ID="4" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> करके पिछले 4 दिनों में दूसरी बार संघर्ष विराम का उल्लंघन किया। 
+
+ सीमा रेखा पर तैनात सैन्यबलों ने जवाबी कार्रवाई की और आखिरी सूचना मिलने तक दोनों ओर से गोलीबारी जारी थी। 
+
+ एक रक्षा प्रवक्ता ने कहा कि <PARTICIPANT-ARG ID="12"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> पाकिस्तानी बलों </PARTICIPANT-ARG> ने राजौरी जिले की भिम्बर गली में एलओसी के पास <PARTICIPANT-ARG ID="13"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> भारतीय चौकियों </PARTICIPANT-ARG> पर <TIME-ARG ID="18"><LINK EVENT_ARG="4" ID="19" TYPE_REL="EVENT_ARG"/> सुबह 5.15 बजे </TIME-ARG> से छोटे हथियारों और स्वचालित हथियारों से गोलीबारी शुरू की। 
+
+ उन्होंने बताया कि सीमा रेखा की रक्षा कर रहे सैन्य बलों ने जवाबी कार्रवाई की जिसके कारण दोनों ओर से रुक-रुक कर गोलीबारी हुई। प्रवक्ता ने कहा कि <MAN_MADE_EVENT ID="20" TYPE="SHOOT_OUT"> गोलीबारी </MAN_MADE_EVENT> अब भी जारी है। 
+
+ इससे पहले <PARTICIPANT-ARG ID="21"><LINK EVENT_ARG="20" ID="27" TYPE_REL="EVENT_ARG"/> पाक सेना </PARTICIPANT-ARG> ने <TIME-ARG ID="23"><LINK EVENT_ARG="20" ID="28" TYPE_REL="EVENT_ARG"/> 25 अप्रैल </TIME-ARG> को <PLACE-ARG ID="24"><LINK EVENT_ARG="20" ID="29" TYPE_REL="EVENT_ARG"/> पुंछ जिले </PLACE-ARG> में <PLACE-ARG ID="25"><LINK EVENT_ARG="20" ID="30" TYPE_REL="EVENT_ARG"/> एलओसी </PLACE-ARG> के पास <PLACE-ARG ID="26"><LINK EVENT_ARG="20" ID="31" TYPE_REL="EVENT_ARG"/> डोडा बटालियन इलाकों </PLACE-ARG> में <PARTICIPANT-ARG ID="22"><LINK EVENT_ARG="20" ID="32" TYPE_REL="EVENT_ARG"/> भारतीय चौकियों </PARTICIPANT-ARG> पर छोटे हथियारों और मोर्टार से हमला करके संघर्ष विराम का उल्लंघन किया था। 
+
+ आतंकियों के इस ओर घुसपैठ की कोशिश करने की जानकारी मिली थी और यह संघर्ष विराम गोलीबारी की आड़ में आतंकवादियों की घुसपैठ को सुनिश्चित करने की संभवतः एक साजिश था। 
+
+</DOCUMENT>

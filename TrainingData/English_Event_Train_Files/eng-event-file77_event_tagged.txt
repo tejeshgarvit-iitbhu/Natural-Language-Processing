@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>235 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="11" ID="12" TYPE_REL="EVENT_ARG"/> 17 killed </CASUALTIES-ARG><PLACE-ARG ID="1"><LINK EVENT_ARG="11" ID="13" TYPE_REL="EVENT_ARG"/> in Nepal </PLACE-ARG> bus <MAN_MADE_EVENT ID="11" TYPE="TRANSPORT_HAZARDS"> accident </MAN_MADE_EVENT>
+
+ Police on Monday said that an overcrowded bus <MAN_MADE_EVENT ID="4" TYPE="TRANSPORT_HAZARDS"> plunged </MAN_MADE_EVENT> off <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> a mountain road in Nepal, </PLACE-ARG><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> killing at least 17 people and injuring 50 more. </CASUALTIES-ARG>
+
+ Police official Kesh Bahadur Shahi said that the bus veered off the road <PLACE-ARG ID="5"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> near Pokharakada village </PLACE-ARG><TIME-ARG ID="6"><LINK EVENT_ARG="4" ID="18" TYPE_REL="EVENT_ARG"/> on Sunday night </TIME-ARG> and rolled <DEPTH-ARG ID="7"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> about 2,000 feet </DEPTH-ARG> down a slope. 
+
+ Rescuers pulled out 14 bodies while three more died at a hospital. 
+
+ <REASON-ARG ID="8"><LINK EVENT_ARG="9" ID="20" TYPE_REL="EVENT_ARG"/> The bus was driving on a narrow mountain road during the night </REASON-ARG> when the <MAN_MADE_EVENT ID="9" TYPE="TRANSPORT_HAZARDS"> accident </MAN_MADE_EVENT> happened <PLACE-ARG ID="10"><LINK EVENT_ARG="9" ID="19" TYPE_REL="EVENT_ARG"/> about 400 kilometres west of Kathmandu. </PLACE-ARG>
+
+</DOCUMENT>

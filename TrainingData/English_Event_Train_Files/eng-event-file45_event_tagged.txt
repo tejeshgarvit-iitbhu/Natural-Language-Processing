@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>259 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="3" ID="7" TYPE_REL="EVENT_ARG"/> Father-son duo killed </CASUALTIES-ARG> in <MAN_MADE_EVENT ID="3" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT>
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="4" ID="8" TYPE_REL="EVENT_ARG"/> RAJKOT: </PLACE-ARG><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> A father-son duo was killed </CASUALTIES-ARG> in a road <MAN_MADE_EVENT ID="4" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT><TIME-ARG ID="2"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> on Monday morning, </TIME-ARG> when the tractor they were travelling in was rammed by a truck at <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> Dhruvnagar near Tankara in Morbi district on Rajkot-Morbi Road. </PLACE-ARG>
+
+ Police identified the deceased as Bhanaji Detroja, 65, and his son Pravin Detroja, 38, both residents of Nana Khichadia village of Tankara taluka. 
+
+ “The victims were going to Morbi market yard to on their tractor loaded with gram when the accident occurred. A truck collided with the tractor head on, following which the tractor fell on the roadside and overturned. Both father and son died on the spot,” said an official from Tankara police station. 
+
+</DOCUMENT>

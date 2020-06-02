@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>168 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="8" TYPE_REL="EVENT_ARG"/> 3 dead, 35 injured </CASUALTIES-ARG> in truck-bus <MAN_MADE_EVENT ID="1" TYPE="VEHICULAR_COLLISION"> collision </MAN_MADE_EVENT>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="1" ID="9" TYPE_REL="EVENT_ARG"/> VISAKHAPATNAM: </PLACE-ARG><CASUALTIES-ARG ID="3"><LINK EVENT_ARG="1" ID="10" TYPE_REL="EVENT_ARG"/> Three people were killed and 35 more injured </CASUALTIES-ARG> when a truck crashed into a bus <PLACE-ARG ID="4"><LINK EVENT_ARG="1" ID="11" TYPE_REL="EVENT_ARG"/> near Polipalli in Bhogapuram mandal, Vizianagaram district, </PLACE-ARG><TIME-ARG ID="5"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> on Wednesday. </TIME-ARG>
+
+ The accident took place when a truck rammed into another resulting in the latter colliding with a bus coming from the opposite direction. 
+
+ The bus was carrying 42 pilgrims, who were on their way back to Yelamanchili and Narsipatnam after visiting Varanasi. 
+
+ They were returning after visiting Arasavilli and Srikurmam shrines in Srikakulam district when the mishap happened. 
+
+ The deceased — Karanam Venkanna (60), Bysetty Atchyuthamma (55) and Kalagada Appala Narasamma (60) — hailed from Yelamanchili and neighbouring Narsipatnam. 
+
+ Bhogapuram police said, the <MAN_MADE_EVENT ID="6" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT> took place near a curve at <TIME-ARG ID="7"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> around 3 am. </TIME-ARG> The truck driver was also injured in the accident. 
+
+ Of the 35 injured, the condition of nine is said to be serious and they have been shifted to King George Hospital. The rest are being treated at Vizianagaram district hospital. 
+
+ The death count is likely to go up as two of the injured are in critical condition. The police further added that the truck drive responsible for the initial collision had fled the scene. 
+
+</DOCUMENT>

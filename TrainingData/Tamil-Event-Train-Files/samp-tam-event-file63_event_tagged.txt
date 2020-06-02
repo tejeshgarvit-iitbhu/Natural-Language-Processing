@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>206 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> எகிப்தில் </PLACE-ARG><MAN_MADE_EVENT ID="1" TYPE="TRAIN_COLLISION"> ரயில் விபத்து: </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> 15 பேர் பலி; 40 பேர் காயம் </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> எகிப்தில் </PLACE-ARG> பயணிகள் <MAN_MADE_EVENT ID="4" TYPE="TRAIN_COLLISION"> ரயில் விபத்துக்குள்ளானதில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> 15 பேர் பலியாகினர். 40 பேர் காயமடைந்தனர். </CASUALTIES-ARG>
+
+ இதுகுறித்து மினா செய்தி நிறுவனம், <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> “எகிப்தின் பெஹிரா மாகாணத்தில் </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="4" ID="18" TYPE_REL="EVENT_ARG"/> புதன்கிழமையன்று </TIME-ARG> பயணிகள் ரயிலிருந்து இரு பெட்டிகள் தனியாக கழன்று சரக்கு ரயில் மீது மோதியது இதில் பயணிகள் பெட்டியிலிருந்து <CASUALTIES-ARG ID="8"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> 15 பேர் பலியாகினர். 40 பேர் காயமடைந்தனர்” </CASUALTIES-ARG> என்று செய்தி வெளியிட்டுள்ளது. 
+
+ இந்த விபத்தினால் ஏற்பட்ட பாதிப்பின் முழு விவர அறிக்கையை அளிக்குமாறு எகிப்து பிரதமர் ஷெரீப் இஸ்மாயில் போக்குவரத்து அமைச்சகத்துக்கு உத்தரவிட்டுள்ளார். 
+
+ எகிப்தில் சமீபகாலமாக ரயில் விபத்துகள் ஏற்படுவது அதிகரித்து வருவதால் ரயில்வே பாதையில் அடிப்படை பாதுகாப்பை மேம்படுத்துமாறு குரல்கள் ஏழத் தொடங்கியுள்ளன. 
+
+ <TIME-ARG ID="9"><LINK EVENT_ARG="10" ID="20" TYPE_REL="EVENT_ARG"/> கடந்த ஆண்டு ஆகஸ்ட் மாதம் </TIME-ARG> ஏற்பட்ட <MAN_MADE_EVENT ID="10" TYPE="TRAIN_COLLISION"> ரயில் விபத்தில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="11"><LINK EVENT_ARG="10" ID="19" TYPE_REL="EVENT_ARG"/> 40 பேர் பலியாகினர். </CASUALTIES-ARG>
+
+</DOCUMENT>

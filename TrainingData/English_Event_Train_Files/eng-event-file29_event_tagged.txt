@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>68891 Man <MAN_MADE_EVENT ID="0" TYPE="CRIME"> robbed </MAN_MADE_EVENT> of Rs 18 lakh at knifepoint <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> in Jamnagar </PLACE-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="6" ID="9" TYPE_REL="EVENT_ARG"/> RAJKOT: </PLACE-ARG> Three unidentified persons <MAN_MADE_EVENT ID="6" TYPE="CRIME"> robbed </MAN_MADE_EVENT> the president of a farmers’ cooperative of Rs 18 lakh cash at knife-point, in the <PLACE-ARG ID="3"><LINK EVENT_ARG="6" ID="10" TYPE_REL="EVENT_ARG"/> Kalavad taluka of Jamnagar </PLACE-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="6" ID="11" TYPE_REL="EVENT_ARG"/> on Tuesday. </TIME-ARG>
+
+ Hasmukh Patel, president of Jai Kisan Sahakari Mandali (a farmers’ cooperative) at Panchdevda village of Kalavad, was taking the cash collected from farmers to deposit with a cooperative bank in Jamnagar town. 
+
+ Police said that the robbers, who were on a motorcycle had been following Patel ever since he left the village on his motorcycle with the bag of cash. <PLACE-ARG ID="7"><LINK EVENT_ARG="6" ID="12" TYPE_REL="EVENT_ARG"/> Between Panchdevda and Navagan village, </PLACE-ARG> the robbers intercepted Patel, snatched the bag at knifepoint and fled. 
+
+ Police have obtained the CCTV footage of the robbers from a shop in Panchdevda village. The accused are seen on a motorcycle and only one of them had his face covered. The faces two others are clearly visible, police added. 
+
+</DOCUMENT>

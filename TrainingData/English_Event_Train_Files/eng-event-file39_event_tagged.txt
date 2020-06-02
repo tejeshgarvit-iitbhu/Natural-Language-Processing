@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>111 <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> Man killed </CASUALTIES-ARG> in <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> accident, </MAN_MADE_EVENT> kin refuse to accept body 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> RAJKOT: </PLACE-ARG> A 45-year-old Dalit <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> man was killed </CASUALTIES-ARG> after he was run over by a garbage van that was driving in reverse, at <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> Raiyadhar Garbage Centre in Raiyadhar area of Rajkot </PLACE-ARG><TIME-ARG ID="3"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> on Wednesday afternoon. </TIME-ARG>
+
+ Police said the family members of the deceased, identified as Ranjeet Saghathia, have refused to accept his body. 
+
+ “The family members of Saghathia have demanded compensation, a house for them and a job for one of the family members,” said RMC ex-corporator Karsan Vaghela, who has come out in support of the Saghathia family. 
+
+</DOCUMENT>

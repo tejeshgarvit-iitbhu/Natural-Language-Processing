@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>2018 A 32-year-old doctor working at the Tata Memorial Hospital allegedly <MAN_MADE_EVENT ID="0" TYPE="CRIME"> committed suicide </MAN_MADE_EVENT> by administering herself a lethal injection <TIME-ARG ID="1"><LINK EVENT_ARG="0" ID="2" TYPE_REL="EVENT_ARG"/> on Saturday. </TIME-ARG> Rupali Kalkundre was found in a critical condition by her husband Sagar Kurunkar at their residence in the Tata Memorial Hospital quarters on Saturday. He rushed her to Tata Memorial Hospital, where she was declared dead during treatment. 
+
+ According to forensic experts, the final cause of death has been reserved, but preliminary autopsy suggests she suffered respiratory paralysis due to overdose of an anaesthetic drug called procaine. A forensic doctor said she injected herself with the drug and suffered respiratory arrest that led to her death. 
+
+ Investigators said Kalkundre’s husband is also employed with Tata Memorial Hospital. An officer from Bhoiwada police station said, “Kalkundre’s husband left for work early on Saturday. Around 2pm, Kalkundre spoke to her husband and during the phone conversation, she said she was going to her sister’s residence.” According to police, Kurunkar called her again at 4 pm but she didn’t answer. 
+
+ Sagar returned home early at 6.30pm. On entering their residence, he found his wife unconscious, police said. With the help of neighbours, he rushed her to Tata Memorial Hospital, where she was declared dead during treatment, police said. 
+
+ Kalkundre, who has roots in Solapur, was born and brought up in Mumbai. Her parents live in Kanjurmarg. 
+
+ “After marrying Kurunkar three years ago, she shifted to Tata Memorial Hospital’s quarters in Parel. During the preliminary inquiry, we learnt that the deceased was suffering from a mental illness. She had started consulting a psychiatrist in Thane,” said an officer. 
+
+ The police said that they have also recovered a syringe and three empty vials of medicine from the spot. Police Sub-Inspector Amruta Mane from Bhoiwada police station said, “Prima-facie, it appears that she administered an injection on her left hand but we are still waiting for the post-mortem reports.” 
+
+</DOCUMENT>

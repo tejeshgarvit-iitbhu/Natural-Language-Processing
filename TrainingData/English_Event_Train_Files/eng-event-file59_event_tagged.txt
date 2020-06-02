@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>249 3 Indians among <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> 11 killed </CASUALTIES-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="1" ID="14" TYPE_REL="EVENT_ARG"/> in Oman </PLACE-ARG><NATURAL_EVENT ID="1" TYPE="CYCLONE"> cyclone </NATURAL_EVENT> Mekunu 
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="5" ID="15" TYPE_REL="EVENT_ARG"/> DUBAI: </PLACE-ARG> Three Indians were among <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="5" ID="16" TYPE_REL="EVENT_ARG"/> 11 people killed </CASUALTIES-ARG> by <NATURAL_EVENT ID="5" TYPE="CYCLONE"> cyclone Mekunu </NATURAL_EVENT> that has battered <PLACE-ARG ID="6"><LINK EVENT_ARG="5" ID="17" TYPE_REL="EVENT_ARG"/> southern Oman and the Yemeni island of Socotra, </PLACE-ARG> authorities and reports have said. 
+
+ <NAME-ARG ID="7"><LINK EVENT_ARG="10" ID="18" TYPE_REL="EVENT_ARG"/> Cyclone Mekunu </NAME-ARG> hit Oman’s Dhofar and Al-Wusta provinces <TIME-ARG ID="11"><LINK EVENT_ARG="10" ID="19" TYPE_REL="EVENT_ARG"/> on Friday </TIME-ARG> after intensifying from a category one to a category two <NATURAL_EVENT ID="10" TYPE="CYCLONE"> cyclone, </NATURAL_EVENT> with winds of up to <SPEED-ARG ID="8"><LINK EVENT_ARG="10" ID="20" TYPE_REL="EVENT_ARG"/> 170 kilometres per hour </SPEED-ARG> after it made landfall on <PLACE-ARG ID="12"><LINK EVENT_ARG="10" ID="21" TYPE_REL="EVENT_ARG"/> Socotra </PLACE-ARG><TIME-ARG ID="9"><LINK EVENT_ARG="10" ID="22" TYPE_REL="EVENT_ARG"/> on Thursday. </TIME-ARG>
+
+ “Indian Embassy Team in Salalah has confirmed that as per Royal Oman Police, mortal remains of one (Shamsher Ali) of two missing Indian have been found and the search for the other (Madhu) is underway. There is no report of casualty amongst other expatriates,” the Indian Embassy in Muscat tweeted. “Indian Embassy is taking care of 50 Indian dhow crew,” it said. 
+
+</DOCUMENT>

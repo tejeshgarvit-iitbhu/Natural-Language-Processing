@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>103 <MAN_MADE_EVENT ID="0" TYPE="FIRE"> Fire </MAN_MADE_EVENT> breaks out at <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> rubber factory in Delhi&apos;s Malviya Nagar </PLACE-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="7" ID="8" TYPE_REL="EVENT_ARG"/> NEW DELHI: </PLACE-ARG> A truck caught <MAN_MADE_EVENT ID="7" TYPE="FIRE"> fire </MAN_MADE_EVENT> in <PLACE-ARG ID="3"><LINK EVENT_ARG="7" ID="9" TYPE_REL="EVENT_ARG"/> Delhi&apos;s Malviya Nagar </PLACE-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="7" ID="10" TYPE_REL="EVENT_ARG"/> on Tuesday evening </TIME-ARG> and the blaze later spread to a nearby rubber factory. 
+
+ The call of <MAN_MADE_EVENT ID="5" TYPE="FIRE"> fire </MAN_MADE_EVENT> was received around 6pm and 35 fire tenders were rushed to the factory to bring the blaze under control, said a Delhi Fire Services officer. 
+
+ Flames and smoke are visible from many parts of southeast Delhi. 
+
+</DOCUMENT>

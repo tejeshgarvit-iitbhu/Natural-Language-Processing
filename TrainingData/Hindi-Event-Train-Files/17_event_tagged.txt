@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>2757 https://www.jagran.com/world/japan-earthquake-in-japan-three-killed-300-injured-18093844.html 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> जापान </PLACE-ARG> में <NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> से <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> तीन की मौत, </CASUALTIES-ARG> 300 जख्मी, 80 उड़ानें रद, लाखों लोग अंधेरे में रहने को मजबूर 
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> टोक्यो, </PLACE-ARG><PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> रायटर। </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> जापान </PLACE-ARG> के दूसरे सबसे बड़े महानगर <PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> ओसाका </PLACE-ARG> में <TIME-ARG ID="7"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> सोमवार सुबह </TIME-ARG> आए <NATURAL_EVENT ID="15" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> से <CASUALTIES-ARG ID="16"><LINK EVENT_ARG="15" ID="18" TYPE_REL="EVENT_ARG"/> तीन लोगों की मौत हो गई। </CASUALTIES-ARG><MAGNITUDE-ARG ID="17"><LINK EVENT_ARG="15" ID="19" TYPE_REL="EVENT_ARG"/> 6.1 तीव्रता </MAGNITUDE-ARG> के इस भूकंप से करीब 300 लोग जख्मी भी हुए हैं। ओसाका को अगले साल जी-20 देशों के सम्मेलन की मेजबानी करनी है। 
+
+ प्रधानमंत्री शिंजो एबी ने कहा, &apos;संबंधित अधिकारी भूकंप से हुए नुकसान का पता लगा रहे हैं। सरकार की प्राथमिकता नागरिकों की सुरक्षा सुनिश्चित करना है।&apos; भूकंप का झटका सुबह आठ बजे के करीब महसूस किया गया जब ज्यादातर लोग ऑफिस के लिए निकल रहे थे। 
+
+</DOCUMENT>

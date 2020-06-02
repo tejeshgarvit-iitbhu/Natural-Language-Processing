@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1372 <MAN_MADE_EVENT ID="0" TYPE="SUICIDE_ATTACK"> Suicide car bomber </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> kills two police officials </CASUALTIES-ARG> in <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> Afghanistan </PLACE-ARG>
+
+ Khalid Safi, a spokesman for the provincial governor, says those killed were the commander of the police station and the deputy director of traffic police for Logar&apos;s capital city, Puli Alim. 
+
+ An Afghan official says at least <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="3" ID="12" TYPE_REL="EVENT_ARG"/> two police officials were killed </CASUALTIES-ARG><MAN_MADE_EVENT ID="3" TYPE="SUICIDE_ATTACK"> in suicide-bomb attacks </MAN_MADE_EVENT> at <PLACE-ARG ID="5"><LINK EVENT_ARG="3" ID="13" TYPE_REL="EVENT_ARG"/> a police station </PLACE-ARG> in eastern Logar province. Khalid Safi, a spokesman for the provincial governor, says those killed were the commander of the police station and the deputy director of traffic police for Logar’s capital city, Puli Alim. 
+
+ Safi said the casualty toll in the <MAN_MADE_EVENT ID="6" TYPE="SUICIDE_ATTACK"> attack </MAN_MADE_EVENT><TIME-ARG ID="7"><LINK EVENT_ARG="8" ID="14" TYPE_REL="EVENT_ARG"/> today morning </TIME-ARG> was only an initial report and could rise. The attack started with a <MAN_MADE_EVENT ID="8" TYPE="SUICIDE_ATTACK"> suicide car bomber, </MAN_MADE_EVENT> then two other suicide bombers targeted the <PLACE-ARG ID="9"><LINK EVENT_ARG="8" ID="15" TYPE_REL="EVENT_ARG"/> police station. </PLACE-ARG> He said both bombers were identified, shot and killed by forces. 
+
+ No one immediately claimed responsibility for the attack, but Taliban insurgents are active in Logar province. 
+
+</DOCUMENT>

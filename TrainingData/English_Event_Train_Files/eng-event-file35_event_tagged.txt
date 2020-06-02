@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>129 <MAGNITUDE-ARG ID="0"><LINK EVENT_ARG="1" ID="11" TYPE_REL="EVENT_ARG"/> 4.2-magnitude </MAGNITUDE-ARG><NATURAL_EVENT ID="1" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> hits <PLACE-ARG ID="2"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> Manipur </PLACE-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="13" TYPE_REL="EVENT_ARG"/> MPHAL: </PLACE-ARG> An <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> of <MAGNITUDE-ARG ID="5"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> magnitude 4.2 </MAGNITUDE-ARG> on the Richter scale hit the <REASON-ARG ID="6"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> Myanmar-India Border Region (Manipur) </REASON-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> on Saturday morning. </TIME-ARG>
+
+ As per the meteorological department, the <NATURAL_EVENT ID="8" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> occurred at <TIME-ARG ID="9"><LINK EVENT_ARG="8" ID="17" TYPE_REL="EVENT_ARG"/> 3:36 p.m. </TIME-ARG> at a <DEPTH-ARG ID="10"><LINK EVENT_ARG="8" ID="18" TYPE_REL="EVENT_ARG"/> depth of 80km. </DEPTH-ARG>
+
+ No casualties have been reported so far. 
+
+</DOCUMENT>

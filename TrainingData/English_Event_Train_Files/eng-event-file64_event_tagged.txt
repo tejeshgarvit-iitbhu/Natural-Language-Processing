@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>245 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="6" TYPE_REL="EVENT_ARG"/> Two killed, 10 injured </CASUALTIES-ARG> as T.N. bus <MAN_MADE_EVENT ID="1" TYPE="TRANSPORT_HAZARDS"> overturns </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="3" ID="7" TYPE_REL="EVENT_ARG"/> Two persons were killed and 10 others were injured </CASUALTIES-ARG> as a Tamil Nadu-run bus <MAN_MADE_EVENT ID="3" TYPE="TRANSPORT_HAZARDS"> overturned </MAN_MADE_EVENT><PLACE-ARG ID="4"><LINK EVENT_ARG="3" ID="8" TYPE_REL="EVENT_ARG"/> on the Puthalapattu-Naidupeta highway near Pathakalva area of Tirupati rural mandal, </PLACE-ARG> here <TIME-ARG ID="5"><LINK EVENT_ARG="3" ID="9" TYPE_REL="EVENT_ARG"/> on Sunday morning. </TIME-ARG>
+
+ According to sources, the bus bound to Tirupati from Salem of Tamil Nadu, rammed a culvert causing it to swerve and topple into a nearby ditch. 
+
+ The driver and another passenger died instantly while others sustained grievous injuries. Passers-by rescued some of the victims and informed the police, who subsequently made arrangements to shift them to Ruia hospital. To ensure vehicular movement on the highway, the officials pressed in the services of a crane to shift the remains of the bus. The deceased have been identified as Arunachalam (bus driver) and Sundararajan. Police suspect that the driver must have reportedly fell asleep at wheel and was overspeeding. Further details are yet to be ascertained. 
+
+</DOCUMENT>

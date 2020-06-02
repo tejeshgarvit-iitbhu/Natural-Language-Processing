@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>163 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="10" ID="13" TYPE_REL="EVENT_ARG"/> 24 killed </CASUALTIES-ARG><PLACE-ARG ID="1"><LINK EVENT_ARG="10" ID="14" TYPE_REL="EVENT_ARG"/> in Bangladesh </PLACE-ARG> bus <MAN_MADE_EVENT ID="10" TYPE="TRANSPORT_HAZARDS"> accident </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="11" ID="15" TYPE_REL="EVENT_ARG"/> At least 24 people were killed </CASUALTIES-ARG><TIME-ARG ID="3"><LINK EVENT_ARG="11" ID="16" TYPE_REL="EVENT_ARG"/> on Thursday </TIME-ARG> when a bus veered off the road and <MAN_MADE_EVENT ID="11" TYPE="TRANSPORT_HAZARDS"> rammed </MAN_MADE_EVENT> into a number of trees in <PLACE-ARG ID="4"><LINK EVENT_ARG="11" ID="17" TYPE_REL="EVENT_ARG"/> central Bangladesh’s Faridpur district. </PLACE-ARG>
+
+ “The <MAN_MADE_EVENT ID="12" TYPE="TRANSPORT_HAZARDS"> accident </MAN_MADE_EVENT> took place <TIME-ARG ID="5"><LINK EVENT_ARG="12" ID="18" TYPE_REL="EVENT_ARG"/> around 1.15 a.m. </TIME-ARG><PLACE-ARG ID="6"><LINK EVENT_ARG="12" ID="19" TYPE_REL="EVENT_ARG"/> on the Barisal-Dhaka highway </PLACE-ARG> when driver apparently lost control over the wheels <PLACE-ARG ID="7"><LINK EVENT_ARG="12" ID="20" TYPE_REL="EVENT_ARG"/> at Bhanga area of Faridpur district,” </PLACE-ARG> a district police officer told reporters. 
+
+ The bus was heading towards south-western Barisal carrying about 50 passengers from Dhaka. 
+
+ The officer said most of the <CASUALTIES-ARG ID="8"><LINK EVENT_ARG="12" ID="22" TYPE_REL="EVENT_ARG"/> 24 people died </CASUALTIES-ARG> instantly with 19 of them being men and 5 women. 
+
+ <CASUALTIES-ARG ID="9"><LINK EVENT_ARG="12" ID="21" TYPE_REL="EVENT_ARG"/> Twenty-three people were injured. </CASUALTIES-ARG> They were being treated at nearby facilities, some with critical wounds. 
+
+</DOCUMENT>

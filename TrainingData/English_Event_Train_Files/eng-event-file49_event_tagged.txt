@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1054 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="5" ID="7" TYPE_REL="EVENT_ARG"/> Three of a family die </CASUALTIES-ARG> in road <MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT><PLACE-ARG ID="1"><LINK EVENT_ARG="5" ID="8" TYPE_REL="EVENT_ARG"/> in Surat </PLACE-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="5" ID="10" TYPE_REL="EVENT_ARG"/> SURAT: </PLACE-ARG><CASUALTIES-ARG ID="3"><LINK EVENT_ARG="5" ID="9" TYPE_REL="EVENT_ARG"/> Three persons of a family were knocked to death </CASUALTIES-ARG> by a speeding truck <PLACE-ARG ID="4"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> in Sathana area </PLACE-ARG> when they were going on a motorcycle on Wednesday afternoon. Two of them, including a six-year-old boy, died on the spot while a woman died due to injuries during treatment in a hospital. 
+
+ Laljibhai Bhagwan Radadiya, 52, wife of his nephew Vinay, Hetal, 28, and her son Mantra, 6, died in the <MAN_MADE_EVENT ID="6" TYPE="VEHICULAR_COLLISION"> accident. </MAN_MADE_EVENT> The complaint was lodged in Sarthana police station by Vinay, a textile businessman. Vinay told police that his wife Hetal was going with Laljibhai to inquire about Mantra’s admission in school when they met with accident. The deceased were on a motorcycle which was knocked by GJ-05-BV-6762. 
+
+ The Driver of truck escaped from the spot and police have started search to arrest him. The truck was used for transportation of sand. “We have registered the offence and investigation is on to find out exactly how the accident took place. Police are yet to arrest the accused but we will nab him soon,” said a police officer of Sarthana police station. 
+
+ The driver escaped from the spot leaving the truck on the spot after which locals pelted stones on it. Police seized the truck for further investigation. 
+
+</DOCUMENT>

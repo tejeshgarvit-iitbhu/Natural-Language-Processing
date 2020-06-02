@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>284 <PLACE-ARG ID="0"><LINK EVENT_ARG="5" ID="7" TYPE_REL="EVENT_ARG"/> Bengaluru </PLACE-ARG> woman dies as <NATURAL_EVENT ID="5" TYPE="FLOODS"> rainwater floods </NATURAL_EVENT> house 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="6" ID="8" TYPE_REL="EVENT_ARG"/> BENGALURU: </PLACE-ARG> A 54-year-old home-alone woman drowned after her home <PLACE-ARG ID="2"><LINK EVENT_ARG="6" ID="9" TYPE_REL="EVENT_ARG"/> near Bettamma Circle in KP Agrahara, West Bengaluru, </PLACE-ARG><NATURAL_EVENT ID="6" TYPE="FLOODS"> flooded </NATURAL_EVENT> with rainwater <TIME-ARG ID="3"><LINK EVENT_ARG="6" ID="10" TYPE_REL="EVENT_ARG"/> on Thursday night. </TIME-ARG> An ailing Rathnamma is believed to have been asleep when the filthy water rushed into her 7x10 feet rented home. Her house is located next to a storm water drain. 
+
+ The incident came to light around 11pm when Tulasi, Rathnamma’s son, a daily wage worker residing nearby, went to check on his mother. “My brother was aware of the waterlogging issue and went to check on her,” said Manjula, Rathnamma’s daughter. “He had to wade through 5 feet of water in the area. Our mother was found dead inside. Water had entered the house <TIME-ARG ID="4"><LINK EVENT_ARG="6" ID="11" TYPE_REL="EVENT_ARG"/> around 9pm.” </TIME-ARG>
+
+</DOCUMENT>

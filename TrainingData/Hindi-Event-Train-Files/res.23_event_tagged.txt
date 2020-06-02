@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1683 https://himachal.punjabkesari.in/himachal-pradesh/news/fire-in-gas-cylinder-3-pepole-scorching-811076 
+
+ चाय बनाते समय गैस सिलैंडर ने पकड़ी <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग, </MAN_MADE_EVENT> परिवार के <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> 3 लोग झुलसे </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> बिलासपुर: </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> घुमारवीं उपमंडल </PLACE-ARG> की ग्राम पंचायत <PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> डंगार </PLACE-ARG> के <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> चोखना गांव </PLACE-ARG> में गैस सिलैंडर में आग लगने से एक परिवार के 3 सदस्य बुरी तरह से झुलस गए। घायलों को उपचार के लिए सिविल अस्पताल घुमारवीं में भर्ती करवाया गया लेकिन सर्जन न होने के चलते उन्हें क्षेत्रीय अस्पताल हमीरपुर के लिए रैफर कर दिया गया। इस हादसे में घायल संजीव कुमार ने बताया कि <TIME-ARG ID="7"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> सुबह करीब 6 बजे </TIME-ARG> उसकी माता सोमा देवी (50) ने रसोईघर में जाकर चाय बनाने के लिए गैस ऑन की तो सिलैंडर ने आग पकड़ ली जिससे उसकी मां आग की चपेट में आ गई। इस दौरान उसकी पत्नी रीना जैसे ही आगे बढ़ी तो वह भी आग की चपेट में आ गई। वहीं रीना के चिल्लाने की आवाज सुनकर वह रसोईघर में पहुंचा तो वह भी आग की चपेट में आ गया। 
+
+ गांववालों की मदद से बाहर निकाला जलता हुआ सिलैंडर 
+
+ गांववालों की मदद से जलते हुए सिलैंडर को कड़ी मशक्कत के बाद घर बाहर निकाला गया, जिससे बड़ा हादसा होने से बच गया। वहीं भराड़ी थाना की पुलिस टीम मौके पर पहुंचकर मामला दर्ज कर आग लगने के कारणों की जांच में जुट गई है। 
+
+</DOCUMENT>

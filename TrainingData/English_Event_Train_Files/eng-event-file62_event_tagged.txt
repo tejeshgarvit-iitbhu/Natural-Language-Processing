@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>206 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="6" ID="8" TYPE_REL="EVENT_ARG"/> Student falls to death </CASUALTIES-ARG> from waterfall while clicking selfie 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="6" ID="7" TYPE_REL="EVENT_ARG"/> CHIKKABALLAPURA: </PLACE-ARG> The craze to click a selfie claimed yet another life <TIME-ARG ID="2"><LINK EVENT_ARG="3" ID="10" TYPE_REL="EVENT_ARG"/> on Tuesday. </TIME-ARG> Naveen Kumar, a 21-year-old commerce student, <MAN_MADE_EVENT ID="6" TYPE="ACCIDENTS"> fell </MAN_MADE_EVENT> to death from <NAME-ARG ID="3"><LINK EVENT_ARG="6" ID="9" TYPE_REL="EVENT_ARG"/> Channagiri falls, </NAME-ARG> a waterfall <PLACE-ARG ID="4"><LINK EVENT_ARG="3" ID="11" TYPE_REL="EVENT_ARG"/> near Nandi Hills, </PLACE-ARG><REASON-ARG ID="5"><LINK EVENT_ARG="3" ID="12" TYPE_REL="EVENT_ARG"/> while trying to take a selfie. </REASON-ARG> &quot;Naveen had positioned himself on the edge on a rock. But as he was about to click a selfie, he slipped and fell,&quot; said eyewitnesses. Naveen was a final-year B.Com student at Government First Grade College, Doddaballapura. 
+
+ Talwars embark on tour a day after release from jail: Dentist couple Nupur and Rajesh Talwar on Tuesday embarked on a tour, a day after they walked out of Dasna Jail in Ghaziabad after four years behind bars. The couple left Nupur Talwar&apos;s parents&apos; flat in Noida in a car on Tuesday morning. They refused to talk to a posse of mediapersons waiting outside the complex. 
+
+ Vandana Talwar, an aunt of Aarushi, told reporters that the dentist couple had left on a tour. They are interested in visiting the Golden Temple in Amritsar, she added. 
+
+</DOCUMENT>

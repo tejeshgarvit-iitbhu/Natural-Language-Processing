@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>161 Truck <MAN_MADE_EVENT ID="4" TYPE="TRANSPORT_HAZARDS"> crashes </MAN_MADE_EVENT> into bus stop <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> in China, </PLACE-ARG><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> killing 8 </CASUALTIES-ARG>
+
+ A freight truck lost control and <MAN_MADE_EVENT ID="5" TYPE="TRANSPORT_HAZARDS"> crashed </MAN_MADE_EVENT> into a bus stop <PLACE-ARG ID="7"><LINK EVENT_ARG="5" ID="13" TYPE_REL="EVENT_ARG"/> in a northern Chinese city, </PLACE-ARG><CASUALTIES-ARG ID="8"><LINK EVENT_ARG="5" ID="14" TYPE_REL="EVENT_ARG"/> killing eight people and injuring six others, </CASUALTIES-ARG> China Central Television said on Wednesday. 
+
+ The truck driver, who survived the <MAN_MADE_EVENT ID="10" TYPE="TRANSPORT_HAZARDS"> crash, </MAN_MADE_EVENT> said the brakes malfunctioned and that he failed to see <PLACE-ARG ID="9"><LINK EVENT_ARG="10" ID="15" TYPE_REL="EVENT_ARG"/> the bus stop in the city of Zhangjiakou in the northern province of Hebei. </PLACE-ARG>
+
+</DOCUMENT>

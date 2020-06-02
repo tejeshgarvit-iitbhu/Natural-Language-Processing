@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>335 https://www.jagran.com/world/japan-one-killed-in-japan-bullet-train-with-knife-18063386.html 
+
+ जापान: <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> बुलेट ट्रेन </PLACE-ARG> में <MAN_MADE_EVENT ID="0" TYPE="CRIME"> चाकू से हमला कर </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> एक को उतारा मौत </CASUALTIES-ARG> के घाट 
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> टोक्यो, </PLACE-ARG><PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> एपी </PLACE-ARG> : <PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> जापान </PLACE-ARG> की एक <PLACE-ARG ID="8"><LINK EVENT_ARG="6" ID="18" TYPE_REL="EVENT_ARG"/> बुलेट ट्रेन </PLACE-ARG> में <MAN_MADE_EVENT ID="6" TYPE="CRIME"> चाकू से किए गए हमले </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="7"><LINK EVENT_ARG="6" ID="17" TYPE_REL="EVENT_ARG"/> एक पुरुष यात्री की मौत हो गई। </CASUALTIES-ARG> हमले में दो युवतियां घायल हुई हैं। पुलिस ने 22 वर्षीय हमलावर इचिरो कोजिमा को गिरफ्तार कर लिया है। 
+
+ पुलिस के अनुसार, <TIME-ARG ID="19"><LINK EVENT_ARG="6" ID="25" TYPE_REL="EVENT_ARG"/> शनिवार रात </TIME-ARG><PLACE-ARG ID="20"><LINK EVENT_ARG="6" ID="26" TYPE_REL="EVENT_ARG"/> टोक्यो </PLACE-ARG> से <PLACE-ARG ID="23"><LINK EVENT_ARG="6" ID="24" TYPE_REL="EVENT_ARG"/> ओसाका </PLACE-ARG> जा रही बुलेट ट्रेन को <PLACE-ARG ID="21"><LINK EVENT_ARG="6" ID="27" TYPE_REL="EVENT_ARG"/> पश्चिमी टोक्यो </PLACE-ARG> के <PLACE-ARG ID="22"><LINK EVENT_ARG="6" ID="28" TYPE_REL="EVENT_ARG"/> ओडावारा स्टेशन </PLACE-ARG> पर आपास स्थिति में रोकना पड़ा। सूचना मिली थी कि एक शख्स चाकू से दूसरे यात्रियों पर हमला कर रहा है। मौके पर पहुंची पुलिस को इचिरो घायल और बेसुध पड़े यात्री की पीठ पर बैठा मिला था। 38 वर्षीय घायल व्यक्ति की बाद में मौत हो गई। उसकी गर्दन और शरीर के अन्य अंगों पर चाकू के गहरे जख्म थे। स्थानीय मीडिया के अनुसार, इचिरो ने पुलिस को बताया कि वह काफी परेशान था और उसका किसी पर हमला करने का मन कर रहा था। 
+
+ जापान को दुनिया के सबसे सुरक्षित देशों में गिना जाता है। हमले की ऐसी घटनाएं जापान में कम ही होती हैं। इससे पहले 2005 में बुलेट ट्रेन में एक व्यक्ति ने खुद को आग लगाकर अपने साथ एक अन्य यात्री की भी जान ले ली थी। उस घटना में 30 लोग घायल हुए थे। 
+
+</DOCUMENT>

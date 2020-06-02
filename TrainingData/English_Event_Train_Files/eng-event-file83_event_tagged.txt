@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>197 Van-fuel tanker <MAN_MADE_EVENT ID="0" TYPE="VEHICULAR_COLLISION"> collision </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> kills 23 </CASUALTIES-ARG><PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> in western Afghanistan </PLACE-ARG>
+
+ A van slammed into a fuel tanker <PLACE-ARG ID="5"><LINK EVENT_ARG="1" ID="16" TYPE_REL="EVENT_ARG"/> in western Afghanistan </PLACE-ARG><TIME-ARG ID="6"><LINK EVENT_ARG="1" ID="17" TYPE_REL="EVENT_ARG"/> on Sunday, </TIME-ARG><CASUALTIES-ARG ID="3"><LINK EVENT_ARG="1" ID="18" TYPE_REL="EVENT_ARG"/> killing 23 people </CASUALTIES-ARG> in the horrific <MAN_MADE_EVENT ID="1" TYPE="VEHICULAR_COLLISION"> accident. </MAN_MADE_EVENT>
+
+ The <MAN_MADE_EVENT ID="7" TYPE="VEHICULAR_COLLISION"> crash </MAN_MADE_EVENT> happened <TIME-ARG ID="8"><LINK EVENT_ARG="7" ID="19" TYPE_REL="EVENT_ARG"/> on Sunday morning </TIME-ARG><PLACE-ARG ID="9"><LINK EVENT_ARG="7" ID="20" TYPE_REL="EVENT_ARG"/> on the main highway between the city of Herat and the Iranian border, said Raouf Ahmadi, </PLACE-ARG> a spokesman for the provincial police chief in western Herat province. He added that four people were injured in the accident. 
+
+ Authorities do not know what caused the accident, but Ahmadi said initial reports indicated that “both drivers’ carelessness” was to blame. 
+
+ A similar incident was reported <TIME-ARG ID="12"><LINK EVENT_ARG="13" ID="21" TYPE_REL="EVENT_ARG"/> on August 17, </TIME-ARG> when a truck loaded with people and animals <MAN_MADE_EVENT ID="13" TYPE="TRANSPORT_HAZARDS"> crashed </MAN_MADE_EVENT><PLACE-ARG ID="10"><LINK EVENT_ARG="13" ID="22" TYPE_REL="EVENT_ARG"/> in a mountainous area of northwestern Afghanistan, </PLACE-ARG><CASUALTIES-ARG ID="11"><LINK EVENT_ARG="13" ID="23" TYPE_REL="EVENT_ARG"/> killing 32 people. </CASUALTIES-ARG>
+
+</DOCUMENT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>766 https://up.punjabkesari.in/uttar-pradesh/news/fierce-fire-in-sbi-records-room-in-noida-812540 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> नोएडाः </PLACE-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> SBI के रिकॉर्ड रूम </PLACE-ARG> में भयंकर <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग, </MAN_MADE_EVENT> महत्वपूर्ण <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> दस्तावेज जलकर हुआ राख </CASUALTIES-ARG>
+
+ नोएडाः <PLACE-ARG ID="3"><LINK EVENT_ARG="10" ID="11" TYPE_REL="EVENT_ARG"/> नोएडा </PLACE-ARG> के सेक्टर 63 स्थित <PLACE-ARG ID="4"><LINK EVENT_ARG="10" ID="12" TYPE_REL="EVENT_ARG"/> स्टेट बैंक ऑफ इंडिया के रिकॉर्ड रूम </PLACE-ARG> में बीती रात भयंकर <MAN_MADE_EVENT ID="10" TYPE="FIRE"> आग </MAN_MADE_EVENT> लग गई जिसमें बैंक के महत्वपूर्ण <CASUALTIES-ARG ID="6"><LINK EVENT_ARG="10" ID="13" TYPE_REL="EVENT_ARG"/> दस्तावेज जलकर खाक हो गए। </CASUALTIES-ARG> करीब 9 घंटे की मशक्कत के बाद दमकल विभाग की 10 गाडिय़ों ने आग पर काबू पाया। 
+
+ मुख्य अग्निशमन अधिकारी अरुण कुमार सिंह ने बताया कि सेक्टर 63में स्टेट बैंक ऑफ इंडिया का रिकॉर्ड रूम है। यहां पर बैंक की फाइलें रखी जाती हैं। उन्होंने बताया कि <TIME-ARG ID="14"><LINK EVENT_ARG="10" ID="15" TYPE_REL="EVENT_ARG"/> रात करीब एक बजे </TIME-ARG> बैंक के स्टोर में भयंकर आग लग गई। घटना की सूचना पाकर दमकल विभाग की 10 गाडिय़ां मौके पर पहुंची। 
+
+ उन्होंने बताया कि देर रात से आज सुबह 10 बजे तक दमकल विभाग आग बुझाने में जुटा रहा। उन्होंने बताया कि इस घटना में बैंक के महत्वपूर्ण दस्तावेज जलकर खाक हो गए। 
+
+</DOCUMENT>

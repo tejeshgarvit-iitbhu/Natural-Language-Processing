@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1774 https://punjab.punjabkesari.in/punjab/news/amritsar-many-houses-in-the-wreckage-attached-to-pasiiyna-chowk-798558 
+
+ अमृतसरः पासीयां वाला चौक के पास लगी भीषण अाग, <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> चपेट में कई घर, एक की मौत </CASUALTIES-ARG>
+
+ अमृतसर(सुमित खन्ना): <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> अमृतसर </PLACE-ARG> के <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> पासीयां वाला चौक </PLACE-ARG> और <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> केसर वाला चौक </PLACE-ARG> के पास <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग </MAN_MADE_EVENT> लगने की ख़बर मिली है। जानकारी के मुताबिक 5-6 घर आग की लपेट में आ गए हैं। आग लगने के कारणों का अभी पता नहीं चल सका है। घटना में एक व्यक्ति के मारे जाने पर कईयों के घायल होने का अंदेशा है। घटना के बारे अभी विस्तृत जानकारी नहीं मिल सकी है। 
+
+</DOCUMENT>

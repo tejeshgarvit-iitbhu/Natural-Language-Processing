@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1140 <PLACE-ARG ID="26"><LINK EVENT_ARG="1" ID="27" TYPE_REL="EVENT_ARG"/> பப்புவா நியூ கினியாவில் </PLACE-ARG> ஏற்பட்ட சக்தி வாய்ந்த <NATURAL_EVENT ID="1" TYPE="EARTHQUAKE"> நில நடுக்கம்: </NATURAL_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="28" TYPE_REL="EVENT_ARG"/> பலி எண்ணிக்கை 67ஆக </CASUALTIES-ARG> அதிகரிப்பு 
+
+<DEPTH-ARG ID="13"> <PLACE-ARG ID="6"><LINK EVENT_ARG="9" ID="31" TYPE_REL="EVENT_ARG"/> பசிபிக் தீவு நாடான பப்புவா நியூ கினியாவின் போர்கேரா மாகாணத்தில் </PLACE-ARG><TIME-ARG ID="8"><LINK EVENT_ARG="11" ID="33" TYPE_REL="EVENT_ARG"/> கடந்த வாரம் </TIME-ARG> சக்தி வாய்ந்த <NATURAL_EVENT ID="9" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. இந்த <NATURAL_EVENT ID="11" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT><MAGNITUDE-ARG ID="10"><LINK EVENT_ARG="11" ID="32" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவுகோலில் 7.5 </MAGNITUDE-ARG> ஆக பதிவாகியது. <DEPTH-ARG ID="12"><LINK EVENT_ARG="11" ID="34" TYPE_REL="EVENT_ARG"/> 35 கிலோ மீட்டர் ஆழத்தில் </DEPTH-ARG> ஏற்பட்டது. 
+
+ இந்த <NATURAL_EVENT ID="14" TYPE="EARTHQUAKE"> நில நடுக்கத்தினால் </NATURAL_EVENT> பாதிப்புகள் குறித்து உடனடி தகவல் ஏதும் வராத நிலையில் 67 பேர் இறந்துள்ளதாக செஞ்சிலுவை சங்கம் தெரிவித்துள்ளது. 
+
+ இதுகுறித்து செஞ்சிலுவை சங்கம் கூறுகையில், <TIME-ARG ID="16"><LINK EVENT_ARG="18" ID="35" TYPE_REL="EVENT_ARG"/> ”கடந்த வாரம் </TIME-ARG><PLACE-ARG ID="17"><LINK EVENT_ARG="18" ID="36" TYPE_REL="EVENT_ARG"/> போர்கோ மாகாணத்தில் </PLACE-ARG> ஏற்பட்ட <NATURAL_EVENT ID="18" TYPE="EARTHQUAKE"> நில நடுக்கத்துக்கு </NATURAL_EVENT><CASUALTIES-ARG ID="15"><LINK EVENT_ARG="18" ID="38" TYPE_REL="EVENT_ARG"/> 67 பேர் பலியாகியுள்ளனர். </CASUALTIES-ARG><CASUALTIES-ARG ID="19"><LINK EVENT_ARG="18" ID="37" TYPE_REL="EVENT_ARG"/> 500 பேர் காயமடைந்துள்ளனர். </CASUALTIES-ARG> ஒரு லட்சத்துக்கு அதிகமான மக்கள் முகாம்களில் தங்கவைக்கப்பட்டுள்ளனர். 
+
+ சாலைகள் பல இடங்களில் சேதமடைந்துள்ளதாகவும். அதனை சீரமைக்கும் பணியில் அரசு ஈடுபட்டு வருகிறது” தெரிவித்துள்ளது. 
+
+ கடந்த நூறு வருடங்களில் ஏற்பட்ட மிகப் பெரிய நிலநடுக்கம் என்று <NAME-ARG ID="20"><LINK EVENT_ARG="23" ID="39" TYPE_REL="EVENT_ARG"/> பப்புவா கினியா </NAME-ARG> அரசு தெரிவித்துள்ளது. <TIME-ARG ID="21"><LINK EVENT_ARG="23" ID="42" TYPE_REL="EVENT_ARG"/> ஞயிற்றுக்கிழமை </TIME-ARG><MAGNITUDE-ARG ID="22"><LINK EVENT_ARG="23" ID="41" TYPE_REL="EVENT_ARG"/> 6.0 ரிக்டர் அளவில் </MAGNITUDE-ARG> மீண்டும் <PLACE-ARG ID="24"><LINK EVENT_ARG="23" ID="40" TYPE_REL="EVENT_ARG"/> பப்புவா நியூ கினியாவில் </PLACE-ARG><NATURAL_EVENT ID="23" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது குறிப்பிடத்தக்கது. 
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="29" TYPE_REL="EVENT_ARG"/> பப்புவா நியூ கினியாவில் </PLACE-ARG> ஏற்பட்ட சக்தி வாய்ந்த <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> நிலநடுக்கத்துக்கு </NATURAL_EVENT><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="30" TYPE_REL="EVENT_ARG"/> பலியானோர் எண்ணிக்கை 67 </CASUALTIES-ARG> ஆக அதிகரித்துள்ளது. 
+
+</DEPTH-ARG></DOCUMENT>

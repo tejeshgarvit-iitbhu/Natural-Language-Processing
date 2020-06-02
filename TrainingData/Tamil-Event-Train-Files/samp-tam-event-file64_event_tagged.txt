@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>2737 <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> சிரியா </PLACE-ARG> அரசுப் படை <MAN_MADE_EVENT ID="0" TYPE="SURGICAL_STRIKES"> விமானத் தாக்குதல்: </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> பொது மக்கள் 100 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="18" TYPE_REL="EVENT_ARG"/> சிரியாவில் </PLACE-ARG> கிளர்ச்சியாளர்கள் கட்டுபாட்டுப் பகுதியில் அரசுப் படை நடத்திய <MAN_MADE_EVENT ID="4" TYPE="SURGICAL_STRIKES"> வான்வழித் தாக்குதலில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="19" TYPE_REL="EVENT_ARG"/> பொது மக்கள் 100 பேர் பலியாகினர். </CASUALTIES-ARG>
+
+ இதுகுறித்து சிரியா கண்காணிப்பு குழு இன்று (செவ்வாய்க்கிழமை) கூறும்போது, <PLACE-ARG ID="7"><LINK EVENT_ARG="9" ID="20" TYPE_REL="EVENT_ARG"/> சிரியாவில் கிழக்குப் பகுதியில் கவுடா பகுதியில் </PLACE-ARG><TIME-ARG ID="8"><LINK EVENT_ARG="9" ID="21" TYPE_REL="EVENT_ARG"/> கடந்த ஞாயிற்றுக்கிழமை </TIME-ARG> முதல் <MAN_MADE_EVENT ID="9" TYPE="SURGICAL_STRIKES"> வான்வழித் தாக்குதல் </MAN_MADE_EVENT> நடத்தப்பட்டு வருகிறது. இதில் <CASUALTIES-ARG ID="10"><LINK EVENT_ARG="9" ID="22" TYPE_REL="EVENT_ARG"/> பொதுமக்கள் 100 பேர் பலியாகினர். </CASUALTIES-ARG> அதில் 20 பேர் குழந்தைகள்&quot;என்று கூறப்பட்டுள்ளது. 
+
+ <PLACE-ARG ID="11"><LINK EVENT_ARG="15" ID="24" TYPE_REL="EVENT_ARG"/> சிரியாவில் </PLACE-ARG> அதிபர் பஷார் அல் ஆசாத் பதவி விலகக் கோரி, <TIME-ARG ID="12"><LINK EVENT_ARG="14" ID="23" TYPE_REL="EVENT_ARG"/> கடந்த 2011-ம் ஆண்டு </TIME-ARG> மார்ச் மாதம் உள்நாட்டு <MAN_MADE_EVENT ID="13" TYPE="RIOTS"> கலவரம் </MAN_MADE_EVENT> மூண்டது. இதில் கிளர்ச்சியாளர்களுக்கு ஆதரவாக அமெரிக்காவும், சிரிய அரசுப் படைக்கு ஆதரவாக ரஷ்யா அவ்வப்போது <MAN_MADE_EVENT ID="14" TYPE="SURGICAL_STRIKES"> வான்வழித் தாக்குதலை </MAN_MADE_EVENT> நடத்தி வருகிறது.இதில் இதுவரை <CASUALTIES-ARG ID="15"><LINK EVENT_ARG="14" ID="25" TYPE_REL="EVENT_ARG"/> 400,000 பேர் பலியாகியுள்ளனர். </CASUALTIES-ARG>
+
+</DOCUMENT>

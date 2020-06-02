@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>4752 https://punjab.punjabkesari.in/jalandhar/news/tree-fall-481766 
+
+ शिमला में हट पर <MAN_MADE_EVENT ID="10" TYPE="ACCIDENTS"> पेड़ गिरा, </MAN_MADE_EVENT> जालंधर के दो लोगों की मौत 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="10" ID="12" TYPE_REL="EVENT_ARG"/> शिमला/कुमारसैन </PLACE-ARG> : <PLACE-ARG ID="3"><LINK EVENT_ARG="10" ID="13" TYPE_REL="EVENT_ARG"/> हिमाचल प्रदेश </PLACE-ARG> में शिमला के <PLACE-ARG ID="4"><LINK EVENT_ARG="10" ID="14" TYPE_REL="EVENT_ARG"/> नारकंडा पर्यटक रिजॉर्ट </PLACE-ARG> में एक शिविर पर आज तड़के <REASON-ARG ID="11"><LINK EVENT_ARG="10" ID="15" TYPE_REL="EVENT_ARG"/> आंधी से </REASON-ARG> एक पेड़ गिर गया जिसमें ठहरे <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="10" ID="16" TYPE_REL="EVENT_ARG"/> 2 पर्यटकों की दबकर मौत हो गई और एक अन्य घायल हो गया। </CASUALTIES-ARG>
+
+ पुलिस अधिकारी ने बताया कि दोनों पर्यटक पंजाब के जालंधर शहर के रहने वाले थे। पर्यटक <PLACE-ARG ID="26"><LINK EVENT_ARG="24" ID="29" TYPE_REL="EVENT_ARG"/> हिमाचल प्रदेश </PLACE-ARG> वन विकास निगम लिमिटेड द्वारा संचालित <PLACE-ARG ID="25"><LINK EVENT_ARG="24" ID="28" TYPE_REL="EVENT_ARG"/> शिमला </PLACE-ARG> से 65 किलोमीटर दूर और 8500 फीट की ऊंचाई पर स्थित एक शिविर में ठहरे हुए थे। हादसे के समय पर्यटक शिविर में सो रहे थे तभी अचानक एक पेड़ उन पर जा गिरा जिसमें <CASUALTIES-ARG ID="27"><LINK EVENT_ARG="24" ID="30" TYPE_REL="EVENT_ARG"/> दोनों की दबकर मौत हो गई। </CASUALTIES-ARG> मृतकों की पहचान जालंधर निवासी अशोक सिद्धू (45) और राजेश कुमार (36) के रूप में की गई है। गगन कुमार (32) नामक एक अन्य व्यक्ति इस <MAN_MADE_EVENT ID="24" TYPE="ACCIDENTS"> हादसे </MAN_MADE_EVENT> में घायल हो गया। घायल व्यक्ति को शिमला के इंदिरा गांधी मैडीकल कॉलेज और अस्पताल में भर्ती कराया गया। 
+
+ उधर, <PLACE-ARG ID="19"><LINK EVENT_ARG="17" ID="22" TYPE_REL="EVENT_ARG"/> नारकंडा </PLACE-ARG> में <REASON-ARG ID="18"><LINK EVENT_ARG="17" ID="21" TYPE_REL="EVENT_ARG"/> आए तूफान </REASON-ARG> में नेचर कैंप पर <MAN_MADE_EVENT ID="17" TYPE="ACCIDENTS"> गिरे पेड़ </MAN_MADE_EVENT> की चपेट में आने से जालंधर पंजाब के <CASUALTIES-ARG ID="20"><LINK EVENT_ARG="17" ID="23" TYPE_REL="EVENT_ARG"/> 2 युवकों की मौत होने </CASUALTIES-ARG> पर मुख्यमंत्री वीरभद्र सिंह व वन मंत्री ठाकुर सिंह भरमौरी ने शोक जताया है। साथ ही मृतकों के परिजनों को हर संभव सहायता करने की बात कही है। 
+
+</DOCUMENT>

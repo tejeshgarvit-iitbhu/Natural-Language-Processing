@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>239 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="8" ID="12" TYPE_REL="EVENT_ARG"/> 5 Indians killed </CASUALTIES-ARG><PLACE-ARG ID="3"><LINK EVENT_ARG="8" ID="13" TYPE_REL="EVENT_ARG"/> in Saudi </PLACE-ARG> road <MAN_MADE_EVENT ID="8" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="9" ID="14" TYPE_REL="EVENT_ARG"/> Five Indian workers were killed </CASUALTIES-ARG> on the spot when their vehicle was <MAN_MADE_EVENT ID="9" TYPE="VEHICULAR_COLLISION"> hit </MAN_MADE_EVENT> by a trailer <PLACE-ARG ID="5"><LINK EVENT_ARG="9" ID="15" TYPE_REL="EVENT_ARG"/> in Saudi Arabia’s Eastern Province. </PLACE-ARG>
+
+ The <MAN_MADE_EVENT ID="11" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT> took place <TIME-ARG ID="6"><LINK EVENT_ARG="11" ID="16" TYPE_REL="EVENT_ARG"/> on Thursday </TIME-ARG> when the workers, all from Kerala, were returning from a work site and were <MAN_MADE_EVENT ID="10" TYPE="VEHICULAR_COLLISION"> hit </MAN_MADE_EVENT> by a speeding trailer <PLACE-ARG ID="7"><LINK EVENT_ARG="11" ID="17" TYPE_REL="EVENT_ARG"/> at Salwa near Dammam. </PLACE-ARG>
+
+ The deceased were identified as Santosh Kumar, Iqbal Noman, Tulsi Krishnan, Ravindra Nair and Shiva Kumar Bhagvati Pillai, Arab News quoted Indian embassy official Manoj Kumar as saying. 
+
+ “All of them died on the spot. The embassy is in contact with the company and helping, with the aid of volunteers, to send them to their families back in India,” Mr. Manoj said. 
+
+</DOCUMENT>

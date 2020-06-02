@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1268 http://www.deshbandhu.co.in/states/himachal-himachal-kindergarten-student-killed-12-injured-in-accident-103476-1 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> हिमाचल </PLACE-ARG> : <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> हादसे </MAN_MADE_EVENT> में किंडरगार्टन के <CASUALTIES-ARG ID="21"><LINK EVENT_ARG="0" ID="23" TYPE_REL="EVENT_ARG"/> छात्र की मौत, 12 घायल </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> हिमाचल प्रदेश </PLACE-ARG> के <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> मंडी जिले </PLACE-ARG> में <TIME-ARG ID="11"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> गुरुवार </TIME-ARG> को एक निजी स्कूल की बस के सड़क से फिसल कर 100 फीट गहरी खाई में गिरने से किंडरगार्टन के <CASUALTIES-ARG ID="22"><LINK EVENT_ARG="0" ID="24" TYPE_REL="EVENT_ARG"/> एक छात्र की मौत हो गई व अन्य 12 छात्र घायल हो गए </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="20" ID="21" TYPE_REL="EVENT_ARG"/> शिमला। </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="20" ID="22" TYPE_REL="EVENT_ARG"/> हिमाचल प्रदेश </PLACE-ARG> के <PLACE-ARG ID="6"><LINK EVENT_ARG="20" ID="23" TYPE_REL="EVENT_ARG"/> मंडी जिले </PLACE-ARG> में <TIME-ARG ID="12"><LINK EVENT_ARG="20" ID="24" TYPE_REL="EVENT_ARG"/> गुरुवार </TIME-ARG> को एक निजी स्कूल की बस के सड़क से फिसल कर 100 फीट गहरी खाई में गिरने से किंडरगार्टन के <CASUALTIES-ARG ID="25"><LINK EVENT_ARG="20" ID="26" TYPE_REL="EVENT_ARG"/> एक छात्र की मौत हो गई व अन्य 12 छात्र घायल हो गए। </CASUALTIES-ARG> छात्र स्कूल से घर लौट रहे थे। ये सरकाघाट इलाके के स्पेक्ट्रम प्रिमियर पब्लिक स्कूल के छात्र हैं। <REASON-ARG ID="19"><LINK EVENT_ARG="20" ID="26" TYPE_REL="EVENT_ARG"/> चालक के गार्ली के निकट वाहन पर नियंत्रण खो देने से </REASON-ARG> यह <MAN_MADE_EVENT ID="20" TYPE="ACCIDENTS"> हादसा </MAN_MADE_EVENT> हुआ। 
+
+ गंभीर रूप से घायल पांच बच्चों को मंडी के जोनल अस्पताल में भर्ती कराया गया है। मंडी शिमला से 150 किलोमीटर दूर है। 
+
+</DOCUMENT>

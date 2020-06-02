@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>164 https://punjab.punjabkesari.in/hoshiarpur/news/fire-in-jungles-805957 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> ढोलबाहा के जंगलों </PLACE-ARG> में <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग; </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> लाखों की सम्पत्ति राख </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> हरियाना(राजपूत): </PLACE-ARG> गर्मी के मौसम में आग लगने का सिलसिला लगातार बढ़ता जा रहा हैं। इसके चलते <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> ढोलबाहा डैम </PLACE-ARG> के नजदीक जंगलों में आग की तपिश से लाखों की सम्पत्ति जल कर राख हो गई है। आग की लपटों ने सैंकड़ों जंगली जानवरों को अपनी लपेट में लेकर राख कर दिया है। 
+
+ <PLACE-ARG ID="10"><LINK EVENT_ARG="9" ID="14" TYPE_REL="EVENT_ARG"/> ढोलबाहा डैम </PLACE-ARG> के पास <TIME-ARG ID="12"><LINK EVENT_ARG="9" ID="13" TYPE_REL="EVENT_ARG"/> करीब 12 बजे </TIME-ARG> अचानक <MAN_MADE_EVENT ID="9" TYPE="SHOOT_OUT"> आग </MAN_MADE_EVENT> की लपटें निकलने लगीं। देखते ही देखते इस आग ने भयानक रूप धारण कर लिया और आग इतनी तेजी से फैली कि ढोलबाहा डैम से चलकर <PLACE-ARG ID="11"><LINK EVENT_ARG="9" ID="15" TYPE_REL="EVENT_ARG"/> कूकानेट के जंगलों </PLACE-ARG> की ओर तबाही मचाती हुई कुछ पलों में ही राख कर डाला।ढोलबाहा के सरपंच राम पाल ने बताया की आग को काबू पाने के लिए विभाग के कर्मचारियों ने कोशिश तो की परंतु आग बहुत भयानक लगी थी। सरपंच राम पाल के घर की ओर आग ने रुख कर लिया पर लोगों के सहयोग से आग पर काबू पाया गया। 
+
+</DOCUMENT>

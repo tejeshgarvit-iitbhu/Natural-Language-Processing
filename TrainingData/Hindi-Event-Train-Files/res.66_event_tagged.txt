@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>60151 https://punjab.punjabkesari.in/punjab/news/accident-727680 
+
+ माता वैष्णो देवी से आ रही बस हादसाग्रस्त,2 लोगों की मौत 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> होशियारपुर </PLACE-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> (समीर): </PLACE-ARG><PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> माहलपुर-गढ़शंकर रोड </PLACE-ARG> पर स्थित <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> गांव टूटोमाजरा </PLACE-ARG> नजदीक एक निजी कंपनी की तेज रफ्तार बस की पेड़ के साथ <MAN_MADE_EVENT ID="0" TYPE="VEHICULAR_COLLISION"> टक्कर </MAN_MADE_EVENT> हो गई। इस हादसे में <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> 2 व्यक्तियों की मौत हो गई और कई यात्री घायल हो गए </CASUALTIES-ARG> जिन्हें पास के अस्पताल में दाखिल करवाया गया। 
+
+ मिली जानकारी मुताबिक यह बस माता वैष्णो देवी से चण्डीगढ़ जा रही थी। बताया जा रहा है कि <REASON-ARG ID="11"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> बस चालक की अचानक आंख लग गई और बस की रफ्तार तेज होने के कारण </REASON-ARG> यह हादसा घट गया। सूत्रों मुताबिक हादसा इतना भयानक था कि बस के परखच्चे उड़ गए। 
+
+</DOCUMENT>

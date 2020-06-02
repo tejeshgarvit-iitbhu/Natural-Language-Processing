@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>724 https://www.jagran.com/maharashtra/mumbai-mumbai-plane-crash-up-government-chartered-plane-crashed-in-ghatkopar-18134103.html 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> मुंबई </PLACE-ARG> के रिहायशी इलाके में <MAN_MADE_EVENT ID="0" TYPE="AVIATION_HAZARD"> गिरा चार्टर्ड प्लेन, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> पांच की मौत; </CASUALTIES-ARG> देखें रोंगटे खड़े कर देने वाला वीडियो 
+
+ मुंबई (जेएनएन)। मुंबई के <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> रिहायशी इलाके </PLACE-ARG> में <TIME-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> गुरुवार </TIME-ARG> को एक <MAN_MADE_EVENT ID="9" TYPE="AVIATION_HAZARD"> चार्टर्ड प्लेन दुर्घटनाग्रस्त </MAN_MADE_EVENT> हो गया। इस दर्दनाक हादसे में <CASUALTIES-ARG ID="10"><LINK EVENT_ARG="9" ID="12" TYPE_REL="EVENT_ARG"/> पांच लोगों की मौत हो गई, </CASUALTIES-ARG> जबकि दो अन्य घायल हो गए हैं। बताया जा रहा है कि विमान घाटकोपर के <PLACE-ARG ID="11"><LINK EVENT_ARG="9" ID="13" TYPE_REL="EVENT_ARG"/> रिहायशी इलाके </PLACE-ARG> में गिरा। जानकारी के मुताबिक विमान जागृति बिल्डिंग के नजदीक एक निर्माणाधीन इमारत के पास गिरा। इस बीच सिविल एविएशन डिपार्टमेंट ने विमान के उत्तर प्रदेश सरकार के होने का दावा गलत बताया है। 
+
+ क्रैश हुआ विमान यूपी सरकार का नहीं 
+
+ बता दें कि <MAN_MADE_EVENT ID="14" TYPE="AVIATION_HAZARD"> विमान दुर्घटना </MAN_MADE_EVENT> के बाद कहा जा रहा था कि <PLACE-ARG ID="15"><LINK EVENT_ARG="14" ID="19" TYPE_REL="EVENT_ARG"/> मुंबई </PLACE-ARG> में क्रैश हुआ विमान यूपी सरकार का VT-UPZ, किंग एयर C90 विमान है। हालांकि सिविल एविएशन डिपार्टमेंट ने साफ कर दिया है कि क्रैश हुआ विमान यूपी सरकार का नहीं है, यूपी के सभी विमान राज्य में मौजूद हैं। उत्तर प्रदेश सरकार ने अपने आधिकारिक बयान में कहा है कि ये विमान 2014 तक उत्तर प्रदेश सरकार के पास था, लेकिन 2014 में ही बेचा गया था। मुंबई की एक कंपनी ने इसे खरीदा था। कहा जा रहा है कि अवशेषों पर मिले निशान की वजह से इसे यूपी सरकार का बताया गया। 
+
+ बता दें कि विमान में दो पायलट और दो टेक्निशियन यानी चार लोग सवार थे। हादसे में इन <CASUALTIES-ARG ID="16"><LINK EVENT_ARG="14" ID="20" TYPE_REL="EVENT_ARG"/> चारों की मौत हो गई। </CASUALTIES-ARG> जबकि एक राहगीर भी प्लेन क्रैश की चपेट में आ गया। बताया जा रहा है कि जिस इलाके में विमान गिरी, वहां से ये शख्स गुजर रहा था। 
+
+ इस बीच खबर मिलते ही दमकल विभाग की कई गाड़ियां और एंबुलेंस घटनास्थल पर मौजूद हैं। फिलहाल आग पर काबू पा लिया गया है। मुंबई पुलिस ने घटना की जांच की बात कही है। हादसे के कारण का पता लगाने की कोशिश की जा रही है। बता दें कि ये विमान हादसा <TIME-ARG ID="17"><LINK EVENT_ARG="14" ID="21" TYPE_REL="EVENT_ARG"/> गुरुवार दोपहर करीब 1.13 बजे </TIME-ARG> हुआ। 
+
+ बताया जा रहा है कि विमान जुहू एयरपोर्ट की ओर जा रहा था, प्लेन जैसे ही क्रैश हुआ अचानक उसमें आग लग गई और विमान सीधा <PLACE-ARG ID="18"><LINK EVENT_ARG="14" ID="22" TYPE_REL="EVENT_ARG"/> घाटकोपर इलाके की जागृति बिल्डिंग </PLACE-ARG> के पास एक निर्माणाधीन साइट पर जा गिरा। 
+
+</DOCUMENT>

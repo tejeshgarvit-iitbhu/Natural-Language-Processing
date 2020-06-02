@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>665 <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> Student killed </CASUALTIES-ARG> in <NATURAL_EVENT ID="0" TYPE="LAND_SLIDE"> landslide </NATURAL_EVENT><PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> near Guwahati </PLACE-ARG>
+
+ <PLACE-ARG ID="6"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> GUWAHATI: </PLACE-ARG><CASUALTIES-ARG ID="4"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> A six-year-old girl student was killed </CASUALTIES-ARG> in <NATURAL_EVENT ID="1" TYPE="LAND_SLIDE"> landslides </NATURAL_EVENT> in the <PLACE-ARG ID="7"><LINK EVENT_ARG="1" ID="14" TYPE_REL="EVENT_ARG"/> Panikhaiti area on the outskirts of the city </PLACE-ARG><TIME-ARG ID="8"><LINK EVENT_ARG="1" ID="15" TYPE_REL="EVENT_ARG"/> on Monday. </TIME-ARG>
+
+ The Kamrup (Metro) district administration has announced Rs 4 lakh for the family of the student and told the residents of the area to move to safer places. The deceased, identified as Dipika Barman, was about to go to school when mudslide from the hills buried her alive, said police. 
+
+ Eyewitnesses said parents and neighbours raised an alarm after the incident and people managed to dig her out from the debris. She was declared dead at Gauhati Medical College Hospital upon arrival. 
+
+ Officials of District Disaster Management Authority (DDMA) of <PLACE-ARG ID="17"><LINK EVENT_ARG="2" ID="18" TYPE_REL="EVENT_ARG"/> Kamrup (Metro) district </PLACE-ARG> said the <NATURAL_EVENT ID="2" TYPE="LAND_SLIDE"> landslides </NATURAL_EVENT> were triggered due to incessant <REASON-ARG ID="9"><LINK EVENT_ARG="2" ID="16" TYPE_REL="EVENT_ARG"/> rain </REASON-ARG> for the last few days. District development commissioner of Kamrup (Metro) Barnali Sharma said the administration has already alerted people of the locality. 
+
+ &quot;It&apos;s very unfortunate. These areas were vulnerable and people in the neighbourhood have been asked to vacate the area,&quot; said Sharma. The other residents of the locality have been asked to move to safer places and the administration has promised support to them. 
+
+</DOCUMENT>

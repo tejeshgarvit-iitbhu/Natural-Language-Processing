@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>196 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> 16 killed </CASUALTIES-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="5" ID="12" TYPE_REL="EVENT_ARG"/> in Russia </PLACE-ARG><MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> bus collision, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="5" ID="13" TYPE_REL="EVENT_ARG"/> more than 50 injured </CASUALTIES-ARG>
+
+ <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> At least 16 people were killed and more than 50 others were injured </CASUALTIES-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="6" ID="16" TYPE_REL="EVENT_ARG"/> on Wednesday </TIME-ARG> when two buses <MAN_MADE_EVENT ID="6" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT> head-on <PLACE-ARG ID="7"><LINK EVENT_ARG="6" ID="15" TYPE_REL="EVENT_ARG"/> in far eastern Russia, </PLACE-ARG> officials said. 
+
+ The Investigative Committee, the nation’s top investigative agency, said <MAN_MADE_EVENT ID="8" TYPE="VEHICULAR_COLLISION"> the collision </MAN_MADE_EVENT> occurred <PLACE-ARG ID="9"><LINK EVENT_ARG="8" ID="17" TYPE_REL="EVENT_ARG"/> on a highway linking Khabarovsk, on the border with China, and Komsomolsk-on-Amur. </PLACE-ARG> The agency has opened an investigation of alleged violations of traffic rules. 
+
+ Prosecutors said the driver of one of the buses drove into an incoming lane to bypass construction vehicles repairing the road and lost control of the vehicle. The bus hit an oncoming bus and overturned. 
+
+ Russia’s Health Ministry said <CASUALTIES-ARG ID="10"> 56 people were injured. </CASUALTIES-ARG> Ambulances and helicopters have rushed to the site to evacuate the wounded, more than 20 of whom were in grave condition. 
+
+ President Vladimir Putin offered condolences to the victims’ families and ordered officials to work out new measures to ensure traffic safety. “Major accidents with a large number of victims have become far too frequent on our roads,” he said at the start of a Cabinet meeting. 
+
+ Deputy Interior Minister Viktor Kiryanov reported to Putin that the bus driver had allegedly violated the speed limit and a construction company in charge of road repairs had failed to place warning signs at a required distance. 
+
+ Deputy Prime Minister Igor Shuvalov also suggested further toughening punishment for driving drunk, saying that drivers found guilty should have their vehicles confiscated. 
+
+</DOCUMENT>

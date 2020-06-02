@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>260 https://punjab.punjabkesari.in/firozepur/news/fire-in-bus-800055 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> गंगानगर </PLACE-ARG> जा रही बस में लगी <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग, </MAN_MADE_EVENT> बाल-बाल बची सवारियां 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> अबोहर </PLACE-ARG><PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> (भारद्वाज): </PLACE-ARG> अबोहर से <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> श्रीगंगानगर </PLACE-ARG> जा रही एक निजी कम्पनी की बस में <TIME-ARG ID="6"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> आज बाद दोपहर </TIME-ARG><REASON-ARG ID="5"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> अचानक इंजन में तारें भिडऩे से भयंकर आग लग गई। </REASON-ARG> इस आग लगने की घटना में सवारियां बाल-बाल बच गईं, वहीं <CASUALTIES-ARG ID="7"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> बस चालक के आग पर काबू पाते समय हाथ झुलस गए। मौके पर पहुंची दमकल गाडिय़ों ने आग पर काबू पाया। </CASUALTIES-ARG>
+
+ जिमींदारा कम्पनी की बस जब <TIME-ARG ID="16"><LINK EVENT_ARG="15" ID="22" TYPE_REL="EVENT_ARG"/> आज दोपहर </TIME-ARG><PLACE-ARG ID="17"><LINK EVENT_ARG="15" ID="23" TYPE_REL="EVENT_ARG"/> अबोहर </PLACE-ARG> से <PLACE-ARG ID="18"><LINK EVENT_ARG="15" ID="24" TYPE_REL="EVENT_ARG"/> श्रीगंगानगर </PLACE-ARG> जा रही थी तो <PLACE-ARG ID="19"><LINK EVENT_ARG="15" ID="25" TYPE_REL="EVENT_ARG"/> हिंदूमलकोट रोड </PLACE-ARG> पर स्थित <PLACE-ARG ID="20"><LINK EVENT_ARG="15" ID="26" TYPE_REL="EVENT_ARG"/> सचखंड स्कूल </PLACE-ARG> के निकट पहुंचते ही बस में अचानक <MAN_MADE_EVENT ID="15" TYPE="FIRE"> आग </MAN_MADE_EVENT> लग गई, जिससे सवारियों में अफरा-तफरी मच गई और तुरंत उनको बाहर निकाला गया। इसी दौरान बस चालक सोहन लाल ने जब शार्ट-सर्किट वाली तारों से आग को बुझाने का प्रयास किया तो <PLACE-ARG ID="21"><LINK EVENT_ARG="15" ID="27" TYPE_REL="EVENT_ARG"/> उसके हाथ मामूली रूप से झुलस गए। </PLACE-ARG> आसपास के लोगों ने इस बात की सूचना दमकल विभाग के कर्मचारियों को दी। 
+
+ सूचना मिलने पर दमकल विभाग के कर्मचारी व पुलिस प्रशासन मौके पर पहुंचे। दमकल कर्मियों ने काफी मशक्कत के बाद आग पर काबू पाया। बस परिचालक पूर्ण चंद ने बताया कि बस में कुल 40 सवारियां मौजूद थीं जिन्हें सुरक्षित बाहर निकाला गया है। उधर, बस में भयंकर आग को देखते हुए थाना प्रभारी परमजीत ने अपनी टीम सहित मौके पर पहुंचकर रोड से गुजरने वाले वाहनों को दोनों तरफ से बंद करते हुए उन्हें अन्य मार्ग से निकाला। 
+
+</DOCUMENT>

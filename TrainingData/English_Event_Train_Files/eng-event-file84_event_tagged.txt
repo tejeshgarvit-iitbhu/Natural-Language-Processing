@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>139 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> 33 killed, 41 hurt </CASUALTIES-ARG><PLACE-ARG ID="1"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> in Egypt </PLACE-ARG> bus <MAN_MADE_EVENT ID="4" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="5" ID="13" TYPE_REL="EVENT_ARG"/> At least 33 people, including foreigners, were killed and 41 others injured </CASUALTIES-ARG><TIME-ARG ID="3"><LINK EVENT_ARG="5" ID="15" TYPE_REL="EVENT_ARG"/> on Friday </TIME-ARG> when two tourist buses <MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT><PLACE-ARG ID="6"><LINK EVENT_ARG="5" ID="14" TYPE_REL="EVENT_ARG"/> on a highway near Sharm El-Sheikh resort in Egypt’s South Sinai. </PLACE-ARG>
+
+ The two buses were carrying around 80 passengers, including foreign tourists, when they <MAN_MADE_EVENT ID="7" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT><TIME-ARG ID="8"><LINK EVENT_ARG="7" ID="16" TYPE_REL="EVENT_ARG"/> early this morning </TIME-ARG><PLACE-ARG ID="10"><LINK EVENT_ARG="7" ID="18" TYPE_REL="EVENT_ARG"/> on the highway, 50 km from Sharm el-Sheikh, </PLACE-ARG><CASUALTIES-ARG ID="9"><LINK EVENT_ARG="7" ID="17" TYPE_REL="EVENT_ARG"/> killing 33 people, </CASUALTIES-ARG> officials said. 
+
+ The death toll could increase, said Mohamed Lashin, Health Ministry Undersecretary in South Sinai. 
+
+ Mr. Lashin said that bodies are currently being extracted from the rubble before a final death toll is determined. 
+
+ Thirty ambulances were rushed to the scene of the accident. 
+
+ Egypt has one of the world’s highest traffic accident rates due to careless driving, road and vehicle conditions which leads to death and injury of thousands every year. 
+
+ A recent report by the Central Agency for Public Mobilization and Statistics said there were 15,578 car accidents in Egypt in 2013, up 0.4 per cent from the year before, which claimed the lives of 6,716 people and injured 22,411 others. 
+
+</DOCUMENT>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>160 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="5" ID="9" TYPE_REL="EVENT_ARG"/> 11 dead </CASUALTIES-ARG><PLACE-ARG ID="1"><LINK EVENT_ARG="5" ID="10" TYPE_REL="EVENT_ARG"/> in Nepal </PLACE-ARG> jeep <MAN_MADE_EVENT ID="5" TYPE="TRANSPORT_HAZARDS"> crash </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="11" ID="12" TYPE_REL="EVENT_ARG"/> Eleven people were killed </CASUALTIES-ARG> in a jeep <MAN_MADE_EVENT ID="11" TYPE="TRANSPORT_HAZARDS"> accident </MAN_MADE_EVENT><PLACE-ARG ID="3"><LINK EVENT_ARG="11" ID="13" TYPE_REL="EVENT_ARG"/> in central-western Nepal </PLACE-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="11" ID="14" TYPE_REL="EVENT_ARG"/> on Tuesday, </TIME-ARG> police said. 
+
+ The jeep was travelling from Myagdi district’s Ramche to Beni when it <MAN_MADE_EVENT ID="6" TYPE="TRANSPORT_HAZARDS"> fell </MAN_MADE_EVENT> some <DEPTH-ARG ID="7"><LINK EVENT_ARG="6" ID="15" TYPE_REL="EVENT_ARG"/> 200 metres, </DEPTH-ARG> according to witnesses. 
+
+ Fourteen people were travelling in the jeep. 
+
+ The three survivors were said to be in serious condition. 
+
+ Witnesses said the accident occurred as <REASON-ARG ID="8"><LINK EVENT_ARG="6" ID="16" TYPE_REL="EVENT_ARG"/> the jeep tried to take a bend on the steep, narrow road. </REASON-ARG>
+
+</DOCUMENT>

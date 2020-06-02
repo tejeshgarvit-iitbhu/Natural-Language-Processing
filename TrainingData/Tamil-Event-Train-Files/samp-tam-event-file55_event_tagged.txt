@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>221 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> காபூலில் </PLACE-ARG><MAN_MADE_EVENT ID="1" TYPE="SUICIDE_ATTACK"> தற்கொலைப்படை தாக்குதல்: </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> 8 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> ஆப்கானிஸ்தான் தலைநகர் காபூலில் </PLACE-ARG> நடந்த <MAN_MADE_EVENT ID="4" TYPE="SUICIDE_ATTACK"> தற்கொலைப் படை தாக்குதலில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> 8 பேர் பலியாகினர். 18 பேர் காயமடைந்தனர். </CASUALTIES-ARG>
+
+ இதுகுறித்து அதிகாரிகள் தரப்பில், <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> &apos;&apos;ஆப்கானிஸ்தான் தலைநகர் காபூலிலுள்ள காபூல் பல்கலைக்கழகத்துக்கு அருகில் </PLACE-ARG> புத்தாண்டை முன்னிட்டு மக்கள் கூடிய கூட்டத்தில் தீவிரவாதி ஒருவர் தனது உடலில் கட்டியிருந்த வெடிகுண்டை வெடிக்கச் செய்தார். இதில் <CASUALTIES-ARG ID="7"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> 8 பேர் பலியாகினர். 18 பேர் காயமடைந்தனர்&apos;&apos; </CASUALTIES-ARG> என்றனர். 
+
+ மேலும் பலரது நிலைமை கவலைக்கிடமாக உள்ளதால் பலி எண்ணிக்கை அதிகரிக்கும் என்று அஞ்சப்படுகிறது. 
+
+ இந்தத் தாக்குதலுக்கு இதுவரை எந்த அமைப்பும் பொறுப்பேற்கவில்லை. எனினும் சமீப காலமாக காபூலில் தலிபான்களின் தாக்குதல் அதிகரித்து வருவதால் இந்தத் தாக்குதலை அவர்கள் நடத்தி இருக்கலாம் என்று போலீஸார் சந்தேகம் தெரிவித்துள்ளனர். 
+
+ முன்னதாக <PLACE-ARG ID="8"><LINK EVENT_ARG="10" ID="19" TYPE_REL="EVENT_ARG"/> ஆப்கானிஸ்தானில் </PLACE-ARG><TIME-ARG ID="9"><LINK EVENT_ARG="10" ID="18" TYPE_REL="EVENT_ARG"/> கடந்த சனிக்கிழமை </TIME-ARG> தற்கொலைப் படை தீவிரவாதி ஒருவர், வெடிகுண்டு நிரப்பிய ஆம்புலன்ஸ் வாகனத்தை மோதி <MAN_MADE_EVENT ID="10" TYPE="SUICIDE_ATTACK"> தாக்குதல் </MAN_MADE_EVENT> நடத்தியதில் <CASUALTIES-ARG ID="11"><LINK EVENT_ARG="10" ID="20" TYPE_REL="EVENT_ARG"/> 95 பேர் உடல் சிதறி பலியாகினர். </CASUALTIES-ARG> மேலும் 150-க்கும் மேற்பட்டோர் படுகாயமடைந்தனர்.இந்தத் தாக்குதலுக்கு தாலிபன்கள் பொறுப்பேற்றது குறிப்பிடத்தக்கது. 
+
+</DOCUMENT>

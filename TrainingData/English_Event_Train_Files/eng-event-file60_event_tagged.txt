@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>405 <NATURAL_EVENT ID="0" TYPE="CYCLONE"> Cyclonic </NATURAL_EVENT><NATURAL_EVENT ID="1" TYPE="STORM"> Storm </NATURAL_EVENT> hits <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="3" TYPE_REL="EVENT_ARG"/> Itanagar </PLACE-ARG>
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> ITANAGAR: </PLACE-ARG> A <NATURAL_EVENT ID="5" TYPE="CYCLONE"> cyclonic </NATURAL_EVENT><NATURAL_EVENT ID="6" TYPE="STORM"> storm </NATURAL_EVENT> accompanied by rainfall lashed <PLACE-ARG ID="8"><LINK EVENT_ARG="5" ID="12" TYPE_REL="EVENT_ARG"/> Itanagar </PLACE-ARG> and its adjoining areas <TIME-ARG ID="9"><LINK EVENT_ARG="5" ID="13" TYPE_REL="EVENT_ARG"/> on Thursday night, </TIME-ARG> snapping power supply cables besides damaging public and private properties. 
+
+ The state capital was plunged into darkness, as cables were damaged by falling trees and uprooted electric poles. Electricity was finally restored in the evening on Friday. 
+
+ The <NATURAL_EVENT ID="10" TYPE="STORM"> storm </NATURAL_EVENT> blew away corrugated iron sheets from several houses, leading to road blockades at important locations. However, no loss of lives has been reported . 
+
+</DOCUMENT>

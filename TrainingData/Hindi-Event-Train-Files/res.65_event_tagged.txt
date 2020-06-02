@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>105 https://punjab.punjabkesari.in/latest-news/news/road-accident-727985 
+
+ <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> सड़क हादसे </MAN_MADE_EVENT> में 1 की मौत 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="4" TYPE_REL="EVENT_ARG"/> नथाना </PLACE-ARG> (स.ह): स्थानीय सड़क हादसे में <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> एक व्यक्ति की मौत हो गई। </CASUALTIES-ARG> बगदेव सिंह पुत्र बचन सिंह निवासी पूहला ने पुलिस के पास दर्ज करवाई शिकायत में बताया कि उसका भाई गुरमेल सिंह मोटरसाइकिल पर भुच्चो खुर्द के पास जा रहा था तो किसी अज्ञात वाहन ने मोटरसाइकिल को फेट मार दी, जिस कारण उसके भाई की मौके पर मौत हो गई। 
+
+ पुलिस ने शिकायतकर्ता के बयानों पर अज्ञात वाहन चालक के खिलाफ मामला दर्ज कर लिया है। 
+
+</DOCUMENT>

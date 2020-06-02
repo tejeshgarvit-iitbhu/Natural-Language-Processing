@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>349 http://www.deshbandhu.co.in/states/himachal-light-shocks-of-earthquake-felt-in-himachal-pradesh-103603-1 
+
+ <PLACE-ARG ID="9"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> हिमाचल प्रदेश </PLACE-ARG> में महसूस हुए <NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> के हल्के झटके 
+
+ <PLACE-ARG ID="15"><LINK EVENT_ARG="2" ID="16" TYPE_REL="EVENT_ARG"/> हिमाचल प्रदेश </PLACE-ARG> में आज एक बार फिर <NATURAL_EVENT ID="2" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> के हल्के झटके महसूस किए गए 
+
+ <PLACE-ARG ID="7"><LINK EVENT_ARG="1" ID="18" TYPE_REL="EVENT_ARG"/> शिमला। </PLACE-ARG><PLACE-ARG ID="6"><LINK EVENT_ARG="1" ID="17" TYPE_REL="EVENT_ARG"/> हिमाचल प्रदेश </PLACE-ARG> में आज एक बार फिर <NATURAL_EVENT ID="1" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> के हल्के झटके महसूस किए गए। अधिकारी ने बताया कि बीते एक पखवाड़े में भूकंप का यह तीसरा झटका है। 
+
+ हालांकि, भूकंप से किसी तरह के नुकसान की खबर नहीं है। 
+
+ मौसम विभाग के कार्यालय ने आईएएनएस को बताया कि <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> तड़के <TIME-ARG ID="10"><LINK EVENT_ARG="4" ID="19" TYPE_REL="EVENT_ARG"/> 2.37 बजे </TIME-ARG> आया और रिक्टर पैमाने पर <MAGNITUDE-ARG ID="11"><LINK EVENT_ARG="4" ID="20" TYPE_REL="EVENT_ARG"/> भूकंप की तीव्रता तीन मापी गई। </MAGNITUDE-ARG>
+
+ भूकंप का केंद्र <PLACE-ARG ID="5"><LINK EVENT_ARG="4" ID="21" TYPE_REL="EVENT_ARG"/> जम्मू एवं कश्मीर </PLACE-ARG> सीमा से सटा <PLACE-ARG ID="12"><LINK EVENT_ARG="4" ID="22" TYPE_REL="EVENT_ARG"/> चंबा क्षेत्र </PLACE-ARG> रहा। 
+
+</DOCUMENT>

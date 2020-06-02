@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>209 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="7" TYPE_REL="EVENT_ARG"/> Two injured </CASUALTIES-ARG> in freak <MAN_MADE_EVENT ID="1" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="5" ID="8" TYPE_REL="EVENT_ARG"/> RAJKOT: </PLACE-ARG><CASUALTIES-ARG ID="6"><LINK EVENT_ARG="5" ID="9" TYPE_REL="EVENT_ARG"/> Two persons were injured </CASUALTIES-ARG> when their bike was rammed by a car in a freak <MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT><PLACE-ARG ID="3"><LINK EVENT_ARG="5" ID="10" TYPE_REL="EVENT_ARG"/> opposite Atmiya College on Kalavad Road in Rajkot </PLACE-ARG><TIME-ARG ID="4"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> on Wednesday. </TIME-ARG>
+
+ Police identified the injured as Ravji Rupapara (60), a resident of Bhagirath Society on Sant Kabir Road, and Sukha Parmar (45), a resident of Lalpari Talav area who was riding pillion behind Rupapara. 
+
+ “After ramming the bikers, the car lost control, rammed into a petrol pump by the roadside and hit an autorickshaw which overturned. The occupants of the car were saved due to airbags. They fled from the spot, having abandoned the car before the police arrived. We have launched a manhunt for them on the basis of the registration number of their car,” said an official from the University police station. 
+
+</DOCUMENT>

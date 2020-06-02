@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>297 https://www.jagran.com/world/russia-boats-crash-into-russia-volga-river-11-dead-18071814.html 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> रूस </PLACE-ARG> की <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> वोल्गा नदी </PLACE-ARG> में <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> नाव की टक्कर, </MAN_MADE_EVENT><CASUALTIES-ARG ID="8"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> 11 लोगों की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="18" TYPE_REL="EVENT_ARG"/> मॉस्को, </PLACE-ARG><PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="19" TYPE_REL="EVENT_ARG"/> एएफपी। </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="20" TYPE_REL="EVENT_ARG"/> रूस </PLACE-ARG> की <PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="21" TYPE_REL="EVENT_ARG"/> वोल्गा नदी </PLACE-ARG> में सामान ढोने वाली नाव और लकड़ी के बेड़े में हुई टक्कर से 11 लोगों की जान चली गई। <TIME-ARG ID="7"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> सोमवार रात </TIME-ARG> हुए इस हादसे के बाद दक्षिण-पश्चिमी रूस के समीप स्थित वोल्गोग्राड शहर में रात से सुबह तक बचाव कार्य चलता रहा। बता दें कि वोल्गोग्राड इस हफ्ते शुरू हो रहे फुटबाल विश्वकप की मेजबानी कर रहे शहरों में शामिल है। 
+
+ स्थानीय आपातकालीन मंत्रालय ने कहा, &apos;बचाव कार्य अब खत्म हो गया है। आखिरी शव भी बरामद कर लिया गया है। इस हादसे में मरने वालों की संख्या 11 है।&apos; हादसे की जांच कर रही समिति के मुताबिक लकड़ी के बेड़े पर 16 लोग सवार थे। हालांकि, बेड़े की क्षमता केवल 12 लोग की थी। उसके पास लाइसेंस भी नहीं था। बेड़े का चालक नगर निगम का पूर्व अधिकारी था जो पहले भी इस तरह के अपराधों में दोषी पाया गया था। 
+
+</DOCUMENT>

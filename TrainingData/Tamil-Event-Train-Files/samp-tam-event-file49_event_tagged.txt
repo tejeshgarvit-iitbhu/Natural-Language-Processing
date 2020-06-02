@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>204 <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> சிலியில் </PLACE-ARG> சக்தி வாய்ந்த <NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="3" ID="13" TYPE_REL="EVENT_ARG"/> தென் அமெரிக்க நாடான சிலியில் </PLACE-ARG> சக்தி வாய்ந்த <NATURAL_EVENT ID="3" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. இந்த <NATURAL_EVENT ID="5" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT><MAGNITUDE-ARG ID="6"><LINK EVENT_ARG="5" ID="14" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவுகோலில் 6.2 ஆக பதிவாகியது. </MAGNITUDE-ARG>
+
+ இதுகுறித்து அமெரிக்க புவியியல் மையம் தரப்பில், <PLACE-ARG ID="7"><LINK EVENT_ARG="9" ID="15" TYPE_REL="EVENT_ARG"/> ”தென் அமெரிக்க நாடான சிலியின் தென்மேற்கு பகுதியிலுள்ள கோகுவும்போ நகரத்தில் </PLACE-ARG> இந்றி <TIME-ARG ID="8"><LINK EVENT_ARG="8" ID="17" TYPE_REL="EVENT_ARG"/> (புதன்கிழமை) அதிகாலை 7.15 மணியளவில் </TIME-ARG> சக்தி வாய்ந்த <NATURAL_EVENT ID="9" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. இந்த <NATURAL_EVENT ID="11" TYPE="EARTHQUAKE"> நில நடுக்கம் </NATURAL_EVENT><DEPTH-ARG ID="10"><LINK EVENT_ARG="10" ID="18" TYPE_REL="EVENT_ARG"/> 76 கிலோமீட்டர் ஆழத்தில் </DEPTH-ARG> ஏற்பட்டுள்ளது&quot; என்று கூறப்பட்டுள்ளது. 
+
+ நிலநடுக்கத்தின்போது வீடுகள் குலுங்கியதாக ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. 
+
+ இந்த நிலநடுக்கத்தினால் ஏற்பட்ட பாதிப்புகள் குறித்த தகவல் இதுவரை வெளிவரவில்லை. 
+
+</DOCUMENT>

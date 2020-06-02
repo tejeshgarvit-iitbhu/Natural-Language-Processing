@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>626 http://www.deshbandhu.co.in/states/rajasthan-rajasthan_-three-youths-killed-in-unknown-vehicle-collision-105282-1 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="24" ID="34" TYPE_REL="EVENT_ARG"/> राजस्थान </PLACE-ARG> :अज्ञात <MAN_MADE_EVENT ID="24" TYPE="VEHICULAR_COLLISION"> वाहन की टक्कर </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="9"><LINK EVENT_ARG="24" ID="35" TYPE_REL="EVENT_ARG"/> तीन युवकों की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="25" ID="38" TYPE_REL="EVENT_ARG"/> राजस्थान </PLACE-ARG> के <PLACE-ARG ID="3"><LINK EVENT_ARG="25" ID="37" TYPE_REL="EVENT_ARG"/> नागौर </PLACE-ARG> में <TIME-ARG ID="33"><LINK EVENT_ARG="25" ID="36" TYPE_REL="EVENT_ARG"/> कल देर रात </TIME-ARG> अज्ञात <MAN_MADE_EVENT ID="25" TYPE="VEHICULAR_COLLISION"> वाहन की टक्कर </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="10"><LINK EVENT_ARG="25" ID="39" TYPE_REL="EVENT_ARG"/> तीन युवकों की मौत हो गयी </CASUALTIES-ARG>
+
+ एजेंसी 
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="26" ID="40" TYPE_REL="EVENT_ARG"/> राजस्थान </PLACE-ARG> :अज्ञात <MAN_MADE_EVENT ID="26" TYPE="VEHICULAR_COLLISION"> वाहन की टक्कर </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="11"><LINK EVENT_ARG="26" ID="41" TYPE_REL="EVENT_ARG"/> तीन युवकों की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="16"><LINK EVENT_ARG="27" ID="45" TYPE_REL="EVENT_ARG"/> जयपुर। </PLACE-ARG><PLACE-ARG ID="17"><LINK EVENT_ARG="27" ID="44" TYPE_REL="EVENT_ARG"/> राजस्थान </PLACE-ARG> के <PLACE-ARG ID="18"><LINK EVENT_ARG="27" ID="43" TYPE_REL="EVENT_ARG"/> नागौर </PLACE-ARG> में <TIME-ARG ID="32"><LINK EVENT_ARG="27" ID="42" TYPE_REL="EVENT_ARG"/> कल देर रात </TIME-ARG> अज्ञात <MAN_MADE_EVENT ID="27" TYPE="VEHICULAR_COLLISION"> वाहन की टक्कर </MAN_MADE_EVENT> में <CASUALTIES-ARG ID="8"><LINK EVENT_ARG="27" ID="46" TYPE_REL="EVENT_ARG"/> तीन युवकों की मौत हो गयी। </CASUALTIES-ARG>
+
+ पुलिस के अनुसार हादसे में दो युवकों की मौके पर ही मौत हो गयी थी जबकि घायल हुये युवक को अस्पताल में भर्ती कराया गया जहा चिकित्सकों ने गंभीर अवस्था मे उसें अजमेर भेजा गया जहां उपचार के दौरान उसने भी दम तोड दिया। 
+
+ पुलिस के अनुसार <TIME-ARG ID="31"><LINK EVENT_ARG="28" ID="47" TYPE_REL="EVENT_ARG"/> कल देर रात </TIME-ARG> तीन युवक एक बाईक पर सवार होकर <PLACE-ARG ID="29"><LINK EVENT_ARG="28" ID="48" TYPE_REL="EVENT_ARG"/> इंदावड </PLACE-ARG> की ओर जा रहे थे तभी <PLACE-ARG ID="30"><LINK EVENT_ARG="28" ID="49" TYPE_REL="EVENT_ARG"/> सुतीलावास </PLACE-ARG> की ओर से तेज गति से आ रहे एक अज्ञात वाहन ने उन्हें <MAN_MADE_EVENT ID="28" TYPE="VEHICULAR_COLLISION"> टक्कर </MAN_MADE_EVENT> मार दी जिससे <CASUALTIES-ARG ID="15"><LINK EVENT_ARG="28" ID="50" TYPE_REL="EVENT_ARG"/> दो युवकों की मौके पर ही मोैत हो गयी </CASUALTIES-ARG> तथा एक घायल हो गया। हादसे में मोटरसाईकल बुरी तरह से क्षतिग्रस्त हो गयी। 
+
+ पुलिस ने तीनों के शवों को पोस्टमार्टम के लिये अस्पताल में रखवाया है। पुलिस ने मामला दर्ज कर अज्ञात वाहन की तलाश शुरू कर दी है। 
+
+</DOCUMENT>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>136 Bus <MAN_MADE_EVENT ID="3" TYPE="TRANSPORT_HAZARDS"> accident </MAN_MADE_EVENT><PLACE-ARG ID="1"><LINK EVENT_ARG="3" ID="8" TYPE_REL="EVENT_ARG"/> near Malaysian resort </PLACE-ARG><CASUALTIES-ARG ID="0"><LINK EVENT_ARG="3" ID="9" TYPE_REL="EVENT_ARG"/> kills up to 33 </CASUALTIES-ARG>
+
+ Thirty-three people are believed to be dead after a passenger bus <MAN_MADE_EVENT ID="4" TYPE="TRANSPORT_HAZARDS"> plunged </MAN_MADE_EVENT> into a deep ravine <PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> near a Malaysian highland resort, </PLACE-ARG> an official said. 
+
+ The bus <MAN_MADE_EVENT ID="5" TYPE="TRANSPORT_HAZARDS"> fell </MAN_MADE_EVENT> more than <DEPTH-ARG ID="7"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> 30 meters (100 feet) </DEPTH-ARG> into the ravine while travelling downhill, said an official from the Fire and Rescue Department in the central Genting Highlands district. 
+
+ Rescuers brought out injured survivors, the official said on condition of anonymity as he was not authorized to make public statements. 
+
+ Bentong town police chief Mohamad Mansor Nor said he had no immediate details about the identities of the passengers on the bus. 
+
+ Genting Highlands features Malaysia’s only legal casino, which attracts thousands of domestic visitors and foreign tourists from Singapore and China every week. Serious <MAN_MADE_EVENT ID="6" TYPE="TRANSPORT_HAZARDS"> accidents </MAN_MADE_EVENT> are rare on the relatively well-maintained roads leading to the area’s main resorts. 
+
+</DOCUMENT>

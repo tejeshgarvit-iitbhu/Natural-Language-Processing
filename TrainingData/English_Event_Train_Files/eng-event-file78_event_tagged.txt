@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>255 Minibus, truck <MAN_MADE_EVENT ID="0" TYPE="VEHICULAR_COLLISION"> collision </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> kills 12 </CASUALTIES-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> near Lucknow </PLACE-ARG>
+
+ Police in Uttar Pradesh say a <MAN_MADE_EVENT ID="3" TYPE="VEHICULAR_COLLISION"> collision </MAN_MADE_EVENT> between a minibus and a speeding truck has <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="3" ID="8" TYPE_REL="EVENT_ARG"/> killed at least 12 people. </CASUALTIES-ARG>
+
+ Police officer R.P. Singh says all the casualties <TIME-ARG ID="5"><LINK EVENT_ARG="3" ID="9" TYPE_REL="EVENT_ARG"/> on Sunday </TIME-ARG> were on board the minibus. 
+
+ Police arrested the truck driver as he tried to flee the crash site on a highway near Amroha, a town 300 kilometers (185 miles) southwest of Lucknow, the Uttar Pradesh state capital. The bus driver died. 
+
+ Mr. Singh says four people are hospitalized, three of them with serious injuries. 
+
+ India has the world’s deadliest roads, with more than 110,000 people killed annually and most accidents blamed on reckless driving, poor road maintenance or aging vehicles. 
+
+</DOCUMENT>

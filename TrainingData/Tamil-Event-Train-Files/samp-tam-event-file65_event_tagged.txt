@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>1861 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="18" TYPE_REL="EVENT_ARG"/> மெக்சிகோவில் </PLACE-ARG> மிதமான <NATURAL_EVENT ID="1" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="3" ID="19" TYPE_REL="EVENT_ARG"/> மெக்சிகோவில் </PLACE-ARG> மிதமான <NATURAL_EVENT ID="3" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. இந்த <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT><MAGNITUDE-ARG ID="5"><LINK EVENT_ARG="4" ID="20" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவுகோலில் 5.9 </MAGNITUDE-ARG> ஆக பதிவாகியுள்ளது. 
+
+ இது குறித்து அமெரிக்க புவியியல் ஆய்வு மையம், <PLACE-ARG ID="6"><LINK EVENT_ARG="8" ID="21" TYPE_REL="EVENT_ARG"/> &quot;மெக்சிகோவின் சாண்டா கேட்ரினா, ஒசாகா ஆகிய நகரங்களில் </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="8" ID="22" TYPE_REL="EVENT_ARG"/> இன்று (திங்கட்கிழமை) </TIME-ARG> மிதமான <NATURAL_EVENT ID="8" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. <MAGNITUDE-ARG ID="9"><LINK EVENT_ARG="8" ID="23" TYPE_REL="EVENT_ARG"/> ரிக்டர் அளவுகோலில் 5.9 </MAGNITUDE-ARG> ஆக பதிவான இந்த <NATURAL_EVENT ID="10" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> பூமிக்கடியில் <DEPTH-ARG ID="11"><LINK EVENT_ARG="10" ID="24" TYPE_REL="EVENT_ARG"/> 40 மீட்டர்ஸ் ஆழத்தில் </DEPTH-ARG> ஏற்பட்டுள்ளது&quot; என்று தெரிவித்துள்ளது. 
+
+ இந்த நிலநடுக்கத்தினால் ஏற்பட்ட பாதிப்புகள் குறித்த தகவல் ஏதும் இதுவரை வெளிவரவில்லை. 
+
+ முன்னதாக, <PLACE-ARG ID="12"><LINK EVENT_ARG="14" ID="26" TYPE_REL="EVENT_ARG"/> மெக்சிகோவில் </PLACE-ARG><TIME-ARG ID="13"><LINK EVENT_ARG="14" ID="25" TYPE_REL="EVENT_ARG"/> வெள்ளிக்கிழமை </TIME-ARG> சக்தி வாய்ந்த <NATURAL_EVENT ID="14" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டது. இதன் <MAGNITUDE-ARG ID="15"><LINK EVENT_ARG="14" ID="27" TYPE_REL="EVENT_ARG"/> தாக்கம் ரிக்டரில் 7.2 ஆக </MAGNITUDE-ARG> பதிவானது குறிப்பிடத்தக்கது. இந்த நிலையில் மீண்டும் <PLACE-ARG ID="16"><LINK EVENT_ARG="17" ID="28" TYPE_REL="EVENT_ARG"/> மெக்சிகோவில் </PLACE-ARG><NATURAL_EVENT ID="17" TYPE="EARTHQUAKE"> நிலநடுக்கம் </NATURAL_EVENT> ஏற்பட்டுள்ளது மக்களை அச்சத்தில் ஆழ்த்தியுள்ளது. 
+
+</DOCUMENT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>924 https://www.jagran.com/world/indonesia-mount-agung-volcano-eruption-leaves-thousands-stranded-in-bali-jagran-special-18138353.html 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> इंडोनेशिया </PLACE-ARG> में फिर <NATURAL_EVENT ID="0" TYPE="VOLCANO"> ज्‍वालामुखी </NATURAL_EVENT> ने उगला लावा, दो माह में दुनिया देख रही चौथी त्रासदी 
+
+ नई दिल्‍ली [स्‍पेशल डेस्क]। दुनिया के कई देश सक्रिय ज्‍वालामुखी की चपेट में हैं। इनकी वजह से पिछले एक माह में ही अमेरिका समेत कुछ दूसरे देशों में काफी जान-माल का नुकसान हुआ है। पिछले एक माह के दौरान <PLACE-ARG ID="11"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> हवाई, </PLACE-ARG><PLACE-ARG ID="12"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> ग्‍वाटेमाला </PLACE-ARG> समेत <PLACE-ARG ID="13"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> इक्‍वाडोर </PLACE-ARG> में लोगों को इस त्रासदी का सामना करना पड़ा है। इसके अलावा <TIME-ARG ID="14"><LINK EVENT_ARG="0" ID="18" TYPE_REL="EVENT_ARG"/> शुक्रवार </TIME-ARG> को इंडोनेशिया में फिर एक बार माउंट आगुंग ने आग बरसाना शुरू कर दिया है। इसकी वजह से यहां पर फिर जीवन पर संकट के बादल मंडरा रहे हैं। आपको बता दें कि इंडोनेशिया दुनिया के उन गिने-चुने देशों में से है जहां लगभग हर वर्ष लोगों को इस तरह की आपदा का सामना करना पड़ता है। वहां पर हर वर्ष सैकड़ों लोगों की जान ज्‍वालामुखी से निकली राख और लावे की वजह से चली जाती है। 
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="3" ID="8" TYPE_REL="EVENT_ARG"/> इंडोनेशिया </PLACE-ARG> का आगुंग <NATURAL_EVENT ID="3" TYPE="VOLCANO"> ज्‍वालामुखी </NATURAL_EVENT>
+
+ इंडोनेशिया में <PLACE-ARG ID="5"><LINK EVENT_ARG="3" ID="9" TYPE_REL="EVENT_ARG"/> माउंट </PLACE-ARG> आगुंग ज्वालामुखी में विस्फोट के कारण निकले राख के चलते रिसॉर्ट द्वीप बाली स्थित <AFTER_EFFECTS-ARG ID="6"><LINK EVENT_ARG="3" ID="10" TYPE_REL="EVENT_ARG"/> अंतरराष्ट्रीय हवाईअड्डा एहतियातन बंद कर दिया गया है। </AFTER_EFFECTS-ARG> इसके कारण 38 अंतरराष्ट्रीय उड़ानें और 10 घरेलू उड़ानों सहित कुल 48 उड़ानें रद्द कर दी गयी हैं जिससे 8,334 यात्री प्रभावित हुए हैं। ज्वालामुखी में विस्फोट के कारण हवा में करीब 2,500 मीटर (8,200 फीट) राख का गुब्बारा (कॉलम) उठता हुआ देखा गया है। वहीं इस ज्‍वालामुखी से अब लावा निकलना भी शुरू हो गया है। यहां आपको बता दें कि पिछले कुछ माह से यह ज्‍वालामुखी शांत था। 
+
+</DOCUMENT>

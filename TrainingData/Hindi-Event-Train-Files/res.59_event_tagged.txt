@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>119 https://punjab.punjabkesari.in/punjab/news/accidnet-in-jalandhar-810717 
+
+ जालंधर: बस-कार की भयानक टक्कर,दादी पोते समेत 3 की मौत 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> नकोदर ( पाली): </PLACE-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> नकोदर -जंडियाला मार्ग </PLACE-ARG> पर <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> गांव सरीर </PLACE-ARG> नजदीक पीआरटीसी बस और इंडिका कार में भयानक <MAN_MADE_EVENT ID="0" TYPE="VEHICULAR_COLLISION"> टक्कर </MAN_MADE_EVENT> हो गई। इस हादसे में <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> दादी पोते समेत 3 व्यक्तियों की मौत हो गई। </CASUALTIES-ARG> घटना की सूचना मिलते ही मौके पर पहुंचे चौकी इंचार्ज शंकर ए.एस.आई सुखविन्दर सिंह समेत पुलिस पार्टी ने शवों को कब्जे में लेकर अगली कार्रवाई शुरू कर दी। मृतकों की पहचान बलविन्दर कौर (60) हरमिन्दर सिंह (23) और जोरावर सिंह (4) निवासी गांव सिकंदर पुर के तौर पर हुई है। बस चालक मौके से फरार हो गया। 
+
+</DOCUMENT>

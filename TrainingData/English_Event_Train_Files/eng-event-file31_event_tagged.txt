@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>248 <NATURAL_EVENT ID="0" TYPE="LAND_SLIDE"> Landslide </NATURAL_EVENT> hits <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> Tawang, </PLACE-ARG><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="0" ID="12" TYPE_REL="EVENT_ARG"/> 16 workers buried alive </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> ITANAGAR: </PLACE-ARG><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> Fifteen labourers and a supervisor were killed </CASUALTIES-ARG> after a <NATURAL_EVENT ID="6" TYPE="LAND_SLIDE"> landslide </NATURAL_EVENT> buried their camp near a private hotel construction site at <PLACE-ARG ID="7"><LINK EVENT_ARG="6" ID="15" TYPE_REL="EVENT_ARG"/> Phamla in Arunachal Pradesh&apos;s Tawang district </PLACE-ARG><TIME-ARG ID="8"><LINK EVENT_ARG="10" ID="16" TYPE_REL="EVENT_ARG"/> on Friday. </TIME-ARG>
+
+ Superintendent of police Anto Alphonse said three labourers survived the <NATURAL_EVENT ID="9" TYPE="LAND_SLIDE"> landslide, </NATURAL_EVENT> which was triggered by <REASON-ARG ID="10"><LINK EVENT_ARG="9" ID="17" TYPE_REL="EVENT_ARG"/> heavy rainfall </REASON-ARG> in the region over the last few days. 
+
+ &quot;Altogether 16 bodies have been extricated from the debris. One labourer, who was seriously injured, has been shifted to Tezpur in Assam,&quot; Alphonse said. He said the bodies were dug out in a joint operation by Army, civil administration and police personnel. &quot;They have been sent for postmortem,&quot; Alphonse said. He added that the deceased were from Assam. 
+
+ Union home minister Rajnath Singh spoke to chief minister Kalikho Pul over phone about the tragedy. Singh separately chaired a high-level committee meeting in Delhi and sanctioned Rs 84.33 crore central aid for the state. 
+
+ Arunachal Pradesh governor JP Rajkhowa announced an ex gratia of Rs 1 lakh for the nearest of kin of each of the 16 killed in the landslide. 
+
+</DOCUMENT>

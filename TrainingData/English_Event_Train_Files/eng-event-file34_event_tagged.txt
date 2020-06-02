@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>174 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="8" TYPE_REL="EVENT_ARG"/> Mumbai: </PLACE-ARG><MAN_MADE_EVENT ID="1" TYPE="FIRE"> Fire </MAN_MADE_EVENT> breaks out at <PLACE-ARG ID="2"><LINK EVENT_ARG="1" ID="9" TYPE_REL="EVENT_ARG"/> Scindia House, </PLACE-ARG> 8 fire tenders rushed to spot 
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> MUMBAI: </PLACE-ARG> A <MAN_MADE_EVENT ID="4" TYPE="FIRE"> fire </MAN_MADE_EVENT> errupted on the third floor of <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> Scindia House near Income Tax office in city&apos;s Ballard estate area </PLACE-ARG><TIME-ARG ID="5"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> around 4.55pm on Friday. </TIME-ARG>
+
+ The building is a ground plus six storey structure. 
+
+ Eight fire engines, six jumbo water tankers and two ambulances have been rushed to the site. 
+
+ Chief fire officer PS Rahangdale said that <MAN_MADE_EVENT ID="7" TYPE="FIRE"> fire </MAN_MADE_EVENT> is confined to the third and fourth floor of the building. &quot;Around four to five person are learned to be stranded on the upper floors and terrace of the building,&quot; said Rahangdale. 
+
+ No casualty have been reported in the incident so far. 
+
+</DOCUMENT>

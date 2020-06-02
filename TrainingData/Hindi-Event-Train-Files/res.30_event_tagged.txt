@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>111 https://www.punjabkesari.in/chandigarh/news/fire-804809 
+
+ चलती कार में लगी <MAN_MADE_EVENT ID="0" TYPE="FIRE"> आग, </MAN_MADE_EVENT> बाल-बाल बचा चालक 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> चंडीगढ़(सुशील) </PLACE-ARG> : <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> सैक्टर-27/28 के लाइट प्वाइंट </PLACE-ARG> के पास चलती कार में आग लग गई। कार सवार ने तुरंत बाहर निकल सूचना फायर ब्रिगेड को दी और मौके पर पहुंचे फायर कर्मियों ने आग पर काबू पाया। फायरकर्मी ने बताया कि <REASON-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> गाड़ी के इंजन में शायद शार्ट सर्किट से आग लगी है। </REASON-ARG> पंचकूला सैक्टर-6 निवासी अंकित ने बताया कि वह काम से सैक्टर-28 जा रहा था तो सैक्टर-27/28 के लाइट प्वाइंट पर यह हादसा पेश आया। आग से <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> गाड़ी का पूरा इंजन खराब हो गया। </CASUALTIES-ARG>
+
+</DOCUMENT>

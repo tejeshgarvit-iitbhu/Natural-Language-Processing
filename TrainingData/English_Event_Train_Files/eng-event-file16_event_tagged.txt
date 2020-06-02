@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>513 Massive <MAN_MADE_EVENT ID="1" TYPE="FIRE"> fire </MAN_MADE_EVENT> breaks out at <PLACE-ARG ID="2"><LINK EVENT_ARG="1" ID="8" TYPE_REL="EVENT_ARG"/> Delhi factory </PLACE-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> DELHI: </PLACE-ARG> A massive <MAN_MADE_EVENT ID="4" TYPE="FIRE"> fire </MAN_MADE_EVENT> broke out at a <PLACE-ARG ID="5"><LINK EVENT_ARG="4" ID="10" TYPE_REL="EVENT_ARG"/> shoe factory near Delhi&apos;s Peeragarhi area </PLACE-ARG><TIME-ARG ID="6"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> early on Friday. </TIME-ARG>
+
+ The Delhi Fire Services rushed 20 fire tenders to the spot to contain the blaze. 
+
+ According to reports, a fireman has suffered burn injuries in the incident. 
+
+ Officials said that the blaze started at about <TIME-ARG ID="7"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> 2.30am </TIME-ARG> but fortunately no one was in the factory premises at the time. The blaze englufed three floors of the factory. 
+
+</DOCUMENT>

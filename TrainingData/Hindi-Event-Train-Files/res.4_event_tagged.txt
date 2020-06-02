@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>366 http://www.deshbandhu.co.in/vichar/murder-on-land-dispute-in-bihar-59251-2 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> बिहार </PLACE-ARG> में <REASON-ARG ID="13"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> जमीन विवाद </REASON-ARG> को लेकर <MAN_MADE_EVENT ID="0" TYPE="CRIME"> हत्या </MAN_MADE_EVENT>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="7" ID="27" TYPE_REL="EVENT_ARG"/> बिहार </PLACE-ARG> के <PLACE-ARG ID="3"><LINK EVENT_ARG="7" ID="26" TYPE_REL="EVENT_ARG"/> लखीसराय जिले </PLACE-ARG> में <TIME-ARG ID="9"><LINK EVENT_ARG="7" ID="25" TYPE_REL="EVENT_ARG"/> शुक्रवार </TIME-ARG> को <REASON-ARG ID="14"><LINK EVENT_ARG="7" ID="24" TYPE_REL="EVENT_ARG"/> जमीन विवाद </REASON-ARG> में एक ही परिवार के <CASUALTIES-ARG ID="11"><LINK EVENT_ARG="7" ID="23" TYPE_REL="EVENT_ARG"/> तीन सदस्यों </CASUALTIES-ARG> की <MAN_MADE_EVENT ID="7" TYPE="SHOOT_OUT"> गोली मारकर </MAN_MADE_EVENT> हत्या कर दी गई देशबन्धु 
+
+ <PLACE-ARG ID="4"><LINK EVENT_ARG="8" ID="31" TYPE_REL="EVENT_ARG"/> पटना। </PLACE-ARG><PLACE-ARG ID="5"><LINK EVENT_ARG="8" ID="32" TYPE_REL="EVENT_ARG"/> बिहार </PLACE-ARG> के <PLACE-ARG ID="6"><LINK EVENT_ARG="8" ID="30" TYPE_REL="EVENT_ARG"/> लखीसराय जिले </PLACE-ARG> में <TIME-ARG ID="10"><LINK EVENT_ARG="8" ID="29" TYPE_REL="EVENT_ARG"/> शुक्रवार </TIME-ARG> कोमें एक ही परिवार के <CASUALTIES-ARG ID="12"><LINK EVENT_ARG="8" ID="28" TYPE_REL="EVENT_ARG"/> तीन सदस्यों </CASUALTIES-ARG> की <MAN_MADE_EVENT ID="8" TYPE="SHOOT_OUT"> गोली मारकर </MAN_MADE_EVENT> हत्या कर दी गई। लखीसराय के पुलिस अधीक्षक अरविंद ठाकुर ने कहा, &quot;मृतकों की पहचान रामशेखर सिंह (65), उनके बेटे झालो सिंह (40) और भतीजे रीपू सिंह (35) के रूप में हुई है। यह घटना पोखरामा गांव में <REASON-ARG ID="15"><LINK EVENT_ARG="8" ID="33" TYPE_REL="EVENT_ARG"/> जमीन विवाद </REASON-ARG> में हुई प्रतीत होती है।&quot; 
+
+ ठाकुर ने कहा, &quot;दो शव खेत में, जबकि एक शव सड़क के पास बरामद हुआ।&quot; घटना के बाद से गांव में तनाव है। कानून व्यवस्था बनाए रखने के लिए अतिरिक्त सुरक्षा बलों की तैनाती की गई है। अभी तक इस मामले में किसी की गिरफ्तारी नहीं हुई है। 
+
+</DOCUMENT>

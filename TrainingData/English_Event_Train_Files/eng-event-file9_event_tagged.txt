@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>267 <MAGNITUDE-ARG ID="1"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> 4.2 magnitude </MAGNITUDE-ARG><NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> hits <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> Gujarat&apos;s Kutch </PLACE-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> AHMEDABAD: </PLACE-ARG> An <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> of <MAGNITUDE-ARG ID="5"><LINK EVENT_ARG="4" ID="18" TYPE_REL="EVENT_ARG"/> magnitude 4.2 </MAGNITUDE-ARG> on the Richter scale was registered in parts of <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="19" TYPE_REL="EVENT_ARG"/> Gujarat&apos;s Kutch district </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="4" ID="20" TYPE_REL="EVENT_ARG"/> on Saturday, </TIME-ARG> an official said. 
+
+ An <NATURAL_EVENT ID="8" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> measuring <MAGNITUDE-ARG ID="9"><LINK EVENT_ARG="8" ID="21" TYPE_REL="EVENT_ARG"/> 4.2 on Richter scale </MAGNITUDE-ARG> was recorded in <PLACE-ARG ID="10"><LINK EVENT_ARG="8" ID="23" TYPE_REL="EVENT_ARG"/> Kutch district </PLACE-ARG> with its epicentre being 15 km from <PLACE-ARG ID="14"><LINK EVENT_ARG="8" ID="22" TYPE_REL="EVENT_ARG"/> Bhachau,&quot; </PLACE-ARG> said an official of Gandhinagar-based Institute of Seismological Research (ISR). 
+
+ The ISR official said that the <NATURAL_EVENT ID="11" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> was recorded at around <TIME-ARG ID="12"><LINK EVENT_ARG="11" ID="24" TYPE_REL="EVENT_ARG"/> 5:14 pm </TIME-ARG> and its epicentre was 15 km north-north east (NNE) of <PLACE-ARG ID="13"><LINK EVENT_ARG="11" ID="25" TYPE_REL="EVENT_ARG"/> Bhachau town. </PLACE-ARG>
+
+ No casualty or damage to property was reported, the official added. 
+
+</DOCUMENT>

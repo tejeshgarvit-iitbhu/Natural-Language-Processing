@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>150 <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> லாகூரில் </PLACE-ARG><MAN_MADE_EVENT ID="0" TYPE="SUICIDE_ATTACK"> தற்கொலைப் படை தாக்குதல்: </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> 9 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> பாகிஸ்தானில் லாகூர் நகரில் போலீஸ் சோதனைச் சாவடியில் </PLACE-ARG> நடந்த <MAN_MADE_EVENT ID="4" TYPE="SUICIDE_ATTACK"> தற்கொலைப்படை தாக்குதலில் </MAN_MADE_EVENT><CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> 9 பேர் பலியாகினர். 20 பேர் காயமடைந்தனர். </CASUALTIES-ARG>
+
+ இதுகுறித்து பாகிஸ்தான் ஊடகங்கள் தரப்பில், <PLACE-ARG ID="6"><LINK EVENT_ARG="4" ID="13" TYPE_REL="EVENT_ARG"/> “லாகூரிலுள்ள ரைவிண்ட் நகரில் உள்ள நிசர் போலீஸ் சோதனைச் சாவடியில் </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="4" ID="14" TYPE_REL="EVENT_ARG"/> புதன்கிழமை இரவு 9.20 மணியளவில் </TIME-ARG> இளைஞர் ஒருவரை போலீஸார் தடுத்து நிறுத்தினர். அப்போது அவர் தனது உடலில் கட்டியிருந்த வெடிகுண்டை வெடிக்கச் செய்ததில் <CASUALTIES-ARG ID="8"><LINK EVENT_ARG="4" ID="15" TYPE_REL="EVENT_ARG"/> 9 பேர் பலியாகினர். 20 பேர் காயமடைந்தனர்&quot; </CASUALTIES-ARG> என்று தெரிவிக்கப்பட்டுள்ளது. 
+
+ தாக்குதலில் காயமடைந்த போலீஸ் அதிகாரி ஒருவர் கூறும்போது, “நான் ஒரு இளைஞனைப் பார்த்தேன். அவர் உள்ளே வர முயற்சித்தார். அவரை என் உடன் பணிபுரிந்தவர் தடுத்த நிறுத்த முயற்சித்தபோது எனக்கு குண்டு வெடிக்கும் சத்தம் கேட்டது. எனக்கு மருத்துவமனையில்தான் நினைவு திரும்பியது&apos;&apos; என்றார். 
+
+ இந்தத் தாக்குதலுக்கு இதுவரை எந்த தீவிரவாத அமைப்பும் பொறுப்பேற்கவில்லை. 
+
+</DOCUMENT>

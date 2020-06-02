@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>97 Road <MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT><CASUALTIES-ARG ID="0"><LINK EVENT_ARG="5" ID="10" TYPE_REL="EVENT_ARG"/> kills 10 </CASUALTIES-ARG><PLACE-ARG ID="1"><LINK EVENT_ARG="5" ID="11" TYPE_REL="EVENT_ARG"/> in Bangladesh </PLACE-ARG>
+
+ <CASUALTIES-ARG ID="4"><LINK EVENT_ARG="6" ID="12" TYPE_REL="EVENT_ARG"/> At least 10 people were killed </CASUALTIES-ARG> after two buses <MAN_MADE_EVENT ID="6" TYPE="VEHICULAR_COLLISION"> collided </MAN_MADE_EVENT> head-on <TIME-ARG ID="3"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> on Friday </TIME-ARG><PLACE-ARG ID="2"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> in Bangladesh’s western district of Rajbari, </PLACE-ARG> police said. 
+
+ <CASUALTIES-ARG ID="7"><LINK EVENT_ARG="8" ID="16" TYPE_REL="EVENT_ARG"/> Eight people died </CASUALTIES-ARG> at the scene when the inter-district buses <MAN_MADE_EVENT ID="8" TYPE="VEHICULAR_COLLISION"> crashed </MAN_MADE_EVENT> before dawn <PLACE-ARG ID="9"><LINK EVENT_ARG="8" ID="15" TYPE_REL="EVENT_ARG"/> at Basantapur on the Dhaka-Khulna highway, </PLACE-ARG> police officer Nizam Khan said. 
+
+ Two others died in a local hospital after 25 survivors were taken to a nearby hospital, he added. 
+
+ Police launched an investigation into the crash. 
+
+</DOCUMENT>

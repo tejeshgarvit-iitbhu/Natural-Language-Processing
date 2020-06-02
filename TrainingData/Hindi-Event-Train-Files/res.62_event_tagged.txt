@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>92 https://punjab.punjabkesari.in/firozepur/news/accident-in-jalalabad-death-of-husband-wife-766622 
+
+ जलालाबाद में घटा भयानक <MAN_MADE_EVENT ID="0" TYPE="VEHICULAR_COLLISION"> हादसा, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> पति-पत्नी की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> जलालाबाद(सेतिया/बंटी): </PLACE-ARG><PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> एफ.एफ. रोड </PLACE-ARG> पर गांव कालू वाला के समीप आज <TIME-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> सुबह करीब 11 बजे </TIME-ARG> ब्लैरो गाड़ी की टक्कर में मोटरसाइकिल सवार पति-पत्नी की मौत हो गई। मृतक बलकार सिंह पुत्र लाल सिंह तथा अमरो बाई पत्नी बलकार सिंह गांव चक्क सुखेरा के निवासी हैं। बलकार सिंह अपनी पत्नी के साथ मोटरसाइकिल पर सवार हो कर गांव छीबे वाला की तरफ जा रहा था लेकिन कालू वाला समीप ब्लैरो गाड़ी की टक्कर में बलकार सिंह तथा अमरो बाई बुरी तरह घायल हो गए। 
+
+</DOCUMENT>

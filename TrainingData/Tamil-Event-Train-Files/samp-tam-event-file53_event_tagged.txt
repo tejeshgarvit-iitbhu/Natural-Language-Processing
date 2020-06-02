@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>120 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="6" TYPE_REL="EVENT_ARG"/> காஷ்மீரில் </PLACE-ARG><MAN_MADE_EVENT ID="1" TYPE="TERRORIST_ATTACK"> தாக்குதல் </MAN_MADE_EVENT> : <CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="7" TYPE_REL="EVENT_ARG"/> 16 பேர் காயம் </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="8" TYPE_REL="EVENT_ARG"/> ஜம்மு : காஷ்மீரின் சோபியான் மாவட்டத்தில் </PLACE-ARG> பயங்கரவாதிகள் கையெறி குண்டுகளை வீசி <MAN_MADE_EVENT ID="4" TYPE="TERRORIST_ATTACK"> தாக்குதல் </MAN_MADE_EVENT> நடத்தினர். இந்த தாக்குதலில் <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> 4 போலீசார் உள்ளிட்ட 16 பேர் படுகாயம் </CASUALTIES-ARG> அடைந்துள்ளனர். குறி தவறியதால் குண்டுகள் சாலையில் பெரும் சத்ததுடன் வெடித்துள்ளன. இதனால் உயிரிழப்பு ஏதும் ஏற்படவில்லை. இத தொடர்பான வீடியோக்கள் சமூக வலை தளங்களில் வைரலாகி வருகின்றன. 
+
+</DOCUMENT>

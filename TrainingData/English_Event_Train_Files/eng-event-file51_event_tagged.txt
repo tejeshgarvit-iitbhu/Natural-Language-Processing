@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>869 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="1" ID="6" TYPE_REL="EVENT_ARG"/> 35-year-old killed </CASUALTIES-ARG> in <MAN_MADE_EVENT ID="1" TYPE="ACCIDENTS"> hit-and-run </MAN_MADE_EVENT> case 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="5" ID="7" TYPE_REL="EVENT_ARG"/> RUDRAPUR: </PLACE-ARG><CASUALTIES-ARG ID="3"><LINK EVENT_ARG="5" ID="8" TYPE_REL="EVENT_ARG"/> A 35-year-old woman was killed and a man was injured </CASUALTIES-ARG><PLACE-ARG ID="4"> on Kashipur road </PLACE-ARG> after a recklessly driven of a Bolero car lost control of the vehicle and <MAN_MADE_EVENT ID="5" TYPE="ACCIDENTS"> hit </MAN_MADE_EVENT> the two and fled the spot. 
+
+ Police said that Shashi Yadav, 35, a resident of Gandhi colony and Ramswarup, 30, a resident of Subhash colony was injured in the accident. 
+
+ The two were taken to the hospital where Shashi was declared brought dead. A case has been registered against the driver under sections 304(A), 338, 279, 427 of the IPC read with Sub-Sections 134, 177 of Motor Vehicles Act and search is on for the absconding driver. 
+
+</DOCUMENT>

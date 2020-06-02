@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>895 <PARTICIPANT-ARG ID="2"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> German police </PARTICIPANT-ARG><MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> shoot </MAN_MADE_EVENT> ‘rampaging’ man <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> near Berlin Cathedral </PLACE-ARG>
+
+ German media said police were called to the <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> Berliner Dom, </PLACE-ARG> a major tourist attraction on the historic Museum Island, after a dispute between two people there. 
+
+ <PARTICIPANT-ARG ID="4"><LINK EVENT_ARG="6" ID="12" TYPE_REL="EVENT_ARG"/> German police </PARTICIPANT-ARG><TIME-ARG ID="5"><LINK EVENT_ARG="6" ID="13" TYPE_REL="EVENT_ARG"/> on Sunday </TIME-ARG><MAN_MADE_EVENT ID="6" TYPE="SHOOT_OUT"> shot </MAN_MADE_EVENT> a man who had rampaged through the <PLACE-ARG ID="7"><LINK EVENT_ARG="6" ID="14" TYPE_REL="EVENT_ARG"/> Berlin Cathedral, </PLACE-ARG> police in the German capital said on Twitter, urging the public not to spread rumours. 
+
+ German media said police were called to the <PLACE-ARG ID="8"><LINK EVENT_ARG="6" ID="15" TYPE_REL="EVENT_ARG"/> Berliner Dom, </PLACE-ARG> a major tourist attraction on the historic Museum Island, after a dispute between two people there. “In the Berliner Dom in the city centre our colleagues opened fire on a rampaging man shortly after 1600,” Berlin police said on twitter. “He was injured in the legs. Please avoid rumours.” The Tagesspiegel newspaper said two people had been injured, the suspect and a man he had attacked. 
+
+</DOCUMENT>

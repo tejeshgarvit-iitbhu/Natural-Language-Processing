@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>219 <NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> Earthquake </NATURAL_EVENT> shakes <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> northeast China, </PLACE-ARG> but no apparent damage 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="4" ID="16" TYPE_REL="EVENT_ARG"/> BEIJING </PLACE-ARG> : A moderate <NATURAL_EVENT ID="4" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> shook <PLACE-ARG ID="8"><LINK EVENT_ARG="4" ID="17" TYPE_REL="EVENT_ARG"/> northeastern China </PLACE-ARG><TIME-ARG ID="9"><LINK EVENT_ARG="4" ID="18" TYPE_REL="EVENT_ARG"/> early Monday, </TIME-ARG> but no damage or injuries have been reported. 
+
+ The <NATURAL_EVENT ID="5" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> near the city of <PLACE-ARG ID="10"><LINK EVENT_ARG="5" ID="19" TYPE_REL="EVENT_ARG"/> Songyuan in Jilin </PLACE-ARG> province was <MAGNITUDE-ARG ID="11"><LINK EVENT_ARG="5" ID="20" TYPE_REL="EVENT_ARG"/> 5.7 magnitude </MAGNITUDE-ARG> and <DEPTH-ARG ID="13"><LINK EVENT_ARG="5" ID="21" TYPE_REL="EVENT_ARG"/> 13 kilometers </DEPTH-ARG> (8 miles) deep, China&apos;s national <NATURAL_EVENT ID="6" TYPE="EARTHQUAKE"> earthquake </NATURAL_EVENT> administration said. The US Geological Survey measured the <NATURAL_EVENT ID="7" TYPE="EARTHQUAKE"> quake </NATURAL_EVENT> at a slightly weaker <MAGNITUDE-ARG ID="12"><LINK EVENT_ARG="7" ID="22" TYPE_REL="EVENT_ARG"/> magnitude 5.1 </MAGNITUDE-ARG> and said it was <DEPTH-ARG ID="14"><LINK EVENT_ARG="7" ID="23" TYPE_REL="EVENT_ARG"/> 10 kilometers </DEPTH-ARG> (6 miles) below the Earth&apos;s surface. 
+
+ People rushed from their homes due to the intense shaking just before 2 am, and media reports said rescue teams responded, but no reports of injuries or damage have been received hours later. The official Xinhua News Agency said the area&apos;s power supply was unaffected, but some mobile phone communications were disrupted. 
+
+ A 1976 earthquake centered in the northeastern city of Tangshan killed at least 2,50,000 people. China&apos;s worst earthquake in recent years struck the mountainous western portion of Sichuan province in 2008, killing nearly 90,000 people. 
+
+</DOCUMENT>

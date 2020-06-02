@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>222 https://www.punjabkesari.in/punjab/news/article-385579 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> जालंधर: </PLACE-ARG><TIME-ARG ID="2"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> सोमवार </TIME-ARG> को राजधानी <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> दिल्ली </PLACE-ARG> समेत पूरे <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> उत्तर भारत </PLACE-ARG> में <NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> के तगड़े झटके महसूस किए गए। <PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> पंजाब, </PLACE-ARG><PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="18" TYPE_REL="EVENT_ARG"/> दिल्ली-एनसीआर, </PLACE-ARG><PLACE-ARG ID="7"><LINK EVENT_ARG="0" ID="19" TYPE_REL="EVENT_ARG"/> हिमाचल, </PLACE-ARG><PLACE-ARG ID="9"><LINK EVENT_ARG="0" ID="20" TYPE_REL="EVENT_ARG"/> श्रीनगर, </PLACE-ARG><PLACE-ARG ID="8"><LINK EVENT_ARG="0" ID="21" TYPE_REL="EVENT_ARG"/> चंडीगढ़ </PLACE-ARG> समेत <PLACE-ARG ID="10"><LINK EVENT_ARG="0" ID="22" TYPE_REL="EVENT_ARG"/> उत्तरी भारत के कई ईलाकों </PLACE-ARG> में भूकंप के तेज झटके महसूस किए गए। 
+
+ <MAGNITUDE-ARG ID="11"><LINK EVENT_ARG="0" ID="23" TYPE_REL="EVENT_ARG"/> करीब 40 सैकेंड </MAGNITUDE-ARG> तक यह भूकंप आया। <MAGNITUDE-ARG ID="12"><LINK EVENT_ARG="0" ID="24" TYPE_REL="EVENT_ARG"/> भूकंप करीब 3 बज कर 40 मिनट पर आया, </MAGNITUDE-ARG> जिसके बाद लोग अपने घरों से बाहर निकल आए। हालांकि अभी तक किसी के भी हताहत होने की खबर नहीं है। 
+
+</DOCUMENT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>141 <CASUALTIES-ARG ID="0"><LINK EVENT_ARG="2" ID="10" TYPE_REL="EVENT_ARG"/> 14 killed </CASUALTIES-ARG><PLACE-ARG ID="1"><LINK EVENT_ARG="2" ID="9" TYPE_REL="EVENT_ARG"/> in Moscow </PLACE-ARG> truck-bus <MAN_MADE_EVENT ID="2" TYPE="VEHICULAR_COLLISION"> crash </MAN_MADE_EVENT>
+
+ <CASUALTIES-ARG ID="3"><LINK EVENT_ARG="2" ID="11" TYPE_REL="EVENT_ARG"/> Fourteen people were killed </CASUALTIES-ARG> after a truck carrying concrete ran into a passenger bus <PLACE-ARG ID="4"><LINK EVENT_ARG="2" ID="12" TYPE_REL="EVENT_ARG"/> in an outlying area of Moscow. </PLACE-ARG>
+
+ The Emergency Services Ministry said in a statement that 22 people have been hospitalised with injuries from the <TIME-ARG ID="6"><LINK EVENT_ARG="5" ID="13" TYPE_REL="EVENT_ARG"/> Saturday afternoon </TIME-ARG><MAN_MADE_EVENT ID="5" TYPE="VEHICULAR_COLLISION"> crash. </MAN_MADE_EVENT>
+
+ The <MAN_MADE_EVENT ID="7" TYPE="VEHICULAR_COLLISION"> accident </MAN_MADE_EVENT> occurred when the truck ploughed into the side of the bus <PLACE-ARG ID="8"><LINK EVENT_ARG="7" ID="14" TYPE_REL="EVENT_ARG"/> near Oznobishino, </PLACE-ARG> a settlement in the Moscow municipality about 40 km south of the city centre. 
+
+ The drivers of both vehicles are among the hospitalised, Russian news reports said. 
+
+</DOCUMENT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>293 https://punjab.punjabkesari.in/punjab/news/death-of-two-innocent-girls-by-falling-roof-of-the-house-829791 
+
+ घर की <MAN_MADE_EVENT ID="0" TYPE="ACCIDENTS"> छत गिरने </MAN_MADE_EVENT> से <CASUALTIES-ARG ID="6"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> मासूम बच्चियों की मौत </CASUALTIES-ARG>
+
+ ममदोट(संजीव):ममदोट में छत गिरने से <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> 2 मासूम बच्चियों की मौत हो गई। </CASUALTIES-ARG> जानकारी के अनुसार <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="9" TYPE_REL="EVENT_ARG"/> ममदोट के गांव </PLACE-ARG><PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="10" TYPE_REL="EVENT_ARG"/> खाई फेमे </PLACE-ARG> में स्थित एक घर में प्रवासी मजदूर परिवार सहित रहता था । 
+
+ <TIME-ARG ID="5"><LINK EVENT_ARG="0" ID="11" TYPE_REL="EVENT_ARG"/> आज सुबह 5:30 बजे </TIME-ARG> के करीब अचानक घर की छत गिर गई। इस कारण प्रवासी मजदूर की 12 तथा 9 साल की बेटियों की मलबे के नीचे दबने से मौत हो गई। वह ,उसकी पत्नी और बेटा गंभीर रूप से घायल हो गए। मौके पर पहुंची पुलिस ने छत गिरने का कारण खस्ताहाल गार्डर को बताया है। फिलहाल गांव के लोगों द्वारा मलबा हटाया जा रहा है। 
+
+</DOCUMENT>

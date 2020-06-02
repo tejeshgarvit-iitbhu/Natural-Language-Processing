@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>479 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="11" TYPE_REL="EVENT_ARG"/> ஏமன், ஓமன் நாடுகளில் </PLACE-ARG><NATURAL_EVENT ID="1" TYPE="HURRICANE"> சூறாவளி தாக்குதல்: </NATURAL_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="12" TYPE_REL="EVENT_ARG"/> 3 இந்தியர்கள் உட்பட 11 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="1" ID="13" TYPE_REL="EVENT_ARG"/> ஓமன், ஏமன் ஆகிய நாடுகளில் </PLACE-ARG><NAME-ARG ID="4"><LINK EVENT_ARG="1" ID="14" TYPE_REL="EVENT_ARG"/> மெகுனு சூறாவளி </NAME-ARG> தாக்கியதில் <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="1" ID="15" TYPE_REL="EVENT_ARG"/> 11 பேர் பலியாகினர். </CASUALTIES-ARG> இதில் 3 பேர் இந்தியர்கள். மேலும் இந்தத் சூறாவளி தாக்குதலில் பலர் காணாமல் போயுள்ளனர் என செய்திகள் தெரிவிக்கின்றன. 
+
+ இது தொடர்பாக ஊடகங்கள், <PLACE-ARG ID="8"><LINK EVENT_ARG="1" ID="16" TYPE_REL="EVENT_ARG"/> ”ஏமன் மற்றும் ஓமனின் தோபர் மற்றும் அல் வுஸ்தா ஆகிய மாகாணங்களில் </PLACE-ARG><TIME-ARG ID="7"><LINK EVENT_ARG="1" ID="19" TYPE_REL="EVENT_ARG"/> வெள்ளிக்கிழமை </TIME-ARG><NAME-ARG ID="6"><LINK EVENT_ARG="1" ID="18" TYPE_REL="EVENT_ARG"/> மெகுனு சூறாவளி </NAME-ARG> தாக்கியது. சுமார் <SPEED-ARG ID="9"><LINK EVENT_ARG="1" ID="17" TYPE_REL="EVENT_ARG"/> 170 கிலோமீட்டர் வேகத்தில் </SPEED-ARG> காற்று வீசியது. 
+
+ இந்த சூறாவளியில் சிக்கி இதுவரை <CASUALTIES-ARG ID="10"><LINK EVENT_ARG="1" ID="20" TYPE_REL="EVENT_ARG"/> 11 பேர் பலியாகியுள்ளனர். </CASUALTIES-ARG> அதில் மூன்று பேர் இந்தியர்கள். மேலும் இந்த சூறாவளியில் பலர் காணாமல் போயுள்ளனர். அவர்களை தேடும் பணி தொடர்ந்து நடந்து வருகிறது. சுமார் 60,000 பேர் சூறாவளி தாக்கப்பட்ட பகுதிகளிலிருந்து இடம் பெயர்ந்துள்ளனர்” என்று செய்தி வெளியிட்டுள்ளன. 
+
+ நிவாரண பணிகள் விரைவாக நடந்து வருவதாகவும் மக்கள் அச்சம் கொள்ள வேண்டாம் என்றும் ஏமன், ஓமன் ஆகிய இரு நாடுகள் தரப்பில் கேட்டுக் கொள்ளப்பட்டுள்ளது. 
+
+</DOCUMENT>

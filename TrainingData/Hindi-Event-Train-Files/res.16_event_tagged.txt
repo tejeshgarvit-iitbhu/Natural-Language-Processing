@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>465 https://himachal.punjabkesari.in/himachal-pradesh/news/kangra-cylinder-fire-person-death-829684 
+
+ <MAN_MADE_EVENT ID="10" TYPE="ACCIDENTS"> सिलैंडर फटने </MAN_MADE_EVENT> मामले में <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="10" ID="12" TYPE_REL="EVENT_ARG"/> एक और व्यक्ति की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="10" ID="11" TYPE_REL="EVENT_ARG"/> कांगड़ा </PLACE-ARG> : <TIME-ARG ID="3"><LINK EVENT_ARG="10" ID="13" TYPE_REL="EVENT_ARG"/> 2 मई </TIME-ARG> को <PLACE-ARG ID="4"><LINK EVENT_ARG="10" ID="14" TYPE_REL="EVENT_ARG"/> नगरोटा सूरियां </PLACE-ARG> में सिलैंडर फटने की घटना में घायल हुए एक और व्यक्ति ने आज दम तोड़ दिया। जानकारी के अनुसार <TIME-ARG ID="17"><LINK EVENT_ARG="15" ID="20" TYPE_REL="EVENT_ARG"/> 2 मई </TIME-ARG> को <PLACE-ARG ID="16"><LINK EVENT_ARG="15" ID="21" TYPE_REL="EVENT_ARG"/> नगरोटा सूरियां </PLACE-ARG> में <MAN_MADE_EVENT ID="15" TYPE="ACCIDENTS"> सिलैंडर फटने </MAN_MADE_EVENT> से लगभग 2 दर्जन लोग झुलस गए थे, जिनमें से आज एक झुलसे व्यक्ति ने घावों के ताव न सहते हुए दम तोड़ दिया। मिली जानकारी के अनुसार डा. राजेंद्र प्रसाद मैडीकल कालेज में देसराज पुत्र रोशन लाल गांव वासा का <TIME-ARG ID="19"><LINK EVENT_ARG="15" ID="22" TYPE_REL="EVENT_ARG"/> सोमवार सायं लगभग 5 बजे </TIME-ARG> उपचार के दौरान देहांत हो गया। इस प्रकार नगरोटा सूरियां में <CASUALTIES-ARG ID="18"><LINK EVENT_ARG="15" ID="23" TYPE_REL="EVENT_ARG"/> आग से मरने वालों का आंकड़ा 7 हो गया है। </CASUALTIES-ARG> मृतक का पोस्टमार्टम मंगलवार को टांडा में किया जाएगा। 
+
+</DOCUMENT>

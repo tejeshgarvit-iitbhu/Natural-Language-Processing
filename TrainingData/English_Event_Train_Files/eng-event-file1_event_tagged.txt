@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>677 Labourer from <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="6" TYPE_REL="EVENT_ARG"/> Jharkhand </PLACE-ARG> sodomised, <MAN_MADE_EVENT ID="1" TYPE="CRIME"> killed </MAN_MADE_EVENT>
+
+ The body of a 23-year-old labourer was found at a construction site in Lower Parel <TIME-ARG ID="2"><LINK EVENT_ARG="4" ID="7" TYPE_REL="EVENT_ARG"/> on Friday night. </TIME-ARG> The NM Joshi Marg police said the deceased, who had been identified as Jesrial Marhandi from <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="8" TYPE_REL="EVENT_ARG"/> Jharkhand, </PLACE-ARG> appeared to have been <MAN_MADE_EVENT ID="4" TYPE="CRIME"> sodomised and murdered. </MAN_MADE_EVENT> The Crime Branch will conduct a parallel probe. Marhandi was employed at the construction site three months ago. 
+
+ Senior police inspector Ahmed Pathan from NM Joshi Marg police station said, “Around <TIME-ARG ID="5"><LINK EVENT_ARG="4" ID="9" TYPE_REL="EVENT_ARG"/> 1pm on Friday, </TIME-ARG> we were informed that a body had been found at the construction site in Lower Parel. After we went to the spot, we found that the body was naked.” 
+
+ “The post-mortem report revealed injuries to his head, legs and other parts of the body and revealed that he was sodomised and assaulted to death,” said Deputy Commissioner of Police Virendra Mishra (zone 3). The Crime Branch said they have detained four people. 
+
+</DOCUMENT>

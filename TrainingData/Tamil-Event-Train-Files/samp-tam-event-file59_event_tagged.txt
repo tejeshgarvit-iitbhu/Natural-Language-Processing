@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>160 <PLACE-ARG ID="0"><LINK EVENT_ARG="1" ID="9" TYPE_REL="EVENT_ARG"/> எத்தியோப்பியாவில் </PLACE-ARG><MAN_MADE_EVENT ID="1" TYPE="TRANSPORT_HAZARDS"> பேருந்து விபத்து: </MAN_MADE_EVENT><CASUALTIES-ARG ID="2"><LINK EVENT_ARG="1" ID="10" TYPE_REL="EVENT_ARG"/> 38 பேர் பலி </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="3"><LINK EVENT_ARG="4" ID="11" TYPE_REL="EVENT_ARG"/> ஆப்பிரிக்க நாடான எத்தியோப்பியாவில் </PLACE-ARG> பயணிகள் சென்ற <MAN_MADE_EVENT ID="4" TYPE="TRANSPORT_HAZARDS"> பேருந்து விபத்துக்குள்ளானதில் </MAN_MADE_EVENT> அதில் பயணம் செய்த <CASUALTIES-ARG ID="5"><LINK EVENT_ARG="4" ID="12" TYPE_REL="EVENT_ARG"/> 38 பேர் பலியாகினர். </CASUALTIES-ARG>
+
+ இதுகுறித்து அதிகாரிகள் தரப்பில், <PLACE-ARG ID="6"><LINK EVENT_ARG="7" ID="13" TYPE_REL="EVENT_ARG"/> &quot;எத்தியோப்பியாவில் லுகம்போ மாவட்டத்திலுள்ள அம்ஹரா மாகாணத்தில் </PLACE-ARG> பயணிகளுடன் சென்று கொண்டிருந்த <MAN_MADE_EVENT ID="7" TYPE="TRANSPORT_HAZARDS"> பேருந்து விபத்துக்குள்ளானது. </MAN_MADE_EVENT> இதில் அப்பேருந்திலிருந்த <CASUALTIES-ARG ID="8"><LINK EVENT_ARG="7" ID="14" TYPE_REL="EVENT_ARG"/> 38 பேர் பலியாகினர். </CASUALTIES-ARG> இதில் ஆண்கள் 28 பேர். பெண்கள் 10 பேர். பலியானவர்களில் பெரும்பாலானவர்கள் மாணவர்கள். பலர் பலத்த காயங்களுடன் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்&quot;என்று தெரிவிக்கப்பட்டுள்ளது. 
+
+ பேருந்து விபத்து ஏற்பட்டதற்கான காரணம் இதுவரை கண்டறியப்படவில்லை. இதுகுறித்து எத்தியோப்பியா போலீஸார் விசாரணையில் ஈடுபட்டு வருகின்றனர். 
+
+</DOCUMENT>

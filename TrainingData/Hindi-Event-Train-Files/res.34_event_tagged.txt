@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>236 https://himachal.punjabkesari.in/himachal-pradesh/news/painful-accident-fire-in-quarter-death-of-patwari-802465 
+
+ दर्दनाक हादसा : क्वार्टर में <MAN_MADE_EVENT ID="0" TYPE="SHOOT_OUT"> आग, </MAN_MADE_EVENT><CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="3" TYPE_REL="EVENT_ARG"/> जिंदा जला पटवारी </CASUALTIES-ARG>
+
+ पुलिस थाना तीसा में एक <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="4" TYPE_REL="EVENT_ARG"/> पटवारी की क्वार्टर </PLACE-ARG> में आग लगने से मौत होने का मामला दर्ज किया गया है। एस.पी. चम्बा डा. मोनिका ने बताया कि शेर सिंह पुत्र प्रभु दयाल गांव निवासी नडोई डाकघर, झज्जाकोठी तहसील चुराह, जिला चम्बा ने थाना में रिपोर्ट दर्ज करवाई है कि 57 वर्षीय भगत राम पुत्र दनादर निवासी गांव नडोई डाकघर झज्जाकोठी जो वर्तमान में चुराह उपमंडल के झज्जाकोठी में पटवारी के पद पर तैनात था तथा उसके पास हियाड़ पटवार सर्कल का भी अतिरिक्त कार्यभार था, उसकी लाश उस समय घर के भीतर जली हुई मिली जब वह अपने पटवारखाने के सरकारी क्वार्टर में सोया हुआ था। 
+
+</DOCUMENT>

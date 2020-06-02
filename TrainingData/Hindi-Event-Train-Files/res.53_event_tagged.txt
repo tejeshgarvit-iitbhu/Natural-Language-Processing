@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>509 https://www.punjabkesari.in/punjab/news/article-385579 
+
+ <PLACE-ARG ID="1"><LINK EVENT_ARG="0" ID="13" TYPE_REL="EVENT_ARG"/> उत्‍तर भारत </PLACE-ARG> में <NATURAL_EVENT ID="0" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> के तगड़े झटके, घरों से बाहर निकले लोग 
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="14" TYPE_REL="EVENT_ARG"/> जालंधर: </PLACE-ARG> सोमवार को राजधानी <PLACE-ARG ID="3"><LINK EVENT_ARG="0" ID="15" TYPE_REL="EVENT_ARG"/> दिल्ली </PLACE-ARG> समेत पूरे <PLACE-ARG ID="4"><LINK EVENT_ARG="0" ID="16" TYPE_REL="EVENT_ARG"/> उत्तर भारत </PLACE-ARG> में भूकंप के तगड़े झटके महसूस किए गए। <PLACE-ARG ID="5"><LINK EVENT_ARG="0" ID="17" TYPE_REL="EVENT_ARG"/> पंजाब, </PLACE-ARG><PLACE-ARG ID="6"><LINK EVENT_ARG="0" ID="18" TYPE_REL="EVENT_ARG"/> दिल्ली-एनसीआर, </PLACE-ARG><PLACE-ARG ID="7"><LINK EVENT_ARG="0" ID="19" TYPE_REL="EVENT_ARG"/> हिमाचल, </PLACE-ARG><PLACE-ARG ID="8"><LINK EVENT_ARG="0" ID="20" TYPE_REL="EVENT_ARG"/> श्रीनगर, </PLACE-ARG><PLACE-ARG ID="9"><LINK EVENT_ARG="0" ID="21" TYPE_REL="EVENT_ARG"/> चंडीगढ़ </PLACE-ARG> समेत <PLACE-ARG ID="10"><LINK EVENT_ARG="0" ID="22" TYPE_REL="EVENT_ARG"/> उत्तरी भारत के कई ईलाकों </PLACE-ARG> में भूकंप के तेज झटके महसूस किए गए। 
+
+ <MAGNITUDE-ARG ID="11"><LINK EVENT_ARG="0" ID="23" TYPE_REL="EVENT_ARG"/> करीब 40 सैकेंड तक </MAGNITUDE-ARG> यह भूकंप आया। भूकंप <MAGNITUDE-ARG ID="12"><LINK EVENT_ARG="0" ID="24" TYPE_REL="EVENT_ARG"/> करीब 3 बज कर 40 मिनट पर आया, </MAGNITUDE-ARG> जिसके बाद लोग अपने घरों से बाहर निकल आए। हालांकि अभी तक किसी के भी हताहत होने की खबर नहीं है। 
+
+ हिंदुकुश रहा भूकंप का केंद्र 
+
+ वहीं भारत के अलावा जहां <PLACE-ARG ID="27"><LINK EVENT_ARG="25" ID="33" TYPE_REL="EVENT_ARG"/> अफगानिस्तान </PLACE-ARG> में <MAGNITUDE-ARG ID="30"><LINK EVENT_ARG="25" ID="34" TYPE_REL="EVENT_ARG"/> 6.2 की तीव्रता </MAGNITUDE-ARG> से <NATURAL_EVENT ID="25" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> आया तो वहीं <PLACE-ARG ID="28"><LINK EVENT_ARG="25" ID="35" TYPE_REL="EVENT_ARG"/> पाकिस्तान </PLACE-ARG> में इसकी <MAGNITUDE-ARG ID="31"><LINK EVENT_ARG="25" ID="36" TYPE_REL="EVENT_ARG"/> तीव्रता 6.7 </MAGNITUDE-ARG> रही। <PLACE-ARG ID="29"><LINK EVENT_ARG="25" ID="37" TYPE_REL="EVENT_ARG"/> अफगानिस्तान का हिंदुकुश </PLACE-ARG> भूकंप का केंद्र रहा। यह भूकंप <MAGNITUDE-ARG ID="32"><LINK EVENT_ARG="25" ID="38" TYPE_REL="EVENT_ARG"/> जमीन से 211 किमी. नीचे आया। </MAGNITUDE-ARG>
+
+ आशंका जताई जा रही है कि आफ्टर शॉक भी आ सकते हैं। हालांकि जानकारों का मानना है कि आफ्टर श़ॉक सामान्य रुप से ज्यादा खतरनाक नहीं होते हैं, इसलिए लोगों को घबराने की जरूरत नहीं है। 
+
+ बता दें कि इससे पहले <PLACE-ARG ID="41"><LINK EVENT_ARG="39" ID="44" TYPE_REL="EVENT_ARG"/> नेपाल </PLACE-ARG> में <TIME-ARG ID="40"><LINK EVENT_ARG="39" ID="45" TYPE_REL="EVENT_ARG"/> 25 अप्रैल </TIME-ARG> को <NATURAL_EVENT ID="39" TYPE="EARTHQUAKE"> भूकंप </NATURAL_EVENT> आया था जिसमें <CASUALTIES-ARG ID="42"><LINK EVENT_ARG="39" ID="46" TYPE_REL="EVENT_ARG"/> करीब 10 हजार लोगों की मौत हो गई थी। </CASUALTIES-ARG> इस भूंकप की वजह से <PLACE-ARG ID="43"><LINK EVENT_ARG="39" ID="47" TYPE_REL="EVENT_ARG"/> भारत के कई इलाकों </PLACE-ARG> में भूकंप के झटके महससू किए गए थे। 
+
+</DOCUMENT>

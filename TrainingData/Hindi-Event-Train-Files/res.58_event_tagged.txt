@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>162 https://www.punjabkesari.in/national/news/maharashtra-10-dead-in-truck-and-car-raid-812223 
+
+ महाराष्ट्र: ट्रक और कार की भिड़ंत में <CASUALTIES-ARG ID="1"><LINK EVENT_ARG="0" ID="5" TYPE_REL="EVENT_ARG"/> 10 लोगों की मौत </CASUALTIES-ARG>
+
+ <PLACE-ARG ID="2"><LINK EVENT_ARG="0" ID="6" TYPE_REL="EVENT_ARG"/> महाराष्ट्रः </PLACE-ARG><TIME-ARG ID="3"><LINK EVENT_ARG="0" ID="7" TYPE_REL="EVENT_ARG"/> शुक्रवार </TIME-ARG> को महाराष्ट्र के यवतमाल एक भयानक <MAN_MADE_EVENT ID="0" TYPE="VEHICULAR_COLLISION"> सड़क हादसा </MAN_MADE_EVENT> हो गया। हादसे में तेज रफ्तार ट्रक और कार की टक्कर भिड़ंत हो गई जिसमें 10 लोगों की मौत हो गई। 
+
+ जांच में सामने आया है कि <REASON-ARG ID="4"><LINK EVENT_ARG="0" ID="8" TYPE_REL="EVENT_ARG"/> तेज रफ्तार होने के कारण यह दुर्घटना हुई। </REASON-ARG> इस दुर्घटना में ट्रक के ड्राइवर और क्लीनर की भी मौत हो गई। हादसे में दो अन्य लोग गंभीर रूप से घायल हुए हैं। उन्हें इलाज के लिए यवतमाल के सरकारी अस्पताल में भर्ती करवाया गया है। मौके पर पुलिस ने बताया कि अभी तक यह जानकारी नहीं मिल पाई है कि ये गाड़ियां एक-दूसरे से टकराईं कैसे। 
+
+</DOCUMENT>
